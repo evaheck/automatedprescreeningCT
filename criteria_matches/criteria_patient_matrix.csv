@@ -1,0 +1,1035 @@
+criterion_id,criterion_text,patient_0001,patient_0002,patient_0003,patient_0004,patient_0005,patient_0006,patient_0007
+critere_0001,"""secondary"" ICH: ICH resulting from intracranial vascular malformation, intracranial venous thrombosis, head trauma or tumour; haemorrhagic transformation within an infarct",true,false,unknown,true,true,true,false
+critere_0002,"(a) T1DM at Screening Visit: (i) For US only: patients with T1DM treated with SGLT2i for at least 4 months, without DKA during that period, and who have experience with ketone monitoring are eligible for inclusion.",unknown,false,unknown,unknown,true,unknown,false
+critere_0003,(b) Uncontrolled T2DM at screening: HbA1C \> 10.5% (\> 91 mmol/mol).,unknown,false,unknown,unknown,unknown,false,false
+critere_0004,"(ii) For Japan only: patients with T1DM treated with dapagliflozin 10 mg for at least 4 months, without DKA during the period of dapagliflozin treatment are eligible for inclusion.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0005,"\* patients may enrol during the first 6 months of standard endocrine therapy, and wait until at least 6 months of endocrine therapy has been received prior to starting ctDNA surveillance",unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0006,"≤ MAS \< 4 on elbow or wrist flexors,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0007,≥ 18 and ≤ 55 years for phase I,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0008,≥ 18 and ≤ 60 years for phase II.,unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0009,a head size incompatible with the use of a personalized 3D headcast or a magnetoencephalography,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0010,A history of stroke or recent trauma to the head,true,false,unknown,true,true,unknown,false
+critere_0011,"A pacemaker, insulin or other pump, neurostimulator, cochlear implants or other hearing aid, metal stents, prosthesis, or implants, intracerebral clips, implantable defibrillator, cerebral shunt or ventricular catheter, other foreign metal objects in the upper part of the body",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0012,A piercing or obstruction in the nostrils that could impede vaccine administration.,true,false,true,true,true,true,false
+critere_0013,"Able to follow a rehabilitation program on medical opinion (no medical issues or acute intercurrent medical events),",true,true,true,true,true,true,true
+critere_0014,Able to swallow tablets,unknown,false,unknown,unknown,true,unknown,true
+critere_0015,Able to understand and voluntarily sign a written informed consent before any screening procedures.,false,false,false,false,false,false,true
+critere_0016,"Able to understand, read, and write French,",true,false,true,true,true,true,true
+critere_0017,"Abnormal and deemed clinically significant result by the investigator following the routine analyzes carried out at the time of the screening visit (any grade 4 biological result, even if deemed not clinically significant by the investigator, constitutes an exclusion criterion).",true,false,true,true,true,true,false
+critere_0018,Absence of health insurance,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0019,"Absence of hepatocellular carcinoma outside at least one nodule \&gt; 3 cm in diameter, or more than 3 nodules, on ultrasound, CT-scan or MRI performed during the previous 6 months",true,false,true,true,true,true,false
+critere_0020,Absence of metastatic disease,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0021,absence of pre-existing neurological handicap (mRS 0-2),true,false,unknown,false,true,unknown,false
+critere_0022,"Absence of severe progressive neurologic and/or somatic pathologies (specially tumors, degenerative diseases)",true,false,true,true,true,true,false
+critere_0023,"Active bleeding,",unknown,false,unknown,true,unknown,unknown,unknown
+critere_0024,"Active cardiac disease or history of cardiac dysfunction, including any of the following:",unknown,false,unknown,true,unknown,unknown,false
+critere_0025,active cause of cirrhosis and:,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0026,"Active cause of cirrhosis, or resolution (alcohol cessation, sustained virological response to direct-acting antiviral treatment for HCV, initiation of nucleoside/nucleotide analog treatment for HBV) for at least 6 months",unknown,false,true,unknown,true,unknown,false
+critere_0027,"Active inflammatory bowel disease or chronic diarrhea, short bowel syndrome, or major upper gastrointestinal surgery including gastric resection.",unknown,false,unknown,true,unknown,true,false
+critere_0028,"Active or uncontrolled infections (e.g., sepsis, tuberculosis, hepatitis B or hepatitis C at the screening visit, human immunodeficiency virus\[HIV\]) that could complicate participation in the study.",unknown,false,unknown,unknown,unknown,false,false
+critere_0029,Active systemic bacterial or fungal infection (requiring intravenous \[IV\] antibiotics or antifungals at the time of initiating study treatment).,unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0030,acute / chronic renal insufficiency (Cl \<50ml / min),unknown,false,unknown,unknown,true,unknown,false
+critere_0031,Adequate organ function,unknown,false,unknown,unknown,true,unknown,unknown
+critere_0032,Administrative problems:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0033,"Admitted within 12 hours of stroke onset. For wake-up strokes, time of last seen well will be considered as stroke onset",false,false,true,true,true,unknown,false
+critere_0034,"Adolescents aged 14+/- 6 months,",false,false,true,true,true,true,false
+critere_0035,"Adult patient \> 18 years old,",false,false,true,true,true,true,false
+critere_0036,Adult patient ≥18 years old,false,false,true,true,true,true,false
+critere_0037,"Adult patient,",false,false,true,true,true,true,false
+critere_0038,Adult patients,false,false,true,true,true,true,false
+critere_0039,Adults who are deprived of their liberty by judicial or administrative decision,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0040,Advanced or moderate chronic kidney disease (eGFR 15 to 44.9 mL/min/1.73m² using CKD-EPI formula),unknown,false,unknown,unknown,unknown,false,false
+critere_0041,Affiliated or entitled participant in a social security scheme,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0042,Affiliated to or beneficiary of a health insurance system (including AME),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0043,Affiliated to social security,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0044,"Affiliated with a social security scheme,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0045,Affiliation of health care assurance,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0046,Affiliation of the patient to a social security scheme,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0047,Affiliation to social security,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0048,affiliation to social security or benefiting through a third person,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0049,Affiliation with or beneficiary of a social security program (health insurance),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0050,Affiliation with or beneficiary of a social security program (health insurance),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0051,Age \<18 years,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0052,"Age \<18 years old,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0053,Age \> 70 years,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0054,Age ≥ 18 years,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0055,Age ≥ 18 years old,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0056,Age ≥ 18 years old,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0057,Age ≥18 years,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0058,Age between 18 and 40 years old.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0059,Age over 18 years,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0060,Agree to abstain from donating blood/plasma or any other bodily fluids from the time of vaccination until 1 year after vaccination (only for LVT-001 vaccine).,unknown,false,false,unknown,unknown,false,false
+critere_0061,Agree to be registered in the computerized file of the Ministry of Health (VRB).,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0062,Agree to implement barrier measures as much as possible (washing hands and wearing a mask) against COVID-19 and respiratory infections between D0 and D28.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0063,Agree to stay in the geographical area of one of the clinical sites for the duration of the trial.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0064,"Alcohol consumption \> 14 units/week for women or \> 21 units/week for men, current or abstinent for less than 6 months",unknown,false,unknown,unknown,true,unknown,true
+critere_0065,Alcohol ingestion before the examination,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0066,All musculoskeletal conditions affecting the cervical spine less than 6 months old.,unknown,unknown,true,unknown,true,unknown,unknown
+critere_0067,All musculoskeletal conditions affecting the upper limb less than 6 months old.,unknown,false,true,unknown,true,unknown,false
+critere_0068,All participants must sign informed consent before the start of the study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0069,Allergy or hypersensitivity to cold,unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0070,Allergy to any excipient known to be present in the probiotic or placebo formulation,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0071,Amblyopia,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0072,An Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 assessed within 7 days before first dose of study treatment,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0073,Anatomical anomaly of the venous sinus which would prevent safe catheterization and stenting,true,unknown,unknown,true,true,unknown,unknown
+critere_0074,"Anticipated disability to attend all the visits, treatments and measures planned by the protocol: severe personality disorder, severe substance addiction, severe intellectual development disorder. In any of those cases, the notion of severity is at the indiscretion of the investigator",unknown,false,true,true,true,true,false
+critere_0075,Anticipated length of hospital stay in a participating centre ≥ 5 days,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0076,Any active tumor of non-breast-cancer histology.,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0077,Any acute kidney injury within 3 months prior to the Screening Visit,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0078,Any clinical condition requiring systemic immunosuppression therapy other than stable maintenance therapy for at least 3 months prior to Visit 1.,false,false,false,false,false,false,false
+critere_0079,"Any concurrent disease or serious medical condition or abnormality in clinical laboratory tests that, in the investigator's judgment, precludes the patient's safe participation in and completion of the study.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0080,"Any condition that, in the opinion of the investigator, would make the subject's participation in the study undesirable or that would compromise compliance with the protocol",true,unknown,true,true,true,true,true
+critere_0081,"Any constitutional or acquired hemorrhagic disease, (including digestive hemorrhages, history of hemorrhagic stroke and thrombocytopenia",unknown,unknown,true,unknown,unknown,true,unknown
+critere_0082,any dental apparatus containing metal including or root canals,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0083,Any dialysis (including for acute kidney injury) within 3 months prior to Screening Visit.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0084,any foreign metallic object anywhere in the body,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0085,Any form of contraindication to the trial vaccines tested.,unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0086,"Any medical or active psychological condition or any clinically relevant laboratory abnormalities, such as, but not limited, to elevated ALT or AST (\> 3 × ULN) in combination with elevated bilirubin (\> 2 × ULN), at the screening/baseline visit.",true,true,true,true,true,true,true
+critere_0087,"Any other condition or previous therapy that, in the opinion of the Investigator or their designee, would render the participant unsuitable for this study, including an inability to fully comply with the study protocol requirements or a likelihood of noncompliance with study procedures.",true,unknown,true,true,true,true,true
+critere_0088,"Any other condition or previous therapy that, in the opinion of the Investigator or their designee, would render the patient unsuitable for this study, including an inability to fully comply with the study protocol requirements or a likelihood of noncompliance with study procedures.",true,unknown,true,true,true,true,true
+critere_0089,"Any other condition that, in the opinion of the investigator, would compromise the safety or rights of a volunteer participating in the trial or render the subject unable to comply with the protocol.",unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0090,"Any other reason which in the opinion of the investigator, could interfere with the evaluation of the study objectives.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0091,Any other serious chronic illness requiring immediate monitoring by a hospital specialist.,true,unknown,true,true,true,true,unknown
+critere_0092,Any patient for whom IGB is contraindicated \[criteria defined by the French Society for Digestive Endoscopy) and the French Think-Tank for Hepato-Gastroenterology Practices\]:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0093,"Any significant co-morbidity that would impact the study or the subject's safety, including subjects with significant malabsorption.",true,unknown,true,true,true,true,unknown
+critere_0094,Any tumor size (pT stage);,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0095,"Any use of mineralocorticoid receptor antagonists (such as spironolactone, eplerenone, or finerenone), potassium-sparing diuretics (such as triamterene or amiloride), or potassium binders (such as sodium zirconium cyclosilicate, patiromer, or sodium polystyrene sulfonate) within 4 weeks prior to screening.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0096,"Apparent wound, which may postpone inclusion, or very fragile skin,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0097,"Arterial hypertension treated with at least one blood pressure lowering drug therapy among blockers of the renin-angiotensin system (ACEi or ARB), at the maximal posology tolerated by the patients stable since at least one month. Other blood pressure lowering drug therapies are tolerated.",false,false,unknown,unknown,unknown,false,false
+critere_0098,Asthma according to the Global Initiative for Asthma (GINA) criteria,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0099,"Asymptomatic,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0100,At least 1 or more ESR1 point mutations in the ESR1 ligand binding domain as assessed in cell- free ctDNA obtained from a blood or breast cancer tissue.,unknown,false,unknown,unknown,unknown,true,false
+critere_0101,At least one of the following criteria:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0102,Autosomal dominant polycystic kidney disease treated with Tolvaptan,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0103,"Available tissue from one archival tumour tissue sample (either from diagnostic biopsy, primary surgery or where available residual disease post-neoadjuvant chemotherapy)",unknown,false,true,true,true,true,false
+critere_0104,"B. Tumour size \> 5 cm, regardless of lymph node status, or",unknown,true,unknown,unknown,unknown,true,true
+critere_0105,Be affiliated to French social security system.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0106,Be male or female between the ages of:,false,false,true,true,true,true,false
+critere_0107,Be non-athletic,unknown,unknown,true,true,unknown,true,unknown
+critere_0108,Be registered as a student at the University of Orléans,false,false,true,true,true,true,false
+critere_0109,Beck Scale for Suicide Ideation (BSS) score ≥8,unknown,unknown,true,unknown,unknown,true,unknown
+critere_0110,Being female,false,false,true,true,true,true,false
+critere_0111,"Being pregnant or breastfeeding,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0112,"Being processed Cancer (chemotherapy, radiotherapy or hormone therapy)",unknown,false,unknown,unknown,unknown,true,false
+critere_0113,Being under guardianship or curatorship.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0114,Biliary cirrhosis,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0115,Blood eosinophilia greater than 4.5 G/I,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0116,BMI and Brunt Fibriosis score:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0117,"BMI: 18,5 Kg/m2 ≤ BMI ˂30Kg/m2.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0118,"Body mass index (BMI) between 18.5 and 24.9 kg/m²,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0119,Body Mass Index (BMI) between 35 and 60 kg/m2 inclusive,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0120,Body Mass Index (BMI) of 18.0 to 32.0 kg/m2 (inclusive); and a total body weight \>50.0 kg (110 lbs) and \<100.0 kg (220 lbs) at screening and Day -1.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0121,Body mass index \> 35 and \< 50 kg/m2,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0122,"bolts, screws",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0123,Brain metastases are allowed only if the following 4 parameters hold:,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0124,"C. 1-3 involved axillary lymph nodes and at least one of the following; i) Tumour size \> 3 cm, ii) histological grade 3 iii) high genomic risk defined as Oncotype Dx Recurrence Score \>=26, Prosigna score \>=60, EPclin risk score \>=4.0, or Mammaprint high risk category, or",true,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0125,Cancer diagnosed within the last 5 years,unknown,false,unknown,unknown,unknown,false,false
+critere_0126,Candidate for Gastric By-Pass,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0127,"Candidates for RY gastric By-pass bariatric surgery,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0128,Cardiac arrhythmia.,unknown,false,unknown,true,true,unknown,false
+critere_0129,"Cardiac or vascular disease, or a heart condition (including symptoms of Raynaud's syndrome)",true,false,true,true,unknown,unknown,false
+critere_0130,CARLSSON score (score ≥ 4) preoperatively,unknown,false,false,false,false,false,false
+critere_0131,"Central laboratory serum potassium must meet the following criteria at the Screening Visit, based on screening eGFR:",false,false,false,false,false,false,false
+critere_0132,Central nervous system disease stable for \>3 months prior to registration as documented by magnetic resonance imagining (MRI).,false,false,true,false,unknown,unknown,false
+critere_0133,"Cerebral vascular lesions (arteriovenous malformation, arteriovenous fistula, aneurysms, significant stenosis of extra- or intra-cranial vessels other than the targeted venous sinus stenosis, intracranial artery dissection, etc.).",true,true,unknown,unknown,true,unknown,true
+critere_0134,Certain infectious endocarditis according to Dukes Criteria,unknown,false,true,unknown,unknown,unknown,false
+critere_0135,Certificate of no contraindication by a psychiatrist,unknown,false,unknown,true,unknown,unknown,unknown
+critere_0136,Certificate of non-contraindication issued by the referring physician,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0137,"CGI-Severity score\<6 assessed by the psychiatrist (Berk et al., 2008) ISMI score indicating moderate to high self-stigma (\>2.5; Lysaker et al., 2007)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0138,Characterized depressive disorder with psychotic characteristics within 3 months before the inclusion (DSM-5),unknown,false,unknown,unknown,unknown,unknown,false
+critere_0139,Child-Pugh A or B,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0140,Childbearing women must have an efficient contraception for the whole study period,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0141,Cholangiocarcinoma,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0142,Chronic alcohol or drug abuse,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0143,"Chronic hypertension, whether treated or not, know before pregnancy or diagnosed before randomization",true,true,unknown,unknown,unknown,unknown,true
+critere_0144,Chronic pain,unknown,false,unknown,unknown,unknown,true,false
+critere_0145,Chronic phase (\> 3 months),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0146,Cirrhosis Child B-C,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0147,claustrophobia,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0148,"Clinical diagnosis of OS, with confirmed TRPV3 or PERP mutation, and visible palmoplantar keratoderma.",true,false,true,true,true,unknown,false
+critere_0149,Clinical signs of dysphagia,true,false,true,true,true,true,false
+critere_0150,Clinical signs of hypovolemia,true,unknown,true,true,true,true,unknown
+critere_0151,Coagulopathy or other pathology that contraindicates biopsy procedures,unknown,false,unknown,unknown,unknown,true,false
+critere_0152,"Cognitive deficit (clinical screening, confirmed by an QI \< 80 on the Weschler scale (WISC V), carried out as part of the usual treatment in the event of clinical evidence.",true,unknown,unknown,true,true,true,unknown
+critere_0153,"Cognitive impairment pre-existing stroke (CQI code \> 3.4) (Law et al., 1995)",true,unknown,unknown,unknown,true,true,unknown
+critere_0154,Collection of informed written consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0155,Collection of informed written consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0156,Complete COVID-19 vaccination schedule according to current guidelines,unknown,unknown,true,unknown,unknown,true,unknown
+critere_0157,"Complete portal vein thrombosis (main portal trunk, or right branch), or portal cavernoma",unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0158,Completed adjuvant radiation therapy (if indicated) and recovered before randomization,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0159,"Concomitant participation to another interventional clinical trial, excepted eventual ancillary researches validated by the study scientific committee. Participation to non-interventional researches is allowed.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0160,Consent form signed,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0161,Consumption of at least 1 serving/day of dairy products made from cow's milk,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0162,"Contra-indication to aspirin (bleeding disorders such as von Willebrand's disease, active peptic ulceration, hypersensitivity to aspirin, active peptic ulceration, NSAID-exacerbated respiratory disease, severe liver or heart dysfunction)",unknown,unknown,true,true,unknown,unknown,unknown
+critere_0163,"Contra-indication to aspirin, clopidogrel or other P2Y12 anti-aggregant",unknown,false,unknown,true,unknown,unknown,false
+critere_0164,Contra-indication to general anesthesia,unknown,false,unknown,true,true,unknown,false
+critere_0165,"Contra-indication to MRI : claustrophobia, ocular metallic foreign bodies (accidental or other) or in a risk area (nervous or vascular system);irremovable implanted medical device (pacemaker, neurostimulator, cochlear implants and others);metallic heart valve (mainly old heart valves) or vascular clips previously implanted on cranial aneurysms; gadolinium allergy",unknown,unknown,true,true,true,unknown,unknown
+critere_0166,Contraindication to bariatric surgery,unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0167,Contraindication to diuretics involved in the algorithm,unknown,false,unknown,true,true,unknown,false
+critere_0168,Contraindication to hormonal treatment (see paragraph 1.5),unknown,false,unknown,true,unknown,unknown,false
+critere_0169,Contraindication to undergoing brain MRI,unknown,unknown,true,true,unknown,true,unknown
+critere_0170,Contraindications or known hypersensitivity to the trial medication or excipients.,true,false,unknown,unknown,unknown,true,false
+critere_0171,Contraindications related to the radiofrequency technique:,unknown,false,true,unknown,unknown,true,false
+critere_0172,Contraindications to physical activity,unknown,false,unknown,unknown,unknown,true,false
+critere_0173,"Covered by a health insurance system where applicable, and/or in compliance with the recommendations of the national laws in force relating to biomedical research.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0174,Criteria relating to contraindications to the explorations provided for by the MRI protocol:,unknown,false,true,true,true,true,false
+critere_0175,Criterion A: current characterized depressive disorder and characterized depressive disorder for at least 12 months during the last 24 months despite at least four treatments lines at appropriate dosage and duration,unknown,false,unknown,true,true,true,false
+critere_0176,Criterion B: current treatment by ECT and criteria A before the start of the ECT treatment or ECT dependency criteria,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0177,Current anticoagulant treatment,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0178,Current medical history of cancer requiring chemotherapy,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0179,"Current or recent treatment (within the last 12 months) with other physical methods: vaginal laser, photobiomodulation, PRP injection, hyaluronic acid injection or lipo-modeling.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0180,Current participation in any clinical research trial involving an investigational drug or device within the last 30 days.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0181,Current treatment with medications that are well known to prolong the QT interval.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0182,"Currently participating or participated in any other clinical trial of an IMP or device, within the past 4 months before the screening visit.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0183,"Cutaneous infection of the area to be treated with IMP within 2 weeks before the screening visit or any infection of treatment area requiring treatment with oral, parenteral antibiotics, antivirals, antiparasitics or antifungals or any topical within 2 weeks before the screening visit.",unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0184,Cutaneous infection or another underlying condition of the skin which may impact the assessments or trial participants.,true,unknown,true,true,true,true,true
+critere_0185,D. At least one lymph node positive (micrometastasis or macrometastasis) after chemotherapy,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0186,"Decompensated cirrhosis (MELD\> 7 CPT score\> 5, previous history of decompensation (encephalopathy, ascites, jaundice, varicose vein rupture)",true,unknown,unknown,true,true,unknown,unknown
+critere_0187,Deficit still existing (Rankin score ≥ 3 and ≤ 4 at inclusion),unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0188,"Definitively treated (e.g., radiotherapy, surgery),",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0189,Dependence on alcohol or psychoactive substances such as drugs,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0190,"Deprived of their liberty by court or administrative decision,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0191,Diabetes,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0192,Diabetes mellitus:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0193,Diabetic foot ulcers.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0194,Diagnosed as having a progressive general pathology,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0195,Diagnosis of Chronic Obstructive Pulmonary Disease (COPD),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0196,"Diagnosis of cirrhosis based on a liver biopsy, or on clinical, biological, endoscopic, and radiological evidence",true,unknown,true,true,true,true,unknown
+critere_0197,Diagnosis of Major Depressive Disorder according to the 5th edition of Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria and confirmation by the MINI Structured Clinical Interview,unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0198,Diagnosis of recurrent depressive trouble or persistent depressive disorder or bipolar disorder (according to DSM-5),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0199,Dietary restriction (vegetarian or lactovegetarian) or high protein diet,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0200,"Disability, according to the investigator, to understand the study or refusal to sign the study consent form (non-francophone patient, cognitive disorders)",true,false,unknown,true,true,true,false
+critere_0201,Distant metastasis at the time of diagnosis;,unknown,false,unknown,unknown,unknown,false,false
+critere_0202,"Documented estrogen receptor (ER)-positive tumor in accordance to ASCO/CAP guidelines (Allison et al. 2020),47 assessed locally and defined as ≥1% of tumor cells stained positive.",unknown,false,false,true,true,false,false
+critere_0203,"Documented Human epidermal growth factor receptor 2 overexpressing and/or amplified (HER2+), metastatic breast cancer (mBC) or metastatic gastric adenocarcinoma, gastroesophageal junction adenocarcinoma, or esophageal adenocarcinoma (mGEAC).",unknown,false,unknown,unknown,unknown,true,false
+critere_0204,"Documented human epidermal growth factor receptor-2 (HER2)-negative tumor in accordance to 2018 ASCO/CAP guidelines (Wolff et al. 2018)48, as determined per local assessment.",true,false,true,true,true,false,false
+critere_0205,Documented investigator assessed progression after HER2-directed treatment (including treatment with trastuzumab deruxtecan (T-DXd) for non-T-DXd combination cohorts) for unresectable locally advanced or metastatic disease.,true,false,unknown,unknown,unknown,true,true
+critere_0206,Dosed in another clinical trial within at least 10 tissue half-lives prior to dosing or 4 months.,unknown,false,unknown,unknown,false,false,false
+critere_0207,Drinking more than 3 glasses of alcohol per day (\>30g/day),unknown,false,unknown,unknown,unknown,unknown,false
+critere_0208,Drug abuse within the past year.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0209,"Duodenal ulcer,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0210,"Dyskalemia (\<3,5 mmol/L or \>5,5 mmol/L)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0211,E. Lymph node negative and tumour size \> 3 cm after chemotherapy,unknown,false,unknown,unknown,unknown,false,false
+critere_0212,early limitation of life-sustaining care,unknown,unknown,true,true,unknown,true,unknown
+critere_0213,Eastern Cooperative Oncology Group (ECOG) performance score of 0 or 1,unknown,false,unknown,unknown,true,false,false
+critere_0214,Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1.,unknown,false,unknown,unknown,true,false,false
+critere_0215,Eastern Cooperative Oncology Group (ECOG) score of 0 or 1. Further,unknown,false,false,false,true,false,false
+critere_0216,Eastern Cooperative Oncology Group Performance Status 0-1.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0217,Eating disorder or mental disorder,unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0218,"ECOG performance status 0, 1 or 2 (see https://ecog-acrin.org/resources/ecog-performance-status)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0219,Effective contraception for women,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0220,"Eligible for upfront breast conservative surgery or upfront mastectomy: stage I, stage II or operable stage III (excludes T4) (AJCC Cancer Staging Manual 8th edition 2017).46 Tumor size must be ≥1.0 cm Multicentric and multifocal tumors and bilateral breast cancers are allowed but investigators must ensure the same tumor foci is biopsied pre-treatment and post-treatment (e.g., via clipping of the biopsied tumor foci).",unknown,true,true,unknown,unknown,true,true
+critere_0221,Epilepsy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0222,Esophagitis of grade B and above on the Oeso-Gastro-Duodenal Fibroscopy,unknown,false,unknown,unknown,unknown,true,false
+critere_0223,Estradiol (E2) in the premenopausal range (according to institution parameters) or Patient has been menstruating regularly during the 6 months prior to screening and has not used any form of hormonal contraception or any other hormonal treatments during this time.,unknown,false,unknown,true,true,unknown,false
+critere_0224,"Evidence of an informed consent document, signed and dated by the subject, indicating that the subject has been informed of all pertinent aspects of the study prior to initiation of any subject-mandated procedures.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0225,Evidence of an uncontrolled seizure disorder,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0226,"Evidence of intracranial hemorrhage (subarachnoid hemorrhage (SAH), intracerebral hemorrhage (ICH), etc.)",true,unknown,unknown,unknown,true,unknown,unknown
+critere_0227,"Evidence or history of clinically relevant hepatic, hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic, or allergic disease.",true,false,true,true,true,true,false
+critere_0228,Except for chemotherapy as neoadjuvant therapy for early-stage TNBC: Received prior systemic anticancer therapy including investigational agents within 4 weeks before randomization,unknown,false,unknown,unknown,unknown,false,false
+critere_0229,"Except for pembrolizumab as neoadjuvant therapy for early-stage TNBC: received prior therapy with an anti-programmed cell death 1 protein (anti-PD-1), anti-programmed cell death ligand 1 (anti-PD-L1), or anti-PD-L2 agent, or with an agent directed to another stimulatory or coinhibitory T-cell receptor (eg, cytotoxic T-lymphocyte-associated protein-4 \[CTLA-4\], OX-40 \[cluster of differentiation (CD) 134\], or CD137)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0230,Existing declaration of informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0231,Expected follow-up \< 3 months,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0232,"Exposure to an oral drug (other than ACZ), substance, or disorder that has been associated with elevation of intracranial pressure within 2 months of diagnosis (lithium, vitamin A, tetracycline and related compounds)",false,true,true,true,true,true,true
+critere_0233,Extra-hepatic cancer without remission,unknown,false,unknown,unknown,unknown,true,false
+critere_0234,"Failure of other medical cares (medical, nutritional, dietetic and psychotherapeutic treatment) well conducted for 6 to 12 months.",false,false,true,true,false,true,false
+critere_0235,"Female and male patients of reproductive potential must be willing to use an adequate method of contraception for the first three years of the trial, if randomised to standard endocrine therapy for the duration of trial treatment through to at least 4 weeks after the last dose of trial treatment, and if randomised to fulvestrant and palbociclib to 2 years after the last dose of fulvestrant (see section 4.6). Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception for the patient.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0236,"Female participants of non-childbearing potential, childbearing potential and males capable of fathering a child must meet the contraception requirements.",unknown,false,unknown,unknown,unknown,true,false
+critere_0237,"Female participating in the study must be either of non-child bearing (surgically sterilized at 6 month prior to screening or postmenopausal) or using an efficient contraception: hormonal contraception (including patch, contraceptive ring etc) intra-uterine device or other mechanical contraception",unknown,false,unknown,unknown,unknown,true,false
+critere_0238,Fibroscan ≥ 9kPa or FibrometreVM ≥0.526 predicting a F3 or F4 fibrosis score grade within 1 month before inclusion Or F3 or F4 fibrosis score grade diagnosed by hepatic biopsy performed before inclusion.,unknown,false,unknown,unknown,unknown,false,false
+critere_0239,First cerebral infarction,true,false,unknown,unknown,unknown,unknown,false
+critere_0240,"First stroke ever \< 6 weeks, confirmed by imaging,",true,false,true,true,true,true,false
+critere_0241,flutter patient or atrial fibrillation,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0242,Food allergies or intolerance to dairy products,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0243,"For a woman of childbearing potential, plan to be non-pregnant AND use of highly effective contraception from screening until the end of the trial.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0244,For all experiments:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0245,For All Experiments:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0246,For all subjects:,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0247,"For child-bearing aged women, contraception using oestroprogestative, progestative, intrauterine device, or mechanical contraception",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0248,for ctDNA Surveillance:,unknown,false,unknown,unknown,unknown,true,false
+critere_0249,"For dose optimization (Phase II): Patient must provide tumor tissue from locations not radiated prior to biopsy, if possible, collected through archival tissue.",unknown,false,false,false,false,false,false
+critere_0250,For F3 fibrosis patients: 35\>BMI≥ 30kg/m² ; Fibroscan ≥ 9kPa or FibrometreVM ≥0.526 predicting a F3 fibrosis score grade within 1 month before inclusion or F3 fibrosis score grade diagnosed by hepatic biopsy performed before inclusion.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0251,For F4 fibrosis patients: 50\>BMI≥ 30kg/m² ; Fibroscan ≥ 15kPa predicting a F4 fibrosis score grade within 1 month before inclusion or F4 fibrosis score grade diagnosed by hepatic biopsy performed before inclusion.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0252,"For females (assigned at birth), is not pregnant or breastfeeding and ≥1 of the following applies: is not a participant of childbearing potential (POCBP) OR is a POCBP and uses highly effective contraception after the last dose of study intervention (210 days for sacituzumab tirumotecan, 120 days for pembrolizumab, and 185 days for capecitabine). Abstains from breastfeeding during the study intervention period and for at least 120 days after study intervention",unknown,true,unknown,unknown,unknown,unknown,unknown
+critere_0253,"For hypertensive patients, hypertension must be controlled by stable dose of anti-hypertensive medication for at least 2 months prior to screening (and the stable dose can be maintained throughout the study).",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0254,"for participants with screening eGFR \< 45 mL/min/1.73 m2, potassium must be ≥ 3.0 and ≤ 4.5 mmol/L at the Screening Visit",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0255,"for participants with screening eGFR ≥ 45 mL/min/1.73 m2, potassium must be ≥ 3.0 and ≤ 4.8 mmol/L at the Screening Visit",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0256,For patients only : diagnosed with Binge Eating Desordors according to DSM criteria.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0257,"For patients taking part in the RTW WP: patient in an ""self employed"" or ""interim"" employment situation",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0258,For patients taking part in the RTW WP: Patients working part-timeProcedures for withdrawal of incorrectly enrolled patients are presented in Section 7.5.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0259,For patients taking part in the RTW WP: working patients at time of diagnostic and in sick leave at time of inclusion,unknown,unknown,true,true,true,true,unknown
+critere_0260,"For patients with cirrhosis, patients must fulfil all the following criteria: Platelets \> 125 000, PT \> 80 %, Albumin \> 35 g/L, MELD score at inclusion \< 9, CPT score \< 6, No history of previous decompensation, No oesophageal varices (endoscopy), No vascular shunt, ASA score ≤ III, Alcohol consumption lower than 20g/day for women and 30g/day for men.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0261,For patients:,unknown,unknown,true,true,true,true,unknown
+critere_0262,For relatives :,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0263,For the subjects of the group NO:,unknown,unknown,true,true,true,true,unknown
+critere_0264,For women of childbearing age: effective contraception implemented for at least 3 months.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0265,"free patient, without tutorship or curatorship or under judicial protection",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0266,"Free, informed and signed consent by the participant and/or the person having guardianship and the investigator (at the latest on the day of inclusion and before any examination required by the research);",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0267,French as native language,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0268,"Fulminant decrease of visual acuity due to the IIH defined as a visual loss (of the most seriously impaired eye) of at least 3/10 (from corrected vision) within 4 weeks, in absence of any other ophthalmologic pathology and Mean Deficit of visual field superior to -10 dB",false,false,unknown,false,false,unknown,unknown
+critere_0269,"Gastic Banding, Biliopancreatic diversion and all the new bariatric surgery techniques are forbidden because the study design allow only the laparoscopic sleeve gastrectomy or laparoscopic Roux-en-Y gastric Bypaass.",unknown,true,unknown,unknown,true,unknown,true
+critere_0270,Gestational age \<11 WG and \>14 WG,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0271,Girls aged 14 to 18 playing handball Handballers training at the Pôle Espoirs or the Centre Labellisé d'Entrainement 29 Players of legal age who have given their consent Signature of consent by parents for underage players,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0272,glasses (given the participant cannot use contact lenses),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0273,Global or sensory aphasia,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0274,"Good general health as determined at the discretion of the investigator (vital signs, medical history, and physical examination).",true,false,true,unknown,true,unknown,false
+critere_0275,"Gout,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0276,Had adequate excision and surgical removal of all clinically evident disease in the breast and/or lymph nodes and have adequately recovered from surgery,unknown,unknown,true,true,true,true,unknown
+critere_0277,Had neoadjuvant treatment based on the KEYNOTE-522 regimen (pembrolizumab with carboplatin/taxanes and pembrolizumab with anthracycline-based chemotherapy) followed by surgery according to National Comprehensive Cancer Network (NCCN) treatment guidelines for TNBC,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0278,Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 28 days prior the first dose of study drugs,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0279,Has a known germline breast cancer gene (BRCA) mutation (deleterious or suspected deleterious) and is eligible for adjuvant therapy with olaparib where olaparib is approved and available,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0280,"Has active autoimmune disease that has required systemic treatment in the past 2 years. Replacement therapy (eg, thyroxine, insulin, or physiologic corticosteroid) is allowed",unknown,unknown,true,unknown,unknown,true,unknown
+critere_0281,Has active infection requiring systemic therapy,unknown,unknown,true,unknown,true,true,unknown
+critere_0282,"Has active inflammatory bowel disease requiring immunosuppressive medication or previous history of inflammatory bowel disease (eg, Crohn's disease, ulcerative colitis, or chronic diarrhea)",unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0283,"Has centrally confirmed TNBC, as defined by the most recent American Society of Clinical Oncology/College of American Pathologists (ASCO/CAP) guidelines",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0284,Has concurrent active hepatitis B and hepatitis C virus infection,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0285,Has diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior the first dose of study medication,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0286,Has expressed interest and availability to meet the trial requirements.,unknown,unknown,true,unknown,true,unknown,true
+critere_0287,Has Grade \>2 peripheral neuropathy,unknown,unknown,unknown,unknown,true,true,unknown
+critere_0288,Has history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0289,Has history of allogeneic tissue/solid organ transplant,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0290,Has known additional malignancy that is progressing or has required active treatment within the past 5 years,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0291,"Has no evidence of locoregional or distant relapse, as assessed by the treating physician",true,unknown,unknown,unknown,unknown,true,true
+critere_0292,Has non-pathologic complete response at surgery,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0293,Has provided tissue from the surgical resection for central laboratory determination of trophoblast cell surface antigen 2 (TROP2) status,unknown,unknown,true,true,true,true,unknown
+critere_0294,Has received an investigational agent or has used an investigational device within 4 weeks prior to study intervention administration,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0295,"Has uncontrolled, significant cardiovascular disease or cerebrovascular disease including New York Heart Association Class III or IV congestive heart failure, unstable angina, myocardial infarction, uncontrolled symptomatic arrhythmia, prolongation of QTcF interval to \>480 ms, and/or other serious cardiovascular and cerebrovascular diseases within 6 months prior to study intervention",unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0296,Have a BMI between 18.5 and 30 kg/m2,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0297,Have a history of (non-infectious) pneumonitis / interstitial lung disease that required steroids or has current pneumonitis / interstitial lung disease,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0298,Have a known additional malignancy that is progressing or has required active treatment within the past 3 years.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0299,Have a known history of Hepatitis B (defined as HBsAg reactive) or known active Hepatitis C virus (defined as HCV RNA \[qualitative\] is detected) infection.n.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0300,Have a known history of HIV infection,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0301,"Have achieved a minimal BMI \< 18.5 or maximal BMI ≥ 25 kg/m² in adult life,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0302,"Have adequate hematological, hepatic and renal functions.",unknown,false,true,unknown,unknown,true,false
+critere_0303,"Have an active autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs).",unknown,false,true,unknown,false,true,false
+critere_0304,Have an active infection requiring systemic therapy,unknown,false,true,unknown,true,true,false
+critere_0305,"Have any other condition or reason that, in the opinion of the Investigator, would prohibit the subject from participating in the study.",true,false,true,true,true,true,true
+critere_0306,"Have at least 1 injectable measurable cutaneous, subcutaneous or nodal lesion (direct injection or through the use of ultrasound guidance) not exceeding 50mm in longest diameter and whenever possible 1 distant non-injected measurable lesion.",true,false,unknown,false,true,false,false
+critere_0307,Have failed and/or are intolerant to standard therapeutic options.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0308,Have had an allogenic tissue/solid organ transplant or allogenic stem cell or bone marrow transplantation,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0309,"Have had an ischemic and/or hemorrhagic stroke (\> 3 months post-stroke), impacting the motor skills of the upper limbs,",false,false,unknown,false,true,true,false
+critere_0310,Have had major surgery within 4 weeks of first study drug administration.,unknown,false,false,false,false,false,false
+critere_0311,"Have histologically confirmed, advanced/metastatic sarcoma (soft tissue and bone), Merkel cell carcinoma, melanoma, triple negative breast cancer or non-small cell lung cancer, with cutaneous or, palpable subcutaneous lesions or easily injectable lymph nodes.",unknown,false,unknown,unknown,true,true,false
+critere_0312,Have Internet access at home (computer) and are able to use the digital platform.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0313,Have known active CNS metastases and/or carcinomatous meningitis.,unknown,false,unknown,unknown,unknown,true,false
+critere_0314,Have no contraindication to the practice of physical activity,unknown,false,unknown,true,unknown,unknown,false
+critere_0315,Have received or receiving any live or live-attenuated vaccine within 30 days prior to the first dose of study intervention..,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0316,Have received prior radiotherapy within 2 weeks of start of study treatment or have had a history of radiation pneumonitis,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0317,Have received prior systemic anti-cancer therapy including investigational agents within 4 weeks prior to the start of treatment.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0318,"Have received prior therapy with an anti-PD-1, anti-PD-L1, or anti PD L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g., CTLA-4, OX 40, CD137), and was discontinued from that treatment due to a Grade 3 or higher immune-related Adverse Event (irAE).",unknown,false,false,false,true,false,false
+critere_0319,Have received prior treatment with a vaccinia oncolytic virus.,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0320,"Have severe hypersensitivity to the active substance or, to any of the excipients of (≥Grade 3) to pembrolizumab. and/or any of its excipients",unknown,false,false,unknown,unknown,true,false
+critere_0321,Having dated and signed an informed consent.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0322,Having given oral consent.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0323,Having given written consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0324,Having initiated puberty: tanner score ≥2 for FtM; tanner score ≥2 (clinic and/or testosterone \>0.3 ng/mL) for MtF,unknown,false,unknown,unknown,unknown,true,false
+critere_0325,Having received any of the prohibited treatments in Table 2 within the specified timeframe before inclusion.,unknown,false,false,unknown,unknown,false,false
+critere_0326,Having signed the consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0327,Having signed the consent form,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0328,Having treatment for a pathology at the time of inclusion,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0329,Healthy female and male participants.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0330,heart failure requiring inotropic administration at the time of randomization,unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0331,"Hemiparesis or hemiplegia of the upper limb (FMA-UE score \< 48), particularly in the wrist and elbow flexors,",true,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0332,"Hemostasis disorders, including hemophilia (with thrombocytopenia)",unknown,unknown,true,unknown,unknown,true,unknown
+critere_0333,"Hepatitis C, HIV infection (assay performed within 6 months prior to diagnosis of pre- eclampsia)",unknown,false,false,unknown,false,false,false
+critere_0334,Hepatocellular carcinoma,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0335,"Hepatocellular carcinoma with at least one nodule \> 3 cm in diameter, or more than 3 nodules",true,false,unknown,unknown,true,true,true
+critere_0336,High blood pressure or poor circulation,true,false,unknown,true,true,unknown,false
+critere_0337,"High likelihood of HVPG ≥ 12 mm Hg based on investigator's judgement, or on the following criteria:",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0338,Histological or cytological confirmation of ER+/HER2 - disease,unknown,false,unknown,unknown,unknown,true,false
+critere_0339,"Histologically confirmed, operable invasive breast carcinoma.",unknown,false,unknown,unknown,unknown,true,false
+critere_0340,"Histologically proven primary ER+ (Allred score 6/8 or greater, or stain in ≥10% of cancer cells) and HER2- (immunohistochemistry 0/1+ and/or negative by in situ hybridization) breast cancer as determined by local laboratory",unknown,false,unknown,unknown,unknown,false,false
+critere_0341,"History of a pulmonary embolus (PE), deep vein thrombosis (DVT), or any known thrombophilia, unless the event occurred greater than 6 months prior to screening and the subject is treated with chronic anticoagulant therapy such as apixaban (Eliquis) or rivaroxaban (Xarelto).",true,false,unknown,unknown,true,true,false
+critere_0342,"History of allergic reactions to dust and/or horsehair, or severe asthma",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0343,"History of angina pectoris, symptomatic pericarditis, myocardial infarction, or any cardiac arrhythmias (e.g., ventricular, supraventricular, nodal arrhythmias, or conduction abnormality) within 12 months prior to study entry History of documented congestive heart failure (New York Heart Association Class II-IV) or cardiomyopathy Left ventricular ejection fraction \<50% as determined by multiple-gated acquisition scan or echocardiogram QT interval corrected through use of Fridericia's formula (QTcF) \>470 ms based on mean value of triplicate ECGs, history of long or short QT syndrome, Brugada syndrome or known history of corrected QT interval prolongation, or torsades de pointes History or presence of an abnormal ECG that is clinically significant in the investigator's opinion, including complete left bundle branch block, second- or third-degree heart block, sick sinus syndrome, or evidence of prior myocardial infarction",unknown,false,true,true,false,true,false
+critere_0344,History of atrial fibrillation or other risks of stroke,true,false,unknown,unknown,unknown,unknown,false
+critere_0345,History of bariatric or digestive surgery or disease interfering with main outcomes,true,false,true,unknown,unknown,unknown,false
+critere_0346,"History of cancer, except:",unknown,false,unknown,unknown,unknown,true,false
+critere_0347,History of chronic obstructive pulmonary disease or other severe respiratory disease,unknown,false,unknown,true,true,unknown,false
+critere_0348,"History of chronic rhinitis, nasal septal defect, cleft palate, nasal polyps, or other nasal abnormality that might alter nasal mucosa and affect vaccine response.",unknown,false,unknown,true,true,unknown,false
+critere_0349,History of clinical ascites,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0350,history of clinical ascites in the last 6 months,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0351,History of deep vein thrombosis or pulmonary embolism,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0352,"History of documented hemorrhagic diathesis, coagulopathy, or thromboembolism.",true,unknown,true,unknown,true,true,unknown
+critere_0353,"History of documented severe dry eye syndrome, severe Meibomian gland disease and/or blepharitis, or severe corneal disease that prevents/delays corneal healing",unknown,true,unknown,true,true,unknown,true
+critere_0354,History of fainting or seizures,unknown,unknown,unknown,true,true,unknown,unknown
+critere_0355,History of frequent epistaxis.,unknown,false,unknown,unknown,true,true,false
+critere_0356,History of frostbite,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0357,History of Grade 3 or Grade 4 interstitial lung disease (ILD) on previous therapy.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0358,History of horse riding or hippotherapy care during the last 6 months,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0359,History of intracranial venous thrombosis or intracranial neoplasia,unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0360,"History of lactic acidosis, diabetic acidocetosis, or diabetic precoma",unknown,false,unknown,true,true,unknown,false
+critere_0361,History of long QTc (Q-T interval corrected for heart rate) syndrome or a QTc of \>480 msec.,unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0362,"History of malignancy within the past 5 years (excluding breast cancer), except basal cell or squamous cell carcinoma of the skin curatively treated by surgery.",unknown,true,unknown,unknown,unknown,true,true
+critere_0363,"History of myocarditis or congestive heart failure, unstable angina, uncontrolled infection, or myocardial infarction 6 months prior to clinical trial entry.",unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0364,History of non-compliance to medical regimens.,unknown,unknown,true,unknown,true,true,unknown
+critere_0365,"History of organ transplant or bone marrow transplant, or planned organ transplant within 6 months following randomisation (including kidney transplant).",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0366,History of PE in a previous pregnancy,unknown,unknown,unknown,unknown,true,true,unknown
+critere_0367,History of previously implanted intra-cranial sinus stent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0368,History of regular alcohol consumption exceeding 14 drinks/week for females or 21 drinks/week for males within 6 months of screening.,unknown,unknown,unknown,unknown,unknown,unknown,true
+critere_0369,"History of severe adverse events following vaccine administration including anaphylactic reaction and associated symptoms such as rash, breathing problems, angioedema, and abdominal pain, or a history of allergic reaction that could be triggered by a component of the SARS-COV-2 vaccine at the time of the first vaccine administration.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0370,"History of severe exfoliative skin conditions (e.g., eczema or atopic dermatitis) requiring systemic therapy for more than 4 weeks within 2 years prior to BT-001 initiation.",unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0371,"History of severe PE with delivery \< 34 weeks of gestation,",unknown,false,true,true,true,true,false
+critere_0372,History of severe psychiatric disorders that may affect participation in the trial.,unknown,false,unknown,true,true,unknown,false
+critere_0373,History of TIPS (transjugular intrahepatic portosystemic shunt) / surgical portosystemic derivation / liver transplantation / major hepatectomy,unknown,false,unknown,unknown,true,unknown,false
+critere_0374,History of uncontrolled pain,true,unknown,true,true,true,true,true
+critere_0375,History of upper limb surgery less than 6 months old.,unknown,unknown,unknown,true,true,unknown,unknown
+critere_0376,"History of ventricular dysrhythmias or risk factors for ventricular dysrhythmias such as structural heart disease (e.g., severe left ventricular systolic dysfunction, left ventricular hypertrophy), coronary heart disease (symptomatic or with ischemia demonstrated by diagnostic testing), clinically significant electrolyte abnormalities (e.g., hypokalemia, hypomagnesemia, hypocalcemia), or family history of long QT syndrome.",true,unknown,true,true,true,true,unknown
+critere_0377,"History or ongoing allergy/hypersensitivity, as judged by the investigator, to SGLT2 inhibitor (eg, empagliflozin) or ASI.",unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0378,"History or presence of symptomatic bradycardia or resting heart rate \<50 bpm at screening. Patients on stable dose of a beta-blocker or calcium channel antagonist for pre-existing baseline conditions (e.g., hypertension) may be permitted if resting heart rate is ≥50 bpm.",unknown,false,unknown,unknown,true,unknown,false
+critere_0379,HIV positive patients,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0380,HIV-infected participants with a history of Kaposi's sarcoma and/or Multicentric Castleman's Disease,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0381,Hormonal treatment needs to be adjusted (FtM patients treated with anti-coagulants or with thrombophilia).,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0382,Hospital admission due to neurovascular emergency,true,unknown,unknown,true,true,unknown,unknown
+critere_0383,"Hospitalised in a neurology department, or Neuro Vascular Unit (NVU), or in a department where beds are dedicated to receiving post-stroke patients",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0384,Human immunodeficiency virus (HIV)-infected participants must have well controlled HIV on antiretroviral therapy (ART),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0385,"Human immunodeficiency virus, or hepatitis B virus, or hepatitis C virus positive serum,",unknown,unknown,true,unknown,unknown,true,unknown
+critere_0386,"Hypersensitivity to salicylates such as aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs),",unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0387,Hyponatremia (\<130 mmol/L),unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0388,hypotension and / or severe hypovolemia with hemodynamic instability,unknown,unknown,unknown,true,true,unknown,unknown
+critere_0389,ICHT at the time of randomisation (ICP\> 25 mmHg for at least 20 min),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0390,"If anticoagulation therapy is required for a prosthetic heart valve, stable INR between 2.5 and 3.5 is permitted.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0391,"If capable of producing sperm, the participant agrees to the following during the intervention period and for at least the time needed to eliminate each study intervention after the last dose of study intervention (120 days for sacituzumab tirumotecan and 95 days for capecitabine \[no restriction for pembrolizumab\]): agrees to refrain from donating sperm AND is either abstinent and agrees to remain abstinent or uses highly effective contraception",unknown,true,unknown,unknown,unknown,unknown,true
+critere_0392,Illicit drug use within the past 12 months.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0393,Impossibility of giving the person informed information and ensuring the subject's compliance due to impaired physical and/or psychological health,true,unknown,true,true,true,true,true
+critere_0394,"Impossibility to submit to the medical follow-up of this clinical trial for geographical, social or psychological reasons",true,unknown,true,true,true,true,true
+critere_0395,In a palliative situation where life expectancy is \< 3 months,true,unknown,unknown,true,true,true,unknown
+critere_0396,Inability for the parents (or legal representative) to understand/fulfil study requirements;,unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0397,Inability or medical contraindication to travel to the Equiphoria Institute by personal car or taxi,unknown,unknown,true,true,unknown,unknown,unknown
+critere_0398,Inability to understand French,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0399,Inability to understand rehabilitation instructions and/or actively participate in the rehabilitation process,true,unknown,unknown,true,unknown,unknown,unknown
+critere_0400,"Incident cases, or prevalent cases with stable disease over the last 3 months",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0401,"Incident cases, or prevalent cases with stable disease over the last 3 months",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0402,"Including patients under guardianship, curatorship,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0403,"Including relative under guardianship, curatorship",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0404,Inclusion \> 3 months post-stroke,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0405,Indication of any systemic therapeutic strategy can be performed alongside this current cohort in accordance with national and / or international recommendations.,true,false,true,true,true,true,true
+critere_0406,Individual deprived of liberty or placed under the authority of a tutor,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0407,Individual has a baseline office diastolic blood pressure ≥ 90 mmHg,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0408,Individual has a documented condition that would prohibit or interfere with ability to obtain an accurate blood pressure measurement,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0409,Individual has an average systolic baseline home blood pressure ≥135 mmHg,unknown,false,unknown,false,unknown,unknown,false
+critere_0410,Individual has an estimated glomerular filtration rate (eGFR) of \<45,unknown,false,unknown,unknown,unknown,false,false
+critere_0411,Individual has documented type 1 diabetes mellitus or poorly-controlled type 2 diabetes mellitus with glycosylated hemoglobin greater than 8.0%,unknown,false,unknown,unknown,unknown,true,false
+critere_0412,Individual has one or more episode(s) of orthostatic hypotension,true,false,false,false,true,false,false
+critere_0413,Individual has primary pulmonary hypertension,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0414,Individual has undergone prior renal denervation,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0415,Individual is diagnosed with hypertension and has a baseline office systolic blood pressure ≥140 mmHg,true,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0416,"Individual is pregnant, nursing or planning to become pregnant",unknown,false,unknown,true,true,unknown,true
+critere_0417,Individual lacks appropriate renal artery anatomy,false,false,unknown,unknown,unknown,unknown,false
+critere_0418,Individual requires chronic oxygen support or mechanical ventilation other than nocturnal respiratory support for sleep apnea,true,false,unknown,unknown,true,unknown,false
+critere_0419,Individual with history of osteoporotic fracture and / or pathology or treatment causing secondary osteoporosis,true,unknown,unknown,true,true,true,unknown
+critere_0420,"Individual with severe spasticity of adductor muscles, hamstring, quadriceps and triceps surae. Severe spasticity is defined by a score of 4 on the modified Ashworth scale",true,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0421,Individually deprived of liberty or placed under the authority of a tutor,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0422,Inflammatory breast cancer (cT4d).,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0423,Informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0424,Informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0425,Initial BMI \<35Kg/m².,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0426,Initial BMI between 35Kg/m² and 40 Kg/m² associated with at least one severe comorbidity likely to be improved after surgery according to HAS recommendations.,unknown,false,true,true,true,true,false
+critere_0427,Initial BMI between 35Kg/m² and 40 Kg/m² without comorbidities.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0428,Inpatient or outpatient at the Adult Psychiatry Service,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0429,"INR \<1.5× ULN and PTT \<1.5x ULN Except for patients receiving anticoagulation therapy. For patients receiving warfarin, a stable INR between 2 and 3 is required. For patients receiving heparin, PTT between 1.5 and 2.5 x ULN (or value before patient started heparin treatment) is required.",unknown,true,true,unknown,unknown,true,true
+critere_0430,Insufficient knowledge of French,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0431,Interstitial lung disease that is symptomatic and may interfere with the detection or management of suspected drug-related pulmonary toxicity,unknown,false,true,true,true,true,false
+critere_0432,Investigator's judgement,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0433,Is able to continue on adjuvant pembrolizumab,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0434,Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study treatment,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0435,Is currently receiving a strong inducer/inhibitor of cytochrome P450 3A4 (CYP3A4) that cannot be discontinued for the duration of the study. The required washout period before starting sacituzumab tirumotecan is 2 weeks,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0436,Is taking an anticoagulant medication that cannot be interrupted prior to IT injections,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0437,Ischemic or haemorrhagic stroke according to ICD 10 I61-I69 (30),true,false,unknown,unknown,unknown,unknown,false
+critere_0438,"It is impossible to correctly inform the patient (language barrier, etc.)",unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0439,"It is impossible to correctly inform the patient (language barrier, etc.)",unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0440,IUD intrauterine device,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0441,"Judgement by the investigator that the patient should not participate in the study if the patient is unlikely to comply with study procedures, restrictions and requirements.",unknown,false,unknown,unknown,true,unknown,false
+critere_0442,Ki 67 ≥10% in diagnostic biopsy as determined per local assessment.,true,false,true,true,true,true,false
+critere_0443,Know pregnancy or breastfeeding,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0444,Known allergic reaction to plastic.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0445,Known allergy to milk proteins,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0446,"Known clinically significant history of liver disease consistent with Child-Pugh Class B or C, including hepatitis.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0447,"Known contrast product, Nickel, titanium allergy",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0448,Known ectopic pregnancy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0449,"Known hyperkalaemia, defined as potassium of ≥ 5.5 mmol/L within 3 months at screening.",unknown,false,unknown,unknown,false,false,false
+critere_0450,Known hypersensitivity to all the iodin-containing contrast agents,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0451,Known hypersensitivity to beta-lactam antibiotics if the patient has a history of valve replacement,unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0452,Known hypersensitivity to lidocaine for local anesthesia,unknown,unknown,unknown,true,unknown,true,unknown
+critere_0453,known hypersensitivity to milrinone or any of the excipients,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0454,Known hypersensitivity to the active substance or any of the excipients,unknown,unknown,true,unknown,unknown,true,unknown
+critere_0455,"Known infection with human immunodeficiency virus (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV).",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0456,Known issues with swallowing oral medication.,true,unknown,true,unknown,unknown,unknown,unknown
+critere_0457,Known multiple pregnancy,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0458,Known non-ongoing pregnancy,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0459,Known RB1 mutations or deletions that in the opinion of the investigator confer resistance to CDK4/6i. (Screening for RB1 mutation is not required for entry.),unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0460,Known relevant allergy to any drug or excipients in the formulation,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0461,Known relevant allergy to any drug or excipients in the formulation.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0462,Known sensitivity to any of the ingredients of the trial vaccines.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0463,known severe obstructive heart diseases,unknown,unknown,true,true,unknown,unknown,unknown
+critere_0464,Lasofoxifene is not recommended for use in subjects with conditions that place them at increased risk for VTEs (such as severe congestive heart failure \[CHF\] or prolonged immobilization).,true,true,true,true,true,true,true
+critere_0465,Left-handed,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0466,Legal issues: care under constraint or patient deprived of freedom because of a judicial measure 13. Patient who does not speak and read French sufficiently,unknown,false,false,false,true,true,true
+critere_0467,"Life expectancy of less than 1 year related to comorbidities (end stage cancer, end stage organ failure)",unknown,false,unknown,unknown,unknown,true,false
+critere_0468,Life expectancy under 6 months,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0469,Locally advanced and/or metastatic ER+ breast cancer with radiological or clinical evidence of progression on an AI in combination with either palbociclib or ribociclib as their first hormonal treatment for metastatic disease.,true,unknown,true,true,true,true,true
+critere_0470,Locally advanced or metastatic breast cancer with either measurable (according to RECIST 1.1) or non-measurable lesions.,true,unknown,unknown,true,true,true,unknown
+critere_0471,Lymphangitic carcinomatosis involving the lung.,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0472,MADRS score ≥ 18,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0473,"Major adverse cardiovascular event during the last three months: myocardial infarction, heart failure hospitalization, stroke",false,false,true,false,true,true,false
+critere_0474,Major cognitive impairment affecting comprehension (Mini Mental State Examination test \< 24 points),true,false,unknown,false,true,true,false
+critere_0475,major hydroelectrolytic disorders (hypokalemia \<3 mmol / L),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0476,major patient (≥ 18 years),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0477,Major protected by law,unknown,unknown,true,true,true,true,unknown
+critere_0478,Major surgery within 4 weeks prior to randomization.,unknown,false,false,false,false,false,false
+critere_0479,Major surgery within the last 3 months or any planned surgery during the trial.,unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0480,"Major surgery within the last 3 months, or minor surgery (requiring local anesthetic) during last 1 month, or any planned surgery during the trial.",unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0481,Male or female \>=18 years and \<80 years of age,unknown,unknown,true,true,true,true,unknown
+critere_0482,"Male or female child with a genetically confirmed diagnosis of PWS (patients can be enrolled if the genetic subtype is not available at inclusion, but the genetic subtype needs to be confirmed during the study);",false,false,unknown,false,unknown,unknown,false
+critere_0483,Male or female patients ≤18 years old,unknown,unknown,true,true,true,true,unknown
+critere_0484,Male or female patients ≥ 18 years of age,unknown,unknown,true,true,true,true,unknown
+critere_0485,Male or female patients aged 18 years or older,unknown,unknown,true,true,true,true,unknown
+critere_0486,Male subjects: Non-sterilized male subjects who are not abstinent and intend to be sexually active with a female partner of childbearing potential must use a male condom from consent through 90 days after the last dose of IP.,unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0487,"Malnourished patient (BMI \<18.5 kg / m2, weight loss greater than 5% in 1 month or 10% in 6 months)",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0488,Man or woman older than 18 years oldRight-handed,unknown,unknown,true,true,true,true,unknown
+critere_0489,"Medical history requiring anticoagulation (antiphospholipid syndrome, deep vein thromboembolic disease, pulmonary embolism, atherothrombosis, patient with mechanical heart valves),",true,unknown,unknown,true,true,true,unknown
+critere_0490,Medical insurance coverage,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0491,Medical problems due to alcohol.,true,unknown,true,true,true,true,unknown
+critere_0492,"Medically stable on medical assessment, with no contraindications to stroke rehabilitation management management (no medical problems or acute intercurrent medical events),",true,true,true,true,true,true,true
+critere_0493,Medications interfering with intestinal microbiota (beta-lactamines within 3 months before the study or laxatives),unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0494,Membership of a French social security scheme or beneficiary of such a scheme.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0495,Men and women aged between 18 and 65 years,unknown,unknown,true,true,true,true,unknown
+critere_0496,Men and women between 18-70 years,unknown,unknown,true,true,true,true,unknown
+critere_0497,Menopausal women,unknown,unknown,true,true,true,true,unknown
+critere_0498,Metabolic disease requiring a a low protein diet,unknown,unknown,true,unknown,unknown,unknown,unknown
+critere_0499,metallic glitter in the eyes,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0500,Mineralocorticoid receptor antagonists,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0501,Minimal abduction of the hip of 25 degrees bilateral with no history of hip dislocation and/or dysplasia,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0502,minute walking test on day of inclusion,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0503,minute walking test on day of inclusion,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0504,Misunderstanding of the protocol,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0505,MRI contraindications,unknown,false,true,true,unknown,unknown,false
+critere_0506,"Mucocutaneous disease with vulvovaginal localization: infection, sore, scleratrophic lichen, psoriasis, eczema, etc.",true,false,unknown,true,unknown,unknown,false
+critere_0507,Multidisciplinary follow-up of at least 6 months before surgery,true,false,unknown,false,false,false,false
+critere_0508,Must not be taking any medication that could potentially impair hepatic or renal function at the time of screening.,unknown,false,false,false,unknown,true,true
+critere_0509,Need for at least one paracentesis for ascites fluid evacuation in the last 6 months,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0510,Negative serum or urine beta HCG pregnancy test within 5 weeks prior to randomization.,unknown,false,false,unknown,unknown,false,false
+critere_0511,"Negative serum pregnancy test at screening, and negative urinary pregnancy test at Day -1.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0512,Neo- or adjuvant chemotherapy followed by radiotherapy;,unknown,false,unknown,unknown,unknown,true,false
+critere_0513,Neoadjuvant chemotherapy (chemotherapy prior to surgery),unknown,false,unknown,unknown,unknown,false,false
+critere_0514,Neoadjuvant endocrine therapy (endocrine based therapy prior to surgery) Use the primary surgery criteria - staging tumour size and lymph node status may be either the pathological staging after endocrine therapy or on the initial clinical staging prior to neoadjuvant therapy,true,false,false,false,false,false,false
+critere_0515,Neurodegenerative disease with perineal involvement,unknown,false,unknown,true,unknown,unknown,false
+critere_0516,Neurological or psychiatric co-morbidity (other than mild-to-moderate post-stroke depression),true,false,unknown,unknown,unknown,true,false
+critere_0517,"Neurological or psychiatric condition known to affect pain tolerance (e.g., peripheral neuropathy, schizophrenia)",true,unknown,unknown,true,true,true,unknown
+critere_0518,Neurological or psychiatric illnesses or a history of such problems that could impact quality/variability of data or cooperation and retention of the subject in the study,true,false,true,true,true,true,true
+critere_0519,New York Heart Association (NYHA) severity classes II to IV,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0520,New York Heart Association (NYHA) severity classes II to IV,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0521,New York Heart Association functional HF class IV at screening.,unknown,false,unknown,true,unknown,unknown,false
+critere_0522,"Newly diagnosed treatment-naïve cervical cancer patients (1) stage Ia - IIa1 with nodal metastasis, postoperative positive margin or parametrial-vaginal involvement, and (2) stage ≥IIa2).",true,unknown,unknown,unknown,true,unknown,unknown
+critere_0523,Newly diagnosed treatment-naïve head and neck cancer patients eligible for surgery,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0524,Newly diagnosed treatment-naïve ovarian cancer patients eligible for surgery or neoadjuvant chemotherapy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0525,Newly diagnosed treatment-naïve sarcoma cancer patients (1) breast angiosarcoma or (2) uterine sarcoma eligible for surgery or systemic treatment,unknown,unknown,true,unknown,true,true,unknown
+critere_0526,Newly diagnosed treatment-naïve triple-negative breast cancer patients eligible for surgery or neoadjuvant chemotherapy,unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0527,NIHSS score ≥ 5,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0528,No consent form,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0529,No contraindications to study medication as determined by the Investigator.,unknown,unknown,unknown,true,unknown,unknown,unknown
+critere_0530,No coverage by a social security regime;,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0531,No evidence of distant metastasis at time of diagnosis;,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0532,No evidence of macroscopic distant metastatic disease or incurable locally advanced disease on staging scans conducted at any time since initial diagnosis.,unknown,false,true,unknown,true,true,false
+critere_0533,No evidence of progression for at least 6 months on an AI/CDKi combination for advanced breast cancer.,true,false,unknown,unknown,unknown,true,false
+critere_0534,No history of alcohol or other drugs of abuse.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0535,No social security cover,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0536,No vaccines given within 14 days of dosing.,unknown,false,true,unknown,unknown,false,false
+critere_0537,Non epithelial breast cancer,unknown,false,unknown,unknown,unknown,true,false
+critere_0538,Non-affiliation to a social security regimen or any other social protection regimen,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0539,Non-cancerous subject,false,false,true,true,true,true,false
+critere_0540,Non-opposition of the subject to participate in the study.,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0541,Non-randomisation criteria: HVPG \< 12 mm Hg at the catheterism performed during the first follow-up visit,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0542,Non-smoking and no use of any tobacco or nicotine products (by declaration) for a period of at least 1 month prior to screening visit.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0543,Normal hearing,unknown,false,unknown,unknown,unknown,unknown,true
+critere_0544,Normal hematologic status,unknown,false,true,unknown,true,true,false
+critere_0545,Normal liver function,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0546,Normal MRI findings excepted intracranial TVS stenosis or IIH related abnormalities,unknown,false,true,unknown,unknown,unknown,false
+critere_0547,Normal renal function,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0548,"Not covered by national health insurance,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0549,"Not requiring steroids up to 4 weeks before study treatment initiation, AND",unknown,false,unknown,unknown,unknown,false,false
+critere_0550,Not using prescription medication 14 days prior to admission; and 7 days prior to admission for over the counter (OTC) medication/vitamins/supplements.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0551,Note: Participation in an observational study is allowed.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0552,obtaining a signed informed consent by a relative (or the person of trust) after clear and fair information about the study.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0553,Occurrence of a major complication (haemorrhagic or ischaemic) documented during the procedure of securing the aneurysm and endangering the short-term vital prognosis,unknown,unknown,true,unknown,true,true,unknown
+critere_0554,On concomitant strong CYP3A4 inhibitors.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0555,On strong and moderate CYP3A4 inducers.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0556,One asthma exacerbation in the 4 weeks leading up to the inclusion visit or IGB placement.,unknown,unknown,unknown,unknown,unknown,true,true
+critere_0557,"Ongoing condition that may lead to acute kidney injury or hypoxia: dehydration, severe infection, shock, cardiac decompensation, respiratory failure, or myocardial infarction within the past month",unknown,unknown,unknown,unknown,unknown,true,unknown
+critere_0558,Ongoing participation in another interventional therapeutic trial,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0559,"Ongoing treatment with metformin, or discontinued for less than 3 months",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0560,Ongoing urinary tract infection,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0561,"Opposition of the patient to participation in the study,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0562,Optic nerve atrophy,unknown,unknown,unknown,unknown,true,unknown,unknown
+critere_0563,orthopedic devices or implants,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0564,Orthostatic hypotension,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0565,"Other liver disease: alcohol consumption exceeding 20 g / day for women and 30g / day in men, HBV, HCV, CBP, CSP, autoimmune hepatitis, hemochromatosis, Wilson's disease, alpha-1 antitrypsin.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0566,Other malignancy treated within the last 5 years (except non-melanoma skin cancer or in situ carcinoma of the cervix),unknown,true,unknown,unknown,unknown,true,true
+critere_0567,"Other severe acute or chronic medical or psychiatric condition or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the patient inappropriate for entry into this study.",true,true,true,true,true,true,true
+critere_0568,Outpatient consulting at the hospital on the day of inclusion,unknown,false,true,unknown,unknown,true,false
+critere_0569,Outpatient consulting at the hospital on the day of inclusion,unknown,false,true,unknown,unknown,true,false
+critere_0570,Over 18 and under 60 years of age,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0571,over 18 years old,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0572,Overweight (≥ 110 kg),unknown,false,false,unknown,unknown,unknown,false
+critere_0573,Pacemaker,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0574,Pain preventing the test from being performed,true,false,true,true,true,true,unknown
+critere_0575,Participant covered by or entitled to social security,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0576,Participant in good health,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0577,Participant under guardianship or curators,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0578,"Participant who received informed information about the study and co-signed, with the investigator, a consent to participate in the study",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0579,Participants affiliated to a social security scheme or beneficiaries of such a scheme,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0580,Participants affiliated with a social protection system.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0581,Participants aged 65 years and older.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0582,Participants in a relationship with a person participating in the study.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0583,Participants included in phase I will not be included in phase II.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0584,Participants living in a dependent elderly care facility.,unknown,unknown,true,true,true,true,unknown
+critere_0585,"Participants living independently at home (ADL = 6, except for an occasional urinary abnormality which will be accepted).",true,false,unknown,unknown,true,unknown,false
+critere_0586,"Participants of any sex and gender must be ≥ 18 years old, or older, at the time of signing the informed consent.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0587,Participants participating in another interventional research study.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0588,"Participants showing functional decline in at least 2 of the 6 functional domains of ICOPE (mobility, cognition, nutrition, vision, hearing, and psychological well-being) identified using the ICOPE screening tool.",true,unknown,unknown,unknown,true,unknown,true
+critere_0589,Participants unable to provide informed written consent.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0590,Participants under administrative or judicial supervision,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0591,"Participants under legal protection (e.g., guardianship, tutorship).",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0592,"Participants under legal protection, guardianship, or trusteeship.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0593,"Participants who are hepatitis B surface antigen (HBsAg) positive are eligible if they have received hepatitis B birus (HBV) antiviral therapy for at least 4 weeks, and have undetectable HBV viral load prior to randomization",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0594,Participants who are staff members at the investigational site directly involved in conducting the study.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0595,Participants who donated blood or received blood or plasma derivatives in the 30 days preceding study drug administration.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0596,Participants who has already benefited from the ICOPE program or who has completed more than one isolated step 1,unknown,unknown,true,unknown,true,unknown,unknown
+critere_0597,Participants who have AEs due to previous anticancer therapies must have recovered to ≤Grade 1 or baseline (except alopecia),unknown,false,unknown,true,true,unknown,false
+critere_0598,Participants who have given the signed informed consent before carrying out any procedure related to the study.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0599,Participants with a disability preventing them from reaching the trial examination center without assistance (such as dementia or significant mobility impairment).,true,true,unknown,true,true,true,true
+critere_0600,Participants with a life-threatening illness with a prognosis of less than 5 years.,true,false,unknown,unknown,unknown,unknown,unknown
+critere_0601,"Participants with any abnormalities in clinical laboratory tests, and serology results, at screening, considered by the study physician as clinically significant.",true,false,true,true,unknown,true,false
+critere_0602,"Participants with any acute medical situation (e.g., acute infection) within 48h of screening or start of dosing, which is considered of significance by the Investigator.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0603,Participants with CKD and eGFR ≥ 30 and \< 90 mL/min/1.73 m2 at screening,unknown,false,unknown,unknown,unknown,false,false
+critere_0604,Participants with French as their mother tongue,false,false,true,true,true,true,false
+critere_0605,"Participants with hearing, visual, or speech impairments preventing them from understanding instructions or communicating with study staff.",true,false,true,true,true,true,true
+critere_0606,Participants with history of HTN and a SBP ≥ 130 mmHg at screening and ≥ 120 mmHg at the randomisation visit,false,false,unknown,unknown,unknown,unknown,false
+critere_0607,Participants with normal or corrected vision,unknown,false,unknown,unknown,unknown,true,true
+critere_0608,participation in another clinical interventional study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0609,Participation in another clinical trial or administration of an unapproved drug within the last 4 weeks before the screening date,unknown,false,false,unknown,false,false,false
+critere_0610,Participation in another interventional research,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0611,Participation in another ongoing study if the study may interfere with participation in the protocol MAP-IRMaGe.,true,false,true,true,true,true,true
+critere_0612,"Participation in another trial within 60 days prior to the enrolment visit or planned participation during the present trial period in another clinical study investigating a vaccine, drug, medical device, or medical procedure.",unknown,false,true,true,true,true,false
+critere_0613,Participation in other intervention research,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0614,"Patient ≥ 18 years old,",false,false,unknown,unknown,unknown,unknown,false
+critere_0615,Patient ≥18 years of age,false,false,unknown,unknown,unknown,unknown,false
+critere_0616,Patient able to read and write in French and who have signed an informed consent form,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0617,Patient affiliated or beneficiary of a social security scheme,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0618,Patient affiliated to a health insurance scheme,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0619,Patient affiliated to a social health insurance plan (beneficiary or beneficiary's family),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0620,Patient affiliated to a social security organization,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0621,Patient affiliated to a social security system (excluding AME) or entitled to benefits.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0622,Patient affiliated to a social security system.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0623,Patient affiliated to or benefiting from a social security scheme,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0624,"Patient aged 18 or over,",false,false,unknown,unknown,unknown,unknown,false
+critere_0625,Patient agrees to come to the study visits within the protocol-specified delay,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0626,Patient allergic to Latex,unknown,false,unknown,true,unknown,unknown,false
+critere_0627,Patient already engaged in a therapeutic protocol,unknown,false,true,true,true,true,false
+critere_0628,"Patient and/or entourage who do not have access to teleconsultation, and/or can be reached remotely;",unknown,false,true,true,unknown,true,false
+critere_0629,"Patient capable of passively opening the hand sufficient to grasp the glass when the gripping glove is put on, with the possibility of actively closing the hand;",unknown,false,unknown,unknown,true,unknown,true
+critere_0630,Patient covered by the French social security system (for French patients).,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0631,Patient deprived of liberty (detained/incarcerated);,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0632,Patient deprived of liberty by judicial or administrative decision,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0633,Patient following any measures of legal presentation,unknown,false,true,true,true,unknown,false
+critere_0634,Patient having given informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0635,Patient having received information about data collection and having signed and dated an Informed Consent Form,true,false,true,true,unknown,true,unknown
+critere_0636,Patient having signed the informed consent for the present study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0637,"Patient identified by the network or referred by a healthcare professional,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0638,Patient in a medical emergency or immediate life-threatening situation,true,false,true,true,unknown,true,true
+critere_0639,Patient in acute episode of their disorder according to the CGI Severity score,true,false,true,true,unknown,true,false
+critere_0640,Patient in an exclusion period determined by a previous or ongoing study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0641,"Patient included in another interventional study which could interfere with the results of the study,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0642,Patient informed of the results of the preliminary medical examination,unknown,false,true,true,true,true,false
+critere_0643,Patient insured under the French social security,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0644,Patient is at least 18 years of age.,false,false,unknown,unknown,unknown,unknown,false
+critere_0645,Patient is unwilling to refrain from using prohibited medications during the clinical trial.,unknown,false,true,unknown,unknown,false,false
+critere_0646,Patient is willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up.,unknown,false,true,true,true,true,false
+critere_0647,Patient must be affiliated to a Social Health Insurance,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0648,Patient or close relative having given written consent to participate in the study or patient included under the emergency procedure in the absence of contactable relatives,true,false,unknown,unknown,unknown,false,false
+critere_0649,Patient over 40 years,false,false,unknown,unknown,unknown,unknown,false
+critere_0650,Patient participating at the same time in another study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0651,Patient participating in an interventional study involving psychotherapy or an experimental drug,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0652,Patient participating in another interventional clinical research protocol involving a drug or medical device,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0653,"Patient presenting retraction or stiffness of the fingers and wrist preventing complete extension of the long fingers and thumb, the wrist being at 15° extension;",unknown,false,false,unknown,unknown,false,true
+critere_0654,"Patient receiving aspirin for another indication outside pregnancy,",true,false,true,true,true,true,false
+critere_0655,Patient requiring neoadjuvant chemotherapy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0656,"Patient should agree to have one liver biopsy during the screening period (before randomization, the randomization will be permitted after at least a second reading performed by pathologist of CHRU Lille to confirm the histological diagnosis of NASH with advanced fibrosis (F3-F4)) for the diagnosis purpose (if no histological biopsy within 1 month before inclusion is available) and one at the end of the treatment period for assessment of the treatment effects.",unknown,false,true,false,false,false,false
+critere_0657,"Patient suffering from a motor deficit of the upper limb resulting from an ischemic or hemorrhagic stroke, hemispheric or brainstem, confirmed by brain imaging ;",true,false,true,true,unknown,true,false
+critere_0658,Patient suffering from lower limb weaknesses and / or deficiencies regardless of the cause,unknown,false,unknown,true,true,true,false
+critere_0659,"Patient suffering from obesity defined by a BMI ≥ 30,",unknown,false,false,unknown,unknown,unknown,false
+critere_0660,Patient taking part in another study with an impact on mortality or nutrition,true,false,true,true,true,true,true
+critere_0661,Patient to be operated in first intention of a sleeve gastrectomy,unknown,false,unknown,true,true,true,false
+critere_0662,Patient to have a 2-stage surgery (first sleeve gastrectomy then gastric bypass or Single Anastomosis Duodeno-Ileal bypass),unknown,false,true,unknown,unknown,true,false
+critere_0663,Patient treated with aromatase inhibitors +/- LHRH agonist for at least 3 months with a planned remaining duration of at least 12 months,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0664,"Patient unable to actively extend long fingers (hand opening) to voluntarily grasp an empty glass (upper and lower diameter of 7 and 6 cm respectively, height of 12 to 15 cm, weight of 125g, identical to equipment used for ARAT), with a palmar grip (cylindrical grip), while the subject can hold the previously placed glass passively in the hand;",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0665,Patient unable to deliver his/her consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0666,Patient unable to follow the protocol for any reason,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0667,Patient unable to give consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0668,Patient unable to speak French,false,false,true,true,true,true,false
+critere_0669,Patient under compulsory psychiatric care,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0670,Patient under guardianship or curatorship,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0671,"Patient under guardianship or tutorship, persons placed under the protection of justice or persons participating in another search including an exclusion period still in progress",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0672,"Patient under guardianship, curators or legal protection,P",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0673,Patient under judicial protection,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0674,"Patient under judicial protection (guardianship, curatorship, etc.) or safeguard of justice,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0675,Patient under legal protection,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0676,Patient under legal protection.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0677,Patient under the justice protection,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0678,Patient undergoing adjuvant treatment for breast cancer,unknown,false,unknown,unknown,unknown,true,false
+critere_0679,"Patient undergoing bariatric surgery,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0680,Patient who agreed to participate by signing the informed consent of the study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0681,"Patient who are pregnant, breastfeeding, or who have the potential to become pregnant without effective contraception at the time of inclusion and up to 24 months after surgery",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0682,"Patient who has the capacity to understand the protocol and has given consent to participate in the research,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0683,Patient who is a beneficiary of or affiliated with a social security plan,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0684,Patient who suffered a stroke more than three months ago;,false,false,unknown,unknown,unknown,unknown,false
+critere_0685,Patient who understands and speaks French.,unknown,false,unknown,unknown,unknown,true,unknown
+critere_0686,"Patient with a cardiac or respiratory contraindication to physical exertion, at discretion of the physician",unknown,false,unknown,true,true,unknown,false
+critere_0687,Patient with a motor handicap of grade 3 to 5 on the Rankin score,unknown,false,unknown,true,unknown,unknown,false
+critere_0688,"Patient with a primary family caregiver at home (spouse, child) willing to participate in the study",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0689,Patient with a severe or fatal comorbidity that will likely prevent improvement or follow-up or that will render the procedure unlikely to benefit the patient.,unknown,false,true,true,true,true,false
+critere_0690,"Patient with a smartphone, tablet and/or computer compatible with video taking and teleconsultation.",unknown,false,true,true,unknown,true,false
+critere_0691,Patient with ALS who has already had at least two multidisciplinary assessments in the ALS center in Marseille with an evaluation by the clinical psychologist.,true,false,true,false,true,true,false
+critere_0692,Patient with an active anterior shoulder elevation range of less than 15°;,false,false,true,true,true,true,false
+critere_0693,Patient with contra-indication for bariatric surgery,true,false,unknown,true,unknown,unknown,false
+critere_0694,Patient with elevated intracranial pressure defined as \> 25 cm H20 or 18 mmHg,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0695,Patient with histologically confirmed breast cancer,unknown,false,unknown,unknown,unknown,true,false
+critere_0696,"Patient with idiopathic pulmonary hypertension (PH), familial PH, or PH associated with various pathologies (groups I to IV of the international classification)",true,false,unknown,unknown,unknown,unknown,false
+critere_0697,"Patient with idiopathic pulmonary hypertension (PH), familial PH, or PH associated with various pathologies (groups I to IV of the international classification)",true,false,unknown,unknown,unknown,unknown,false
+critere_0698,"Patient with limited active elbow extension, not allowing the ipsilateral knee to be reached with the hand, the subject being seated with the trunk vertical (approach limitation);",true,false,unknown,unknown,unknown,unknown,unknown
+critere_0699,Patient with moderate or severe muscular spasticity of the wrist flexors and the long and short flexors of the fingers and thumb (Modified Ashworth Scale ≥ 3);,true,false,unknown,unknown,unknown,unknown,false
+critere_0700,"Patient with one or several diagnoses of chronic psychiatric disorder (schizophrenia, schizoaffective disorder, bipolar disorder, recurrent major depression, borderline personality disorder) or a neurodevelopmental disorder (autism spectrum disorder) treated as an outpatient or in a day hospital",true,false,unknown,true,unknown,unknown,false
+critere_0701,Patient with other upper limb deficiencies likely to influence participation;,true,false,unknown,unknown,true,true,false
+critere_0702,Patient with pathologically confirmed TNBC (estrogen and progesterone receptor negative and HER2 negative);,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0703,"Patient with severe aphasia, Boston Diagnostic Aphasia Examination (BDAE) ≤ 3;",true,false,unknown,false,unknown,unknown,false
+critere_0704,"Patient with significant proteinuria (\> 300mg/24 hours or a proteinuria/creatininuria ratio ≥ 30mg/mmol),",unknown,false,unknown,unknown,true,unknown,false
+critere_0705,Patient with social security coverage.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0706,Patient with the ability to put on and remove the SaeboGlove® gripping glove with the help of a third person if necessary and/or available.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0707,"Patient without health coverage,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0708,Patient's foreseeable inability to participate in a clinical trial,unknown,false,unknown,true,unknown,unknown,true
+critere_0709,Patients ≥ 18 years of age,false,false,unknown,unknown,unknown,unknown,false
+critere_0710,Patients ≥18 years of age or over the legal age of consent in countries where that is greater than 18 years at the time of signature of the ICF.,true,false,true,true,true,true,false
+critere_0711,Patients affiliated to a social security scheme,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0712,Patients aged 18 years and older ;,false,false,unknown,unknown,unknown,unknown,false
+critere_0713,Patients considered in remission for at least 5 years after onset of treatment.,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0714,Patients included in the Fondation FondaMental cohort whose genetic analyses have revealed the need for comparative and functional genetic studies.,unknown,false,unknown,unknown,unknown,true,false
+critere_0715,Patients must have had surgery achieving clear margins (as per local guidelines),unknown,false,true,true,unknown,true,false
+critere_0716,Patients not affiliated to the Social Security System,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0717,"Patients on neuroleptics,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0718,Patients participating in other biomedical research or in a period of exclusion,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0719,Patients protected or unable to give consent according to Article L1121-8 of the French Public Health Code (CSP),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0720,Patients protected or unable to give consent according to Article L1121-8 of the French Public Health Code (CSP),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0721,"Patients receiving enforced cares (ASPDT, ASPPI, ASPDRE, etc.)",unknown,false,unknown,true,true,unknown,false
+critere_0722,"Patients receiving standard endocrine therapy with aromatase inhibitors (letrozole, anastrazole, exemestane), tamoxifen, or combination of such for a minimum of 6 months\* and maximum of 7 years duration with an additional three years of endocrine therapy planned. Pre- or peri-menopausal patients may also receive GnRH analogues.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0723,Patients receiving State Medical Assistance,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0724,Patients receiving topiramate in the previous month,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0725,Patients Treated and believed to be cured basal or squamous cell carcinoma of the skin or resected carcinoma of the cervix,unknown,false,unknown,unknown,unknown,true,false
+critere_0726,"Patients treated with nutritional therapy at the time of admission (history of bariatric surgery or gastrectomy, malabsorptive pathologies such as short bowel, extensive intestinal resections, etc.).",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0727,Patients unable to give consent (under guardianship or curatorship),unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0728,Patients unable to undergo regular long-term surveillance.,unknown,false,unknown,true,unknown,unknown,false
+critere_0729,Patients under guardianship or trusteeship.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0730,Patients under legal protective measures,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0731,"Patients who are unable to complete self-questionnaires (language barrier, etc.)",unknown,false,unknown,true,unknown,true,false
+critere_0732,"Patients who had an acute cardiovascular episode, coronary Heart Disease (Angina pectoris, myocardial infarction, revascularization procedure), stroke or TIA (Transient Ischemic Attack) within the 6 months prior to screening Recent cardiovascular events (stroke, myocardial infarcts, etc...) in the past 6 months.",false,false,unknown,false,false,unknown,false
+critere_0733,Patients who have signed a written informed consent form,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0734,"patients who underwent bariatric surgery in the weight stabilization phase (between 18 and 30 months after surgery) presenting dissatisfaction with their body image according to the BSQ (score ≥ 111), to be affiliated to the French social security system. The prior, free and informed consent of the patient shall be obtained.",unknown,false,true,false,true,false,false
+critere_0735,"Patients who, after the nature of the study has been explained to them, have given written consent",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0736,Patients willing to have frequent blood tests.,unknown,false,true,unknown,unknown,unknown,false
+critere_0737,Patients with a contraindication to amino acid infusion,unknown,false,unknown,true,unknown,unknown,false
+critere_0738,"Patients with an intellectual disability (IQ\<70) estimated via the fNART (Mackinnon \& Mulligan, 2005)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0739,"Patients with any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule",unknown,false,true,unknown,true,unknown,false
+critere_0740,"Patients with BMI \> 40 kg/m2 or BMI \> 35 kg/m2 associated with at least one comorbidity(s): hypertension, diabetes, cardiovascular disease, hyperlipidemia, sleep apnea, arthritis,hepatic steatosis.",true,false,true,true,unknown,unknown,false
+critere_0741,"Patients with cancer with a risk of hypercalcemia (and associated hypercalciuria), linked to bone metastases.",unknown,false,unknown,unknown,unknown,true,false
+critere_0742,Patients with current or history of thromboembolic events.,true,false,true,true,true,true,false
+critere_0743,"patients with disabling nausea (Motion Sickness) from previous use of a virtual reality headset, patients who had from post-bariatric reconstructive surgery, epileptic patients, decompensation of a psychiatric pathology",unknown,false,true,true,true,true,false
+critere_0744,Patients with epilepsy and migraine.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0745,Patients with gestational hypertension and/or preeclampsia from the 20th amenorrhea week until the 26th ± 2 amenorrhea week.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0746,"Patients with grade I obesity (BMI\> 30 kg/m² and \< 35 kg/m²) or morbid obesity (BMI\<40 or ≥35 kg/m² with serious physiological risks, as recommended by the French Health Authorities) with contraindications for or refusal of bariatric surgery.",true,false,true,true,true,true,false
+critere_0747,Patients with health insurance,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0748,Patients with high risk early stage breast cancer according to at least one of the following criteria:,unknown,false,unknown,unknown,unknown,true,false
+critere_0749,Patients with known anterior dysphagia,unknown,false,unknown,unknown,true,true,false
+critere_0750,"Patients with known glucose-6-phosphate dehydrogenase deficiency,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0751,"Patients with morphological contraindications to the use of the Atalante X exoskeleton (as per user's manual) with exceptions as follows: knee flessum of 20° authorized if sensibility is present; equinus of the ankle of 20° allowed regardless of presence or absence of sensibility, hip flessum of 20° allowed regardless of presence or absence of sensibility.",unknown,false,true,true,true,true,true
+critere_0752,"patients with non-severe SAHa (WFNS I, II and III)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0753,"Patients with psychiatric follow-up, poor understanding of French or cognitive problems,",true,false,unknown,true,true,true,false
+critere_0754,"Patients with renal failure (creatinine \> 1.5 mg/dl and/or creatinine clearance \< 60 mL/min, except if patient is already on hemodialysis)",unknown,false,unknown,unknown,true,false,false
+critere_0755,"Patients with risk of aggravation of certain diseases under oestrogen treatment (MtF patients with uncontrolled diabetes with HBA1C \> 8%, patients with cholelithiasis, biliary lithiasis, systemic lupus erythematosus, severe asthma, severe arterial hypertension, severe migraines, otosclerosis, epilepsy not controlled by treatment).",true,false,true,true,true,true,true
+critere_0756,"patients with severe SAHa (WFNS IV and V,) whose neurological examination is impossible because of coma (Glasgow coma score of 8 or less) or need for sedation at D3",unknown,false,false,false,false,false,false
+critere_0757,Patients with uncontrolled asthma based on an ACQ score ≥1.5 despite inhaled corticosteroids ± long acting bronchodilators (LABA),unknown,false,unknown,unknown,unknown,unknown,false
+critere_0758,"Patients with unstable psychiatric disorders,",unknown,false,unknown,true,true,unknown,false
+critere_0759,Performance status ≤ 2 (according to WHO criteria),unknown,false,unknown,unknown,true,true,false
+critere_0760,permanent contraindications to MRI,unknown,false,true,true,unknown,unknown,false
+critere_0761,Person affiliated to or beneficiary of a social security system.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0762,"Person in a period of exclusion from another study,",unknown,false,unknown,unknown,unknown,true,unknown
+critere_0763,Person subject to a measure of legal protection,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0764,"Person under guardianship, curatorship, or safeguard of justice; or not subject to a social security plan,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0765,Person under legal protection,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0766,Persons deprived of liberty,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0767,Persons having had any surgery prior to the study which puts them at risk for metal objects left in the body,true,false,false,false,false,false,false
+critere_0768,Persons unable to adhere to abstinence from the use of drugs or alcohol the day or evening before experimental sessions,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0769,"Platelet count lower than 100,000 cells/microliter (dosage less than 6 months old),",unknown,false,unknown,unknown,unknown,false,false
+critere_0770,Platelets \<125 000; TP \<80%; bilirubin \<20 mmol / l; albumin \<35 g / L.,unknown,false,unknown,unknown,unknown,false,false
+critere_0771,Player under legal protection (guardianship/trusteeship) or deprived of liberty,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0772,Poor understanding of the French language,true,false,true,true,true,true,true
+critere_0773,Poor understanding of the French language,true,false,true,true,true,true,true
+critere_0774,Positive COVID-19 PCR test at screening visit.,unknown,false,true,unknown,unknown,true,false
+critere_0775,"Positive serology for hepatitis B (HBsAg), C (anti-HCV antibodies) and HIV 1-2.",unknown,false,unknown,unknown,unknown,true,false
+critere_0776,Positive serum pregnancy test (only if premenopausal).,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0777,Practice physical activity regularly (150 minutes/week of moderate physical activity according to the WHO),unknown,false,unknown,unknown,unknown,unknown,false
+critere_0778,Pre- or postmenopausal women or men.,false,false,true,true,true,true,false
+critere_0779,Pre-admission modified Rankin score of 4 or 5,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0780,Pregnancies complicated by major fetal abnormality identified at the first-trimester ultrasound if performed before randomization,unknown,false,unknown,false,unknown,unknown,false
+critere_0781,Pregnancy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0782,Pregnancy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0783,Pregnancy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0784,Pregnancy between 11 and 14 WG,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0785,Pregnancy in progress,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0786,Pregnancy or breastfeeding in progress,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0787,Pregnancy or breastfeeding or Women of childbearing age without effective contraception (a pregnancy test will be done),unknown,false,unknown,unknown,unknown,unknown,false
+critere_0788,Pregnancy positive test (βHCG test) or pregnancy or breastfeeding.,unknown,false,true,unknown,unknown,unknown,false
+critere_0789,"Pregnancy test will be repeated on day 1, before the first dose of WOO treatment.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0790,"pregnancy, breastfeeding",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0791,"Pregnancy, parturiency or breastfeeding",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0792,Pregnancy: if a woman is of childbearing potential a urine or serum beta HCG test is positive,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0793,Pregnant and/or breastfeeding women,unknown,false,unknown,true,unknown,unknown,false
+critere_0794,Pregnant or breast-feeding women,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0795,Pregnant or breast-feeding women;,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0796,Pregnant or breastfeeding female participants.,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0797,Pregnant or breastfeeding patient.,unknown,false,unknown,true,unknown,unknown,false
+critere_0798,Pregnant or breastfeeding woman,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0799,Pregnant or breastfeeding women,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0800,Pregnant or breastfeeding women,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0801,"Pregnant or breastfeeding women,",unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0802,Pregnant or breastfeeding women.,unknown,false,unknown,true,unknown,unknown,false
+critere_0803,Pregnant or lactating women,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0804,Pregnant or lactating women according to article L1121-5 of the CSP,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0805,Pregnant or lactating women according to article L1121-5 of the CSP,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0806,Pregnant or nursing patient,unknown,false,unknown,true,true,unknown,false
+critere_0807,"Pregnant or women of childbearing age who were not using contraception (oral diagnosis),",true,false,unknown,true,unknown,unknown,false
+critere_0808,Pregnant patient between 10 and 19 weeks of gestation + 6 days,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0809,Pregnant woman,false,false,true,true,true,true,false
+critere_0810,Pregnant woman,false,false,true,true,true,true,false
+critere_0811,"Pregnant, breast-feeding or parturient woman",unknown,false,unknown,true,unknown,unknown,false
+critere_0812,"Pregnant, lactating and parturient women",unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0813,"Pregnant, parturient or breast-feeding woman,",unknown,false,unknown,true,unknown,unknown,false
+critere_0814,"Premenopausal women age ≥18 years, premenopausal status defined as:",unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0815,Presence of a Proton-Pump Inhibitors treatment,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0816,"Presence of at least one measurable lesion according to Response evaluation criteria in solid tumors (RECIST) 1.1, as determined by the local site investigator/radiology assessment.",true,false,true,true,true,true,false
+critere_0817,"Presence of comorbidities or medical conditions that may interfere with study data,",unknown,false,true,true,true,true,false
+critere_0818,Presence of moderate or severe edema localized to the wrist and hand;,true,false,unknown,true,true,true,false
+critere_0819,"Presence of other neurological, muscular or osteoarticular conditions altering upper limb function,",true,false,true,true,true,unknown,false
+critere_0820,Presence of other psychiatric pahtologies,unknown,false,unknown,unknown,true,unknown,false
+critere_0821,"Presence of pathologies interfering in a major way with vascular parameters: known multicomplicated diabetes treated before pregnancy, hypercholesterolemia known (or LDL\>130 mg/dl), connectivitis, proven cardiovascular disease (ischemic heart disease, stroke, arteriopathy of the lower limbs, heart failure), pre-existing known renal failure (MDRD \<60 ml/min) and/or pre-existing proteinuria ≥ 300 mg/24h).",true,false,false,false,true,false,false
+critere_0822,Present or past eating disorders.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0823,Presenting a depressive episode of moderate intensity according to the Diagnostic and Statistical Manual (DSM)-V,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0824,"Presenting disabling vaginal dryness symptoms despite well-administered local moisturizing treatment, attested by a vaginal dryness score ≥3",unknown,false,unknown,false,unknown,unknown,false
+critere_0825,"Presenting the criteria for gender dysphoria according to the DSM5 assessed by at least two child psychiatric interviews at least six months apart where the diagnosis of gender dysphoria was clinically established and that of associated autism spectrum disorder refuted and/or associated cognitive impairment, confirmed by specific scales (Gender Identity / Gender Dysphoria Questionnaire for Adults and Adolescents (GIDYQ-AA) and Utrecht Gender Dysphoria Scale (UGDS))",true,false,unknown,true,false,true,false
+critere_0826,"Pressure Ulcer of Grade I or higher according to the NPUAP International Pressure Ulcer Classification System- EPUAP, in areas of contact with the Atalante X system",unknown,false,unknown,unknown,true,unknown,false
+critere_0827,Previous gastric bypass surgery AAP-DGOS PHRC-N 22_0175 CHU DE MONTPELLIER Pr Costalat Vincent/Pr Ducros Anne Version n°2.2 date 25/03/2025 Page 28 sur 63,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0828,Previous history of bariatric surgery (except gastric ring removed for more than 3 years).,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0829,Previous inclusion in the trial,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0830,Previous nasal surgery or nasal cauterization.,unknown,false,unknown,true,true,unknown,false
+critere_0831,Previous systemic or local treatment for the primary breast cancer currently under investigation.,unknown,false,unknown,true,true,true,false
+critere_0832,"Primary surgery (no other treatment prior to surgery) A. Four or more involved axillary lymph nodes or positive supraclavicular lymph node at diagnosis, or",unknown,true,true,true,true,true,true
+critere_0833,Primary tumor removed by conservative surgery with negative margins;,unknown,false,unknown,unknown,unknown,true,false
+critere_0834,"Prior progression of disease on abemaciclib, fulvestrant, or other selective estrogen receptor degrader (SERD) therapy.",true,false,true,unknown,unknown,true,false
+critere_0835,Prothrombin ratio \< 50 %,unknown,false,unknown,unknown,unknown,false,false
+critere_0836,Provide written informed consent and agree to comply to the study protocol prior to enrolment.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0837,"Provision of a fresh tumor sample of the lesion that will be injected first and, whenever possible, from another lesion that is planned to be injected, at baseline and be willing to supply new tumor samples from a biopsy during treatment.",false,false,unknown,false,false,false,false
+critere_0838,Psychiatric contraindication,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0839,Psychiatric disorders,unknown,false,unknown,true,true,unknown,false
+critere_0840,Pure intraventricular haemorrhages,unknown,false,unknown,unknown,true,unknown,false
+critere_0841,"Radiotherapy within 30 days prior to Visit 0 (Day 1) except in case of localized radiotherapy for analgesic purposes or for lytic lesions at risk of fracture, which can then be completed within 7 days prior to Visit 0 (Day 1). Subjects must have recovered from radiotherapy toxicities prior to Visit 0 (Day 1).",unknown,false,unknown,unknown,false,true,false
+critere_0842,Randomization must be conducted within 16 weeks from surgical resection,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0843,"Read, understood, and signed an ICF before any investigational procedure(s) are performed.",false,false,false,false,false,false,false
+critere_0844,Received a live or live-attenuated vaccine within 30 days before the first dose of study intervention. Administration of killed vaccines are allowed,unknown,false,true,unknown,false,false,false
+critere_0845,Received an immunosuppressive therapy for underlying disease or a treatment with immunosuppressive or cytotoxic drugs or a cancer chemotherapy or radiation therapy within the previous 36 months.,false,false,false,false,false,false,false
+critere_0846,"Received anticancer therapy in the adjuvant phase including but not limited to chemotherapy, small molecule anticancer drugs, poly (adenosine diphosphate ribose) polymerase (PARP) inhibitors, ADCs, and/or immunotherapy, with the exception of adjuvant radiation therapy",unknown,false,unknown,unknown,unknown,true,false
+critere_0847,Received any GnRH/LHRH analog within 12 months prior to randomization,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0848,"Received at least 3 doses of a COVID-19 mRNA vaccine, last booster dose received at least 6 months prior to trial vaccine administration OR 2 doses of a COVID-19 mRNA vaccine and confirmed SARS-CoV-2 infection at least 6 months prior to inclusion in the trial.",unknown,false,false,unknown,unknown,false,false
+critere_0849,"Received drugs such as corticosteroids at a dosage \> 10 mg prednisone equivalent/day or inhalers corticosteroids, within 3 months prior to inclusion (excluding corticosteroid topical preparations for cutaneous application).",unknown,false,false,unknown,unknown,false,false
+critere_0850,Received immunoglobulin or other blood products within three months prior to inclusion or planned administration before the trial completion.,unknown,false,true,unknown,false,false,false
+critere_0851,"Received influenza vaccination within 14 days prior to trial vaccination, or any other licensed vaccine within 4 weeks prior to study vaccination.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0852,Received prior radiotherapy within 3 weeks of start of study intervention or required corticosteroids for radiation related toxicities that cannot be discontinued before the first dose of study intervention,unknown,false,false,unknown,false,false,false
+critere_0853,Received prior treatment with a trophoblast cell-surface antigen 2 (TROP2)-directed antibody drug conjugate (ADC) or a topoisomerase I inhibitor-containing ADC,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0854,"Recent history of venous (pulmonary embolism, phlebitis) or arterial (myocardial infarction, unstable angina, stroke, transient ischemic attack), thrombotic event ≤ 3 months.",false,false,unknown,true,unknown,unknown,false
+critere_0855,Recent serious injury,true,false,true,true,unknown,true,unknown
+critere_0856,"Recovered from any previous therapy-related toxicity to ≤ Common Terminology Criteria for Adverse Events (CTCAE) Grade 1 at start of treatment (except for alopecia, stable sensory neuropathy, and hypothyroidism (patients on thyroid replacement therapy) which must be ≤ CTCAE Grade 2).",unknown,false,false,false,false,false,false
+critere_0857,Referral from other hospitals,true,false,unknown,true,unknown,true,false
+critere_0858,"Refractive error greater ±8 sphere or more than ±3 in cylinder in either eye if there are abnormalities in funduscopy (optic disc tilt, staphyloma), previous glaucoma, other disorders causing visual loss",true,false,true,true,true,true,false
+critere_0859,Refusal of parents (or legal representative) to sign the consent form;,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0860,"Refusal of the minor to take part, even if the legal representatives want the player to take part in the study Refusal to perform the test",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0861,Refusal to participate in the study on the part of the adolescent or one of the holders of parental authority (both holders and the adolescent must sign a written consent after receiving appropriate information).,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0862,"Refusal to sign the consent form,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0863,Regional lymph node pN0 to pN3;,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0864,Registration with the French healthcare system,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0865,"Regular consumption of tobacco or alcohol,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0866,Regular intake of dietary supplements or vitamin supplements in the last three months,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0867,Regular use of medications that impact the central nervous system,true,false,true,true,true,true,false
+critere_0868,"Regular use of medications, such as opioids and antidepressants, including SSRIs and tricyclic antidepressants",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0869,Relative of patient included in the Fondattion FondaMental cohort,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0870,"Requiring inpatient or outpatient hospitalization in a rehabilitation center,",true,false,true,true,true,true,false
+critere_0871,Resting heart rate ≥40 bpm.,unknown,false,unknown,unknown,true,unknown,false
+critere_0872,retinal operation,unknown,false,unknown,true,unknown,unknown,false
+critere_0873,Right handed,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0874,Right-handed.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0875,"Schizophrenia, schizoaffective disorder or persistent delusional disorder (DSM-5)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0876,Screening supine BP ≥145 mm Hg (systolic) or ≥90 mm Hg (diastolic),unknown,false,unknown,false,unknown,unknown,false
+critere_0877,Secondary,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0878,septic shock,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0879,"Serious infection requiring oral or IV antibiotics, or other clinically significant infection within 14 days prior to screening.",unknown,false,true,unknown,unknown,unknown,false
+critere_0880,"Serum sodium \< 135 mmol/L at the Screening Visit, determined as per central laboratory.",unknown,false,unknown,unknown,unknown,false,false
+critere_0881,Serum total bilirubin \> 50 µmol/L,unknown,false,unknown,unknown,unknown,false,false
+critere_0882,"Severe acute or chronic medical or laboratory abnormality that may increase the risk associated with study participation or seralutinib administration, unless associated with an ongoing AE and discussed with the Sponsor's medical monitor (MM) (or designee).",true,true,true,true,unknown,true,true
+critere_0883,Severe and unstable eating disorders,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0884,"Severe aphasia limiting ability to express needs or to fulfil questionnaires, at the discretion of the physician.",true,false,true,true,true,true,false
+critere_0885,"Severe autism Spectrum Disorder (clinical screening, confirmed in cases of doubt by the Social Responsiveness Scale (SRS) Raw-score \> 76, carried out as part of usual care in cases of clinical evidence,",unknown,false,true,true,true,false,false
+critere_0886,"Severe cardiac impairment,",unknown,false,unknown,true,unknown,unknown,false
+critere_0887,"Severe cardiac, hepatic or renal failure or ischemic heart disease, due to the risk of severe complications characterized by edema, with or without congestive heart failure.",true,false,true,true,true,true,false
+critere_0888,Severe chronic cardiac insufficiency (grade III and IV of NYHA classification).,unknown,false,unknown,false,unknown,unknown,false
+critere_0889,"Severe chronic kidney disease defined as estimated glomerular filtration rate \< 30 mL/min/1,73m2 using the MDRD-6 formula",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0890,Severe chronic respiratory disease.,unknown,false,unknown,true,true,unknown,false
+critere_0891,"Severe cognitive or psychiatric disorders, chronic alcoholism, drug addiction 8.2 Severe and unstabilised eating disorders: bulimia or history of anorexia 8.3 History of gastric surgery including the ring insertion 8.4 Haemostasis disorders 8.5 Anticoagulant or non-steroidal anti-inflammatory medicines 8.6 Severe liver disease 8.7 Pregnancy or desire to become pregnant or breastfeeding 8.8 Anticipated failure to comply with prolonged medical follow-up 8.9 Large hiatal hernias \> 5 cm, inflammatory (Crohn's) or stenosing small bowel disease, pyloric stenosis and structural abnormalities of the digestive tract 8.10 Systemic lupus erythematous 8.11 Severe oesophagitis and active gastroduodenal ulcer 8.12 Silicone allergy",true,false,false,false,true,false,false
+critere_0892,Severe hearing loss,unknown,false,unknown,unknown,true,unknown,false
+critere_0893,Severe heart failure (NYHA III_IV),unknown,false,unknown,true,unknown,unknown,false
+critere_0894,"Severe hepatic insufficiency,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0895,Severe psychiatric disorder or other illness that may disrupt the study follow-up or to invalidate the proper understanding of the protocol information and the informed consent,true,true,true,true,true,true,true
+critere_0896,"Severe renal impairment,",unknown,false,unknown,unknown,true,unknown,false
+critere_0897,Severe untreated chronic depression,unknown,false,unknown,unknown,unknown,true,false
+critere_0898,Severity score measures using the Boston Diagnostic Aphasia Examination battery scale corresponding to the mild or moderate level (score greater than or equal to 2),unknown,false,unknown,unknown,unknown,unknown,false
+critere_0899,Sexually active premenopausal women and men unwilling to use double-barrier contraception.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0900,Shoulder and cervical spine surgery less than 6 months old.,false,false,unknown,unknown,unknown,unknown,false
+critere_0901,Signed and dated written Informed consent form (ICF) in accordance with International Council for Harmonisation-Good Clinical Practice (ICH-GCP) and local legislation prior to admission to the trial.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0902,Signed informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0903,Signed informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0904,Signed informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0905,Signed Informed Consent form,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0906,Signed the written informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0907,"Significant cognitive impairments: inability to understand simple instructions or give consent of any kind (not included if: LAST scores \< 5/7 in comprehension, and if YES/NO answers are unreliable),",true,false,unknown,false,true,true,false
+critere_0908,"Significant pain on mobilization of the wrist or elbow (VAS \> 5/10),",true,false,true,true,true,true,false
+critere_0909,Signing of free and informed consent,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0910,Simultaneous enrollment in another clinical trial.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0911,Simultaneous participation in any other research protocol,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0912,Simultaneous participation in any other research protocol,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0913,Singleton pregnancy,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0914,Smokers \>10 cigarettes per day,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0915,Smoking \> 10 packs/year (PA),unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0916,Smoking ≥ 5 cigarettes/day during the past 6 months.,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0917,Solid organ transplantation,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0918,Stable and maximum tolerated dose of an ACE inhibitor or an ARB (not both) for at least 4 weeks prior to Screening Visit,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0919,Stable body weight (weight change +/- 5 % for 3 months prior to screening),unknown,false,unknown,false,false,true,false
+critere_0920,Stable medical condition over the previous 1 month.,true,false,unknown,unknown,true,unknown,false
+critere_0921,Stage IV (metastatic) breast cancer.,unknown,false,unknown,unknown,unknown,true,false
+critere_0922,Start of disorder (defined by the occurrence of the first thymus episode: characterized depressive disorder or maniac episode with or without mixed characteristics) for 5 years or more,false,false,true,unknown,false,unknown,false
+critere_0923,stroke \< 20 days,false,false,unknown,unknown,unknown,unknown,false
+critere_0924,Stroke less than 2 days old,true,false,unknown,unknown,unknown,unknown,false
+critere_0925,"Stroke, transient ischaemic cerebral attack, valve implantation or valve replacement, carotid surgery, or carotid angioplasty, acute coronary syndrome, or hospitalisation for worsening heart failure within previous 3 months prior to randomisation.",false,false,unknown,false,false,false,false
+critere_0926,Subject affiliated to or beneficiary from a French social security regime,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0927,Subject affiliated to the social security system,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0928,"Subject being in the exclusion period of another study or provided for by the ""National Volunteer File""",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0929,Subject beneficiary from a legal protection regime,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0930,Subject is ≥ 18 years old at inclusion.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0931,Subject not covered by social security,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0932,"Subject protected according to the French Public Health Code (e.g. patients under law protection, prisoners, pregnant, parturient or lactating women, and patients under guardianship/curatorship)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0933,Subject under measure of protection or guardianship of justice,unknown,false,unknown,unknown,true,true,false
+critere_0934,Subject undergoing bariatric surgery (OB group) or abdominal surgery (group NO),unknown,false,unknown,true,unknown,unknown,false
+critere_0935,Subject unlikely to cooperate or low cooperation stated by investigator,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0936,Subject who are in a dependency or employment with the sponsor or the investigator,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_0937,Subject with a BMI greater than 35 kg / m2 (group OB) or less than 30 kg / m² (group NO),unknown,false,unknown,unknown,unknown,unknown,false
+critere_0938,Subject with an infection or inflammatory syndrome (CRP\> 10 mg / L and / or white blood cells\> 12000 / mm3),unknown,false,false,unknown,unknown,false,false
+critere_0939,"Subject with definite diagnosis of IIH satisfying the modified Dandy criteria (A to E) ) at the time of initial diagnosis, under BMM including ACZ for more than 1 year",false,false,unknown,false,unknown,true,false
+critere_0940,Subject with intracranial TVS stenosis on dominant transverse sinus and hypoplastic contralateral one (or bilateral TVS stenosis) diagnosed on MRI,true,false,true,unknown,unknown,unknown,false
+critere_0941,"Subjects abled to understand the information note and abled to sign the consent form,",unknown,false,unknown,unknown,unknown,true,unknown
+critere_0942,"Subjects may have received 1 cytotoxic chemotherapy regimen in the metastatic disease setting prior to study entry, but must have recovered from chemotherapy acute toxicity excluding alopecia and Grade 2 peripheral neuropathy.",unknown,false,unknown,false,true,false,false
+critere_0943,Subjects must be able to attend all scheduled visits and to comply with all trial procedures,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0944,Subjects must be covered by public health insurance,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0945,Subjects must have completed a qualifying last visit in a prior seralutinib PAH study on investigational product (IP) and in accordance with the protocol.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0946,Subjects subjected to a social security plan.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0947,"Subjects suffering from (according to DSM IV criteria) : Bipolar disorder, Unipolar depression, Schizophrenia, Autism spectrum disorder",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0948,"Subjects undergoing energy restriction or physical activity weight loss program at the time of inclusion or within the past 6 months,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0949,Subjects with a known hypersensitivity to fulvestrant or to any of the excipients,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0950,"Subjects with high levels of physical activity (\> 5 h of exercise per week),",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0951,"Subjects with stable body weight (variation \< 3% of body weight) until at least 6 months,",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0952,Substance abuse,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0953,"Surgery within the last 3 months,",unknown,false,false,false,false,false,false
+critere_0954,"Systolic blood pressure \> 180 mmHg, or DBP \> 110 mmHg at screening.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0955,Taking a probiotic supplement during the last month prior to inclusion,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0956,"Taking medication that may interfere with study results,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0957,tDCS contraindication,unknown,false,unknown,true,unknown,unknown,false
+critere_0958,Temperature ≥ 38.0°C or symptoms of acute self-limiting illness such as upper respiratory tract infection or gastroenteritis within three days prior to vaccine dose.,false,false,false,false,false,false,false
+critere_0959,The parents (or legal representative) must have signed the consent form;,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0960,The patient agrees to the submission of tumor (diagnostic pre-treatment core biopsy and post-treatment re-biopsy) and blood samples for central pathology review (CPR) and for translational studies as part of this protocol.,unknown,false,unknown,true,unknown,true,false
+critere_0961,The patient has already been included in the study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0962,The patient has already been included in the study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0963,"The patient has been informed of and agrees to data transfer and handling, in accordance with national data protection guidelines.",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0964,The presence of other significant dermatological conditions that could interfere with the evaluation of the study treatment's safety and efficacy.,unknown,false,unknown,true,unknown,unknown,false
+critere_0965,Transaminases \> 5 ULN,unknown,false,false,unknown,unknown,true,false
+critere_0966,treated by ECT or rTMS or tDCS for the current eposide,true,false,unknown,true,unknown,unknown,false
+critere_0967,"Treated cohort: the child participated in the OTBB3 study and is aged 16±4 months at inclusion,",unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0968,"treated with chemotherapy for lung , breast, colon or prostate cancer",unknown,false,unknown,unknown,unknown,true,false
+critere_0969,"Treated with insulin, GLP-1 analogs, acarbose, corticoids, beta-blockers.",unknown,false,unknown,unknown,unknown,true,false
+critere_0970,"Treated with lipid lowering drugs (fibrates, statins, anti-PCSK9, ezetimibe, cholestyramine) within the last 6 weeks before study entry",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0971,Treatment by biotherapy within the 12 months after inclusion,unknown,false,false,false,false,false,false
+critere_0972,Treatment with any investigational agents within 30 days prior to expected start of trial treatment.,unknown,false,false,false,false,false,false
+critere_0973,"Treatment with carvedilol (≥ 6,25 mg/day) at a stable dose for at least one month",unknown,false,false,false,true,false,false
+critere_0974,Treatment with GLP1 (glucagon-like peptide) analogue or insulin,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0975,"Treatment with nucleoside/nucleotide analogue for HBV, or direct-acting antiviral treatment for HCV, started for less than 6 months",unknown,false,true,unknown,true,true,false
+critere_0976,"Treatment with orlistat Xénical® or GLP1 analogues or regular consumption of narcotics (heroin, cocaine and amphetamines). Analgesic treatments, including level 3, are authorized during the study.",true,false,true,false,false,false,false
+critere_0977,Treatment with statins started or discontinued for less than 3 months,unknown,false,true,unknown,true,true,false
+critere_0978,Treatment with strong CYP3A4 inhibitors or inducers within 14 days or 5 drug elimination half-lives (whichever is longer) prior to initiation of study treatment.,unknown,false,false,false,false,false,false
+critere_0979,Tumor types :,unknown,false,unknown,unknown,unknown,true,false
+critere_0980,"Two or more diuretic agents (loop diuretic, thiazides and thiazide-like diuretics)",unknown,false,unknown,unknown,unknown,unknown,false
+critere_0981,Type 2 diabetes mellitus with HbA1c \> 7.5 %,unknown,false,unknown,unknown,unknown,false,false
+critere_0982,"Unable to be followed for medical, social, family, geographic or psychological reasons for the duration of the study,",unknown,false,unknown,unknown,true,true,false
+critere_0983,Uncontrolled high blood pressure.,true,false,unknown,unknown,unknown,unknown,false
+critere_0984,Uncontrolled office BP (\>140 and/or 90 mmHg) confirmed by home blood pressure monitoring (\>135/85 mmHg),unknown,false,unknown,false,unknown,unknown,false
+critere_0985,Uncorrected sensory deficits,unknown,false,unknown,true,unknown,true,unknown
+critere_0986,Under antidepressant treatment,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0987,under mood stabilizer and/or antiepileptic,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0988,Unstabilised psychiatric illness,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0989,"Untreated cohort: the child has never received OT, is aged 30±6 months at inclusion (in order to maximise the number of children in the untreated cohort) and is followed in France.",unknown,false,unknown,unknown,true,unknown,false
+critere_0990,"Unwilling or unable to comply with all scheduled visits, treatment plan, laboratory tests and other study procedures and the restrictions described in the protocol.",unknown,false,true,unknown,true,true,false
+critere_0991,Unwilling or unable to comply with the protocol.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0992,Urine albumin creatinine ratio \> 200 mg/g (22.6 mg/mmol) and \< 5000 mg/g (565 mg/mmol) at screening,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0993,Use of dietary supplements,unknown,false,unknown,unknown,unknown,unknown,false
+critere_0994,Usual french language,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_0995,Vaccination with a COVID-19 vaccine other than mRNA vaccine.,unknown,false,true,unknown,unknown,true,false
+critere_0996,Validation of the surgical intervention in a multidisciplinary consultation meeting,true,false,unknown,true,true,true,false
+critere_0997,Virologically documented (PCR or antigenic test) history of COVID-19 in the past 3 months.,unknown,false,false,unknown,false,false,false
+critere_0998,Visceral crisis in need of cytotoxic chemotherapy as assessed by the investigator.,unknown,false,unknown,true,unknown,true,false
+critere_0999,"Voluntary weight loss in the last 6 months,",unknown,false,unknown,unknown,unknown,true,unknown
+critere_1000,Volunteer patients will be recruited as part of their follow-up at the CHU. Their pathology will be in agreement with that of the research protocol to be optimized.,true,false,true,true,true,true,false
+critere_1001,Vulnerable persons according to article L1121-6 of the CSP,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_1002,Vulnerable persons according to article L1121-6 of the CSP,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_1003,"wearer of pacemaker or cardiac defribrillator or vascular clip or prosthesis cardiac or insulin pump or implanted device to deliver medication or hearing implant or prosthesis or vascular shunt or paragraph or screws, plate metal or tattoo or piercing or implanted metal object or lead shot hunt",unknown,false,unknown,true,unknown,true,false
+critere_1004,Who have already undergone a psycho-education or therapeutic patient education programme regarding depression.,unknown,false,unknown,unknown,unknown,true,false
+critere_1005,"Whose indication for hormonal transition has been validated in a multidisciplinary consultation meeting after at least one consultation with the pediatric endocrinologist with clinical examination, blood pressure measurement, and information on hormonal treatments in the context of gender dysphoria.",true,false,true,true,true,unknown,false
+critere_1006,Whose state of health is compatible with follow-up by their GP (possibility of occasional advice from a psychiatrist).,unknown,false,true,unknown,unknown,true,false
+critere_1007,Whose state of health requires follow-up by a psychiatrist,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_1008,"Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures",unknown,false,true,unknown,true,true,false
+critere_1009,Willingness and ability to comply with the treatment and follow-up visits.,true,false,true,true,true,true,false
+critere_1010,"Willingness to refrain from current treatments, in compliance with the list of prohibited medications.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_1011,With a prescription for an antidepressant started less than 2 months before inclusion in the trial.,unknown,false,false,unknown,unknown,false,false
+critere_1012,"With a spontaneous ICH, i.e. non traumatic",true,false,unknown,unknown,true,unknown,false
+critere_1013,"With an acute, ischaemic or haemorrhagic outpatient or inpatient stroke",true,false,unknown,true,true,unknown,false
+critere_1014,WOCBP who are not abstinent and intend to be sexually active with a non-sterilized male partner must be willing to use a highly effective method of contraception from consent through 30 days following the last administration of IP.,unknown,false,unknown,unknown,true,unknown,false
+critere_1015,"Woman deprived of liberty, under guardianship or trusteeship.",unknown,false,unknown,unknown,unknown,unknown,false
+critere_1016,Woman of childbearing potential who has a positive serum pregnancy test (within 72 hours) prior to the start of treatment.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_1017,"woman of childbearing without a highly effective contraceptive measure (combined or progestogen-only hormonal contraception associated with inhibition of ovulation, intrauterine device or intrauterine hormone-releasing system)",unknown,true,unknown,unknown,unknown,unknown,false
+critere_1018,Women aged 18 and over;,false,false,true,true,true,true,false
+critere_1019,Women between 18 and 60 years old (including 60),false,false,true,true,true,true,false
+critere_1020,Women of childbearing potential (WOCBP) must have a negative urine or serum pregnancy test at enrollment visit before first administration of Investigational Product (IP) in this study.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_1021,Women of childbearing potential must use highly effective contraceptive methods during the treatment period and for 10 days after the final dose.,unknown,false,unknown,unknown,unknown,unknown,false
+critere_1022,Women taking low-dose aspirin regularly before pregnancy (except ART indication),unknown,false,unknown,unknown,unknown,unknown,false
+critere_1023,"Women under the protection of justice,",false,false,true,true,true,true,false
+critere_1024,Women who are breast feeding,unknown,false,unknown,true,unknown,unknown,false
+critere_1025,Women who are pregnant or in the period of lactating.,unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_1026,"Women who are pregnant, breastfeeding, or have given birth in the last 6 months",unknown,false,unknown,unknown,unknown,unknown,unknown
+critere_1027,Women with TNBC breast cancer who meet the following criteria:,unknown,false,unknown,unknown,unknown,unknown,false
+critere_1028,Written Informed Consent (IC) must be signed and dated by the patient and the Investigator prior to randomization.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_1029,Written informed consent obtained from the participant,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_1030,Written informed consent obtained from the participant.,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_1031,"Written informed consent obtained from the patient prior to performing any protocol-related procedures, including screening biopsy, blood samples and questionnaires",unknown,false,false,false,false,false,false
+critere_1032,Written informed consent to participate in the study,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+critere_1033,Written informed consent to participate in the trial and to donation of tissue and blood samples,unknown,false,unknown,unknown,unknown,unknown,false
+critere_1034,Younger than 18 years old,false,false,unknown,unknown,unknown,unknown,false
