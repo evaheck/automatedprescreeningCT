@@ -1,0 +1,7896 @@
+{
+  "text": "A 10 years old male child right-handed, was received on May 15, 2011 in HALD Pediatric Surgery Department for the right shoulder blunt trauma, 7 hours before admission. He had been punched on the right anterior shoulder by another child, older than him. He then felt pain and developed anterior chest deformity and right upper limb relative functional impairment. The child received before admission a massage from a traditional healer without any success. On physical examination, he presented a good general status, conscience, well colored conjunctiva and a temperature of 37 ° C. There were also a depression and a provoked pain on the right sternoclavicular joint. The mobilization of the right shoulder was painful. There were neither downstream neurovascular disorders, no respiratory or gastrointestinal symptoms. AP chest radiography was normal. Chest CT scan showed a right SCJD in its posterior form. A closed reduction under general anesthesia had been done 12 hours after the trauma. It was obtained by traction in adduction applied on the arm in the axis of the upper limb with a direct manipulation of the clavicle medial end. The reduction was confirmed by an audible snap. The distal pulses were palpable and a figure-eight bandage was done. A control chest CT scan showed a reduction of the SCJD. The radial pulse, motor and sensitive function of the right upper limb were evaluated and the child was discharged after two days of hospitalization. The figure-eight bandage was removed after six weeks of immobilization. After a flow-up of 18 months, the right shoulder was painless and mobile in all directions.",
+  "entities": [
+    {
+      "id": "E63F294",
+      "text": "10 years old",
+      "label": "Age",
+      "offset": [
+        2,
+        14
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {
+        "AgeType": "Exact"
+      }
+    },
+    {
+      "id": "EC9A6E3",
+      "text": "male",
+      "label": "Gender",
+      "offset": [
+        15,
+        19
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E791363",
+      "text": "child",
+      "label": "Person",
+      "offset": [
+        20,
+        25
+      ],
+      "relations": [
+        {
+          "type": "HasCoreference",
+          "target_id": "EF136DF"
+        },
+        {
+          "type": "HasAge",
+          "target_id": "EC7CFCA"
+        },
+        {
+          "type": "HasCoreference",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasCoreference",
+          "target_id": "ED8E45B"
+        }
+      ],
+      "attributes": {
+        "GenderType": "All",
+        "PersonType": "Patient"
+      }
+    },
+    {
+      "id": "E197B25",
+      "text": "right-handed",
+      "label": "Qualifier",
+      "offset": [
+        26,
+        38
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EB51898",
+      "text": "May 15, 2011",
+      "label": "Date",
+      "offset": [
+        56,
+        68
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EAB1167",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        114,
+        119
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EFDE4D0",
+      "text": "shoulder",
+      "label": "Anatomic",
+      "offset": [
+        120,
+        128
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EFDBD24"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EAB810E"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EF136DF"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF73F7F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EB2ACC8"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC93068"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EDC50D3",
+      "text": "blunt trauma",
+      "label": "Condition",
+      "offset": [
+        129,
+        141
+      ],
+      "relations": [
+        {
+          "type": "HasStartDate",
+          "target_id": "E9A671F"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E73E20B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EFDBD24"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EAB810E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E402AA4"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EF136DF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EE3DD5C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF73F7F"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EC7FDA9"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EB2ACC8"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E56F5D6"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC93068"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF492A"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "EFDD7B3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EAEC0D1"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E50D6F2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E771D87"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E85FD0F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E560EEF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E197B25"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EAB1167"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EFDE4D0"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E9A671F",
+      "text": "7 hours before admission",
+      "label": "StartDate",
+      "offset": [
+        143,
+        167
+      ],
+      "relations": [
+        {
+          "type": "HasRef",
+          "target_id": "E73E20B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EC7CFCA"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EE3DD5C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "ECF492A"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EFDD7B3"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EAEC0D1"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E50D6F2"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E771D87"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E85FD0F"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E560EEF"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E59661B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {
+        "StartDateRef": "EntityRef"
+      }
+    },
+    {
+      "id": "E73E20B",
+      "text": "punched",
+      "label": "Procedure",
+      "offset": [
+        181,
+        188
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EFDBD24"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EAB810E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E402AA4"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EF136DF"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF73F7F"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EC7FDA9"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EB2ACC8"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E56F5D6"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC93068"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "EFDD7B3"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EFDBD24",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        196,
+        201
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EAB810E",
+      "text": "anterior",
+      "label": "Qualifier",
+      "offset": [
+        202,
+        210
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E402AA4",
+      "text": "shoulder",
+      "label": "Anatomic",
+      "offset": [
+        211,
+        219
+      ],
+      "relations": [
+        {
+          "type": "HasPerson",
+          "target_id": "EF136DF"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF73F7F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EB2ACC8"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC93068"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EF136DF",
+      "text": "child",
+      "label": "Person",
+      "offset": [
+        231,
+        236
+      ],
+      "relations": [
+        {
+          "type": "HasAge",
+          "target_id": "EC7CFCA"
+        },
+        {
+          "type": "HasCoreference",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasCoreference",
+          "target_id": "ED8E45B"
+        }
+      ],
+      "attributes": {
+        "GenderType": "All",
+        "PersonType": "Patient"
+      }
+    },
+    {
+      "id": "EC7CFCA",
+      "text": "older than him",
+      "label": "Age",
+      "offset": [
+        238,
+        252
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {
+        "AgeType": "Min"
+      }
+    },
+    {
+      "id": "EE3DD5C",
+      "text": "pain",
+      "label": "Observation",
+      "offset": [
+        267,
+        271
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EF73F7F"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EC7FDA9"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EB2ACC8"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E56F5D6"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC93068"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF492A"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "EFDD7B3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EAEC0D1"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E50D6F2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E771D87"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E85FD0F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E560EEF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EF73F7F",
+      "text": "anterior",
+      "label": "Qualifier",
+      "offset": [
+        286,
+        294
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EC7FDA9",
+      "text": "chest",
+      "label": "Anatomic",
+      "offset": [
+        295,
+        300
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EB2ACC8"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC93068"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EB2ACC8",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        315,
+        320
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E56F5D6",
+      "text": "upper limb",
+      "label": "Anatomic",
+      "offset": [
+        321,
+        331
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EC93068"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EC93068",
+      "text": "relative",
+      "label": "Qualifier",
+      "offset": [
+        332,
+        340
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "ECF492A",
+      "text": "functional impairment",
+      "label": "Observation",
+      "offset": [
+        341,
+        362
+      ],
+      "relations": [
+        {
+          "type": "HasPerson",
+          "target_id": "EB2AB6F"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "EFDD7B3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EAEC0D1"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E50D6F2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E771D87"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E85FD0F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E560EEF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EB2AB6F",
+      "text": "child",
+      "label": "Person",
+      "offset": [
+        368,
+        373
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasCoreference",
+          "target_id": "ED8E45B"
+        }
+      ],
+      "attributes": {
+        "GenderType": "All",
+        "PersonType": "Patient"
+      }
+    },
+    {
+      "id": "EFDD7B3",
+      "text": "before admission",
+      "label": "StartDate",
+      "offset": [
+        383,
+        399
+      ],
+      "relations": [
+        {
+          "type": "HasRef",
+          "target_id": "EAEC0D1"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E50D6F2"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E771D87"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E85FD0F"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E560EEF"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E59661B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {
+        "StartDateRef": "EntityRef"
+      }
+    },
+    {
+      "id": "EAEC0D1",
+      "text": "massage",
+      "label": "Procedure",
+      "offset": [
+        402,
+        409
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E6F3CA7",
+      "text": "without",
+      "label": "Logical",
+      "offset": [
+        436,
+        443
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {
+        "LogicalType": "NOT"
+      }
+    },
+    {
+      "id": "E50D6F2",
+      "text": "physical examination",
+      "label": "Procedure",
+      "offset": [
+        460,
+        480
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EBE1041"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EBE1041",
+      "text": "good",
+      "label": "Qualifier",
+      "offset": [
+        497,
+        501
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E771D87",
+      "text": "general status",
+      "label": "Observation",
+      "offset": [
+        502,
+        516
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E85FD0F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E560EEF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E85FD0F",
+      "text": "conscience",
+      "label": "Observation",
+      "offset": [
+        518,
+        528
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E87336B"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E7EFF9E"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E560EEF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E87336B",
+      "text": "well colored",
+      "label": "Qualifier",
+      "offset": [
+        530,
+        542
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E7EFF9E",
+      "text": "conjunctiva",
+      "label": "Anatomic",
+      "offset": [
+        543,
+        554
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E560EEF",
+      "text": "temperature",
+      "label": "Measurement",
+      "offset": [
+        561,
+        572
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E5D0EB4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E59661B",
+      "text": "C",
+      "label": "Unit",
+      "offset": [
+        581,
+        582
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E5D0EB4",
+      "text": "depression",
+      "label": "Condition",
+      "offset": [
+        602,
+        612
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E713578"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0A347A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E713578",
+      "text": "provoked",
+      "label": "Qualifier",
+      "offset": [
+        619,
+        627
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E0A347A",
+      "text": "pain",
+      "label": "Observation",
+      "offset": [
+        628,
+        632
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EDA5C7E"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E1736C3"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E4E9501"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFB7708"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EDA5C7E",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        640,
+        645
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E1736C3",
+      "text": "sternoclavicular joint",
+      "label": "Anatomic",
+      "offset": [
+        646,
+        668
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E4E9501",
+      "text": "mobilization",
+      "label": "Procedure",
+      "offset": [
+        674,
+        686
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E472645"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E298209"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E472645",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        694,
+        699
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E298209",
+      "text": "shoulder",
+      "label": "Anatomic",
+      "offset": [
+        700,
+        708
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E3AA1AC"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EC32F84"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E3AA1AC",
+      "text": "painful",
+      "label": "Qualifier",
+      "offset": [
+        713,
+        720
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E930E43",
+      "text": "neither",
+      "label": "Logical",
+      "offset": [
+        733,
+        740
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {
+        "LogicalType": "NOT"
+      }
+    },
+    {
+      "id": "EC32F84",
+      "text": "downstream",
+      "label": "Qualifier",
+      "offset": [
+        741,
+        751
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EFB7708",
+      "text": "neurovascular disorders",
+      "label": "Condition",
+      "offset": [
+        752,
+        775
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9299F0"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E2DB70C",
+      "text": "no",
+      "label": "Logical",
+      "offset": [
+        777,
+        779
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ],
+      "attributes": {
+        "LogicalType": "NOT"
+      }
+    },
+    {
+      "id": "E9299F0",
+      "text": "respiratory",
+      "label": "Condition",
+      "offset": [
+        780,
+        791
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E84D861"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E6A542F",
+      "text": "or",
+      "label": "Logical",
+      "offset": [
+        792,
+        794
+      ],
+      "relations": [],
+      "attributes": {
+        "LogicalType": "OR"
+      }
+    },
+    {
+      "id": "E84D861",
+      "text": "gastrointestinal symptoms",
+      "label": "Observation",
+      "offset": [
+        795,
+        820
+      ],
+      "relations": [
+        {
+          "type": "DiagBy",
+          "target_id": "E470E26"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E625A04"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E99CD4D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E470E26",
+      "text": "AP chest radiography",
+      "label": "Procedure",
+      "offset": [
+        822,
+        842
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E52315A"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E52315A",
+      "text": "normal",
+      "label": "Qualifier",
+      "offset": [
+        847,
+        853
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "E625A04",
+      "text": "Chest CT scan",
+      "label": "Procedure",
+      "offset": [
+        855,
+        868
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DD027"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E6DD027",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        878,
+        883
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "E99CD4D",
+      "text": "SCJD",
+      "label": "Measurement",
+      "offset": [
+        884,
+        888
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E0F8051"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E90C983"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE10F98"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECF49AE"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E64083B"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E0F8051",
+      "text": "posterior",
+      "label": "Qualifier",
+      "offset": [
+        896,
+        905
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "E90C983",
+      "text": "closed",
+      "label": "Qualifier",
+      "offset": [
+        914,
+        920
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "EE10F98",
+      "text": "reduction",
+      "label": "Procedure",
+      "offset": [
+        921,
+        930
+      ],
+      "relations": [
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "ECF49AE",
+      "text": "general anesthesia",
+      "label": "Procedure",
+      "offset": [
+        937,
+        955
+      ],
+      "relations": [
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E64083B",
+      "text": "trauma",
+      "label": "Condition",
+      "offset": [
+        989,
+        995
+      ],
+      "relations": [
+        {
+          "type": "TreatedBy",
+          "target_id": "EE4BF67"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E6AEEEF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EC6BBDF"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3428CD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EE4BF67",
+      "text": "traction",
+      "label": "Procedure",
+      "offset": [
+        1016,
+        1024
+      ],
+      "relations": [
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E6AEEEF",
+      "text": "adduction",
+      "label": "Procedure",
+      "offset": [
+        1028,
+        1037
+      ],
+      "relations": [
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA296E7"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E827857"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EA296E7",
+      "text": "arm",
+      "label": "Anatomic",
+      "offset": [
+        1053,
+        1056
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E827857",
+      "text": "upper limb",
+      "label": "Anatomic",
+      "offset": [
+        1076,
+        1086
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EC6BBDF",
+      "text": "direct manipulation",
+      "label": "Procedure",
+      "offset": [
+        1094,
+        1113
+      ],
+      "relations": [
+        {
+          "type": "HasAnLoc",
+          "target_id": "E812100"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E6E67CA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E812100",
+      "text": "clavicle",
+      "label": "Anatomic",
+      "offset": [
+        1121,
+        1129
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E6E67CA",
+      "text": "medial end",
+      "label": "Anatomic",
+      "offset": [
+        1130,
+        1140
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E3428CD",
+      "text": "reduction",
+      "label": "Observation",
+      "offset": [
+        1146,
+        1155
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E30FE9D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E30FE9D",
+      "text": "audible snap",
+      "label": "Observation",
+      "offset": [
+        1176,
+        1188
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "EEEE10D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EEEE10D",
+      "text": "distal pulses",
+      "label": "Observation",
+      "offset": [
+        1194,
+        1207
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "EAD788C"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EAD788C",
+      "text": "palpable",
+      "label": "Observation",
+      "offset": [
+        1213,
+        1221
+      ],
+      "relations": [
+        {
+          "type": "TreatedBy",
+          "target_id": "E42C05C"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E39A6C7"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EFC5AC4"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E42C05C",
+      "text": "figure-eight bandage",
+      "label": "Procedure",
+      "offset": [
+        1228,
+        1248
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E6780A2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E6780A2",
+      "text": "control",
+      "label": "Qualifier",
+      "offset": [
+        1261,
+        1268
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "E39A6C7",
+      "text": "chest CT scan",
+      "label": "Procedure",
+      "offset": [
+        1269,
+        1282
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EFC5AC4",
+      "text": "reduction",
+      "label": "Observation",
+      "offset": [
+        1292,
+        1301
+      ],
+      "relations": [
+        {
+          "type": "DiagBy",
+          "target_id": "E048E77"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E048E77",
+      "text": "SCJD",
+      "label": "Measurement",
+      "offset": [
+        1309,
+        1313
+      ],
+      "relations": [
+        {
+          "type": "DiagBy",
+          "target_id": "E61CD23"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E61CD23",
+      "text": "radial pulse",
+      "label": "Measurement",
+      "offset": [
+        1319,
+        1331
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "ECB9299"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "ECB9299",
+      "text": "motor",
+      "label": "Observation",
+      "offset": [
+        1333,
+        1338
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E811797"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E811797",
+      "text": "sensitive function",
+      "label": "Observation",
+      "offset": [
+        1343,
+        1361
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E101486"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "EA22E58"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E7D6D7C"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E101486",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        1369,
+        1374
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "EA22E58",
+      "text": "upper limb",
+      "label": "Anatomic",
+      "offset": [
+        1375,
+        1385
+      ],
+      "relations": [
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E7D6D7C",
+      "text": "evaluated",
+      "label": "Procedure",
+      "offset": [
+        1391,
+        1400
+      ],
+      "relations": [
+        {
+          "type": "HasPerson",
+          "target_id": "ED8E45B"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E671458"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E08F12E"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "ED8E45B",
+      "text": "child",
+      "label": "Person",
+      "offset": [
+        1409,
+        1414
+      ],
+      "relations": [],
+      "attributes": {
+        "GenderType": "All",
+        "PersonType": "Patient"
+      }
+    },
+    {
+      "id": "E671458",
+      "text": "discharged",
+      "label": "Status",
+      "offset": [
+        1419,
+        1429
+      ],
+      "relations": [],
+      "attributes": {
+        "StatusType": "Inactive"
+      }
+    },
+    {
+      "id": "E08F12E",
+      "text": "two days",
+      "label": "Duration",
+      "offset": [
+        1436,
+        1444
+      ],
+      "relations": [
+        {
+          "type": "HasRef",
+          "target_id": "E42412B"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EB6E840"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {
+        "DurationType": "Exact"
+      }
+    },
+    {
+      "id": "E42412B",
+      "text": "hospitalization",
+      "label": "Procedure",
+      "offset": [
+        1448,
+        1463
+      ],
+      "relations": [
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EB6E840",
+      "text": "figure-eight bandage",
+      "label": "Procedure",
+      "offset": [
+        1469,
+        1489
+      ],
+      "relations": [
+        {
+          "type": "HasDuration",
+          "target_id": "EA58A88"
+        },
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EA58A88",
+      "text": "six weeks",
+      "label": "Duration",
+      "offset": [
+        1508,
+        1517
+      ],
+      "relations": [
+        {
+          "type": "HasRef",
+          "target_id": "EDB0D8A"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {
+        "DurationType": "Exact"
+      }
+    },
+    {
+      "id": "EDB0D8A",
+      "text": "immobilization",
+      "label": "Procedure",
+      "offset": [
+        1521,
+        1535
+      ],
+      "relations": [
+        {
+          "type": "HasStartDate",
+          "target_id": "E147021"
+        },
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E147021",
+      "text": "After a",
+      "label": "StartDate",
+      "offset": [
+        1537,
+        1544
+      ],
+      "relations": [
+        {
+          "type": "HasRef",
+          "target_id": "E086FEC"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasRef",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {
+        "StartDateType": "Min"
+      }
+    },
+    {
+      "id": "E086FEC",
+      "text": "flow-up",
+      "label": "Procedure",
+      "offset": [
+        1545,
+        1552
+      ],
+      "relations": [
+        {
+          "type": "HasDuration",
+          "target_id": "E213AC3"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EF031B1"
+        },
+        {
+          "type": "HasAnLoc",
+          "target_id": "E21FFAB"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E213AC3",
+      "text": "18 months",
+      "label": "Duration",
+      "offset": [
+        1556,
+        1565
+      ],
+      "relations": [
+        {
+          "type": "HasRef",
+          "target_id": "E429A24"
+        }
+      ],
+      "attributes": {
+        "DurationType": "Exact"
+      }
+    },
+    {
+      "id": "EF031B1",
+      "text": "right",
+      "label": "Qualifier",
+      "offset": [
+        1571,
+        1576
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "E21FFAB",
+      "text": "shoulder",
+      "label": "Anatomic",
+      "offset": [
+        1577,
+        1585
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E34774D"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E34774D",
+      "text": "painless",
+      "label": "Qualifier",
+      "offset": [
+        1590,
+        1598
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "E429A24",
+      "text": "mobile",
+      "label": "Observation",
+      "offset": [
+        1603,
+        1609
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "AUTO_PERSON_AGE_E63F294",
+      "text": "person",
+      "label": "Person",
+      "offset": [
+        -1,
+        -1
+      ],
+      "attributes": {
+        "PersonType": "Patient"
+      },
+      "relations": [
+        {
+          "type": "HasAge",
+          "target_id": "E63F294"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ]
+    },
+    {
+      "id": "AUTO_PERSON_GENDER_EC9A6E3",
+      "text": "person",
+      "label": "Person",
+      "offset": [
+        -1,
+        -1
+      ],
+      "attributes": {
+        "PersonType": "Patient"
+      },
+      "relations": [
+        {
+          "type": "HasGender",
+          "target_id": "EC9A6E3"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6F3CA7"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E930E43"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E2DB70C"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E6A542F"
+        }
+      ]
+    }
+  ],
+  "_debug": {
+    "relation_cleaning": {
+      "total_in": 4563,
+      "kept": 1657,
+      "removed": 2906,
+      "by_reason": {
+        "unknown_type": 0,
+        "bad_arg1": 2887,
+        "missing_target": 0,
+        "bad_arg2": 19
+      }
+    },
+    "auto_person_added": {
+      "age": 1,
+      "gender": 1
+    }
+  }
+}

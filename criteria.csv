@@ -1,0 +1,1035 @@
+critere,critere_type,condition,nct_id,nb_etudes
+"""secondary"" ICH: ICH resulting from intracranial vascular malformation, intracranial venous thrombosis, head trauma or tumour; haemorrhagic transformation within an infarct",exclusion,stroke,['NCT04621357'],1
+"(a) T1DM at Screening Visit: (i) For US only: patients with T1DM treated with SGLT2i for at least 4 months, without DKA during that period, and who have experience with ketone monitoring are eligible for inclusion.",exclusion,hypertension,['NCT06268873'],1
+(b) Uncontrolled T2DM at screening: HbA1C \> 10.5% (\> 91 mmol/mol).,exclusion,hypertension,['NCT06268873'],1
+"(ii) For Japan only: patients with T1DM treated with dapagliflozin 10 mg for at least 4 months, without DKA during the period of dapagliflozin treatment are eligible for inclusion.",exclusion,hypertension,['NCT06268873'],1
+"\* patients may enrol during the first 6 months of standard endocrine therapy, and wait until at least 6 months of endocrine therapy has been received prior to starting ctDNA surveillance",inclusion,breast cancer,['NCT04985266'],1
+"≤ MAS \< 4 on elbow or wrist flexors,",inclusion,stroke,['NCT05315726'],1
+≥ 18 and ≤ 55 years for phase I,inclusion,healthy,['NCT06821126'],1
+≥ 18 and ≤ 60 years for phase II.,inclusion,healthy,['NCT06821126'],1
+a head size incompatible with the use of a personalized 3D headcast or a magnetoencephalography,exclusion,healthy,['NCT04457622'],1
+A history of stroke or recent trauma to the head,exclusion,healthy,['NCT04457622'],1
+"A pacemaker, insulin or other pump, neurostimulator, cochlear implants or other hearing aid, metal stents, prosthesis, or implants, intracerebral clips, implantable defibrillator, cerebral shunt or ventricular catheter, other foreign metal objects in the upper part of the body",exclusion,healthy,['NCT04457622'],1
+A piercing or obstruction in the nostrils that could impede vaccine administration.,exclusion,healthy,['NCT06821126'],1
+"Able to follow a rehabilitation program on medical opinion (no medical issues or acute intercurrent medical events),",inclusion,stroke,['NCT05315726'],1
+Able to swallow tablets,inclusion,breast cancer,['NCT05696626'],1
+Able to understand and voluntarily sign a written informed consent before any screening procedures.,inclusion,breast cancer,['NCT05696626'],1
+"Able to understand, read, and write French,",inclusion,depression,['NCT06035731'],1
+"Abnormal and deemed clinically significant result by the investigator following the routine analyzes carried out at the time of the screening visit (any grade 4 biological result, even if deemed not clinically significant by the investigator, constitutes an exclusion criterion).",exclusion,healthy,['NCT06821126'],1
+Absence of health insurance,exclusion,hypertension,['NCT05521776'],1
+"Absence of hepatocellular carcinoma outside at least one nodule \&gt; 3 cm in diameter, or more than 3 nodules, on ultrasound, CT-scan or MRI performed during the previous 6 months",inclusion,hypertension,['NCT06687265'],1
+Absence of metastatic disease,inclusion,breast cancer,['NCT05981326'],1
+absence of pre-existing neurological handicap (mRS 0-2),inclusion,stroke,['NCT04282629'],1
+"Absence of severe progressive neurologic and/or somatic pathologies (specially tumors, degenerative diseases)",inclusion,depression,['NCT05894980'],1
+"Active bleeding,",exclusion,hypertension,['NCT04356326'],1
+"Active cardiac disease or history of cardiac dysfunction, including any of the following:",exclusion,breast cancer,['NCT05896566'],1
+active cause of cirrhosis and:,inclusion,hypertension,['NCT06687265'],1
+"Active cause of cirrhosis, or resolution (alcohol cessation, sustained virological response to direct-acting antiviral treatment for HCV, initiation of nucleoside/nucleotide analog treatment for HBV) for at least 6 months",inclusion,hypertension,['NCT06687265'],1
+"Active inflammatory bowel disease or chronic diarrhea, short bowel syndrome, or major upper gastrointestinal surgery including gastric resection.",exclusion,breast cancer,['NCT05896566'],1
+"Active or uncontrolled infections (e.g., sepsis, tuberculosis, hepatitis B or hepatitis C at the screening visit, human immunodeficiency virus\[HIV\]) that could complicate participation in the study.",exclusion,healthy,['NCT07090889'],1
+Active systemic bacterial or fungal infection (requiring intravenous \[IV\] antibiotics or antifungals at the time of initiating study treatment).,exclusion,breast cancer,['NCT05696626'],1
+acute / chronic renal insufficiency (Cl \<50ml / min),exclusion,stroke,['NCT04282629'],1
+Adequate organ function,inclusion,breast cancer,['NCT05696626'],1
+Administrative problems:,exclusion,obesity,['NCT05032326'],1
+"Admitted within 12 hours of stroke onset. For wake-up strokes, time of last seen well will be considered as stroke onset",inclusion,stroke,['NCT04621357'],1
+"Adolescents aged 14+/- 6 months,",inclusion,depression,['NCT06351501'],1
+"Adult patient \> 18 years old,",inclusion,stroke,['NCT05315726'],1
+Adult patient ≥18 years old,inclusion,stroke,['NCT06538974'],1
+"Adult patient,",inclusion,stroke,['NCT05315726'],1
+Adult patients,inclusion,stroke,['NCT05378126'],1
+Adults who are deprived of their liberty by judicial or administrative decision,exclusion,stroke,['NCT04621357'],1
+Advanced or moderate chronic kidney disease (eGFR 15 to 44.9 mL/min/1.73m² using CKD-EPI formula),inclusion,hypertension,['NCT05732727'],1
+Affiliated or entitled participant in a social security scheme,inclusion,healthy,['NCT04423874'],1
+Affiliated to or beneficiary of a health insurance system (including AME),inclusion,hypertension,['NCT05521776'],1
+Affiliated to social security,inclusion,depression,['NCT05480826'],1
+"Affiliated with a social security scheme,",inclusion,depression,['NCT06035731'],1
+Affiliation of health care assurance,exclusion,obesity,['NCT01501201'],1
+Affiliation of the patient to a social security scheme,inclusion,stroke,['NCT04759326'],1
+Affiliation to social security,inclusion,hypertension,['NCT04356326'],1
+affiliation to social security or benefiting through a third person,inclusion,stroke,['NCT04282629'],1
+Affiliation with or beneficiary of a social security program (health insurance),inclusion,depression,['NCT03810482'],1
+Affiliation with or beneficiary of a social security program (health insurance),inclusion,hypertension,['NCT03810482'],1
+Age \<18 years,exclusion,hypertension,['NCT05521776'],1
+"Age \<18 years old,",exclusion,hypertension,['NCT04356326'],1
+Age \> 70 years,inclusion,stroke,['NCT05224973'],1
+Age ≥ 18 years,inclusion,hypertension,['NCT06687265'],1
+Age ≥ 18 years old,inclusion,healthy,['NCT06746220'],1
+Age ≥ 18 years old,inclusion,stroke,['NCT04759326'],1
+Age ≥18 years,inclusion,hypertension,['NCT05521776'],1
+Age between 18 and 40 years old.,inclusion,hypertension,['NCT04520048'],1
+Age over 18 years,inclusion,depression,['NCT05480826'],1
+Agree to abstain from donating blood/plasma or any other bodily fluids from the time of vaccination until 1 year after vaccination (only for LVT-001 vaccine).,inclusion,healthy,['NCT06821126'],1
+Agree to be registered in the computerized file of the Ministry of Health (VRB).,inclusion,healthy,['NCT06821126'],1
+Agree to implement barrier measures as much as possible (washing hands and wearing a mask) against COVID-19 and respiratory infections between D0 and D28.,inclusion,healthy,['NCT06821126'],1
+Agree to stay in the geographical area of one of the clinical sites for the duration of the trial.,inclusion,healthy,['NCT06821126'],1
+"Alcohol consumption \> 14 units/week for women or \> 21 units/week for men, current or abstinent for less than 6 months",exclusion,hypertension,['NCT06687265'],1
+Alcohol ingestion before the examination,exclusion,healthy,['NCT05036629'],1
+All musculoskeletal conditions affecting the cervical spine less than 6 months old.,exclusion,healthy,['NCT06754774'],1
+All musculoskeletal conditions affecting the upper limb less than 6 months old.,exclusion,healthy,['NCT06754774'],1
+All participants must sign informed consent before the start of the study,inclusion,healthy,['NCT06746220'],1
+Allergy or hypersensitivity to cold,exclusion,healthy,['NCT04423874'],1
+Allergy to any excipient known to be present in the probiotic or placebo formulation,exclusion,healthy,['NCT06746220'],1
+Amblyopia,exclusion,hypertension,['NCT06945848'],1
+An Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 assessed within 7 days before first dose of study treatment,inclusion,breast cancer,['NCT06393374'],1
+Anatomical anomaly of the venous sinus which would prevent safe catheterization and stenting,exclusion,hypertension,['NCT06945848'],1
+"Anticipated disability to attend all the visits, treatments and measures planned by the protocol: severe personality disorder, severe substance addiction, severe intellectual development disorder. In any of those cases, the notion of severity is at the indiscretion of the investigator",exclusion,depression,['NCT05952674'],1
+Anticipated length of hospital stay in a participating centre ≥ 5 days,inclusion,stroke,['NCT07065929'],1
+Any active tumor of non-breast-cancer histology.,exclusion,breast cancer,['NCT05896566'],1
+Any acute kidney injury within 3 months prior to the Screening Visit,exclusion,hypertension,['NCT06268873'],1
+Any clinical condition requiring systemic immunosuppression therapy other than stable maintenance therapy for at least 3 months prior to Visit 1.,exclusion,hypertension,['NCT06268873'],1
+"Any concurrent disease or serious medical condition or abnormality in clinical laboratory tests that, in the investigator's judgment, precludes the patient's safe participation in and completion of the study.",exclusion,breast cancer,['NCT05896566'],1
+"Any condition that, in the opinion of the investigator, would make the subject's participation in the study undesirable or that would compromise compliance with the protocol",exclusion,depression,['NCT05480826'],1
+"Any constitutional or acquired hemorrhagic disease, (including digestive hemorrhages, history of hemorrhagic stroke and thrombocytopenia",exclusion,hypertension,['NCT04356326'],1
+any dental apparatus containing metal including or root canals,exclusion,healthy,['NCT04457622'],1
+Any dialysis (including for acute kidney injury) within 3 months prior to Screening Visit.,exclusion,hypertension,['NCT06268873'],1
+any foreign metallic object anywhere in the body,exclusion,healthy,['NCT04457622'],1
+Any form of contraindication to the trial vaccines tested.,exclusion,healthy,['NCT06821126'],1
+"Any medical or active psychological condition or any clinically relevant laboratory abnormalities, such as, but not limited, to elevated ALT or AST (\> 3 × ULN) in combination with elevated bilirubin (\> 2 × ULN), at the screening/baseline visit.",exclusion,healthy,['NCT07090889'],1
+"Any other condition or previous therapy that, in the opinion of the Investigator or their designee, would render the participant unsuitable for this study, including an inability to fully comply with the study protocol requirements or a likelihood of noncompliance with study procedures.",exclusion,healthy,['NCT07090889'],1
+"Any other condition or previous therapy that, in the opinion of the Investigator or their designee, would render the patient unsuitable for this study, including an inability to fully comply with the study protocol requirements or a likelihood of noncompliance with study procedures.",exclusion,healthy,['NCT07090889'],1
+"Any other condition that, in the opinion of the investigator, would compromise the safety or rights of a volunteer participating in the trial or render the subject unable to comply with the protocol.",exclusion,healthy,['NCT06821126'],1
+"Any other reason which in the opinion of the investigator, could interfere with the evaluation of the study objectives.",exclusion,obesity,['NCT06538220'],1
+Any other serious chronic illness requiring immediate monitoring by a hospital specialist.,exclusion,healthy,['NCT06821126'],1
+Any patient for whom IGB is contraindicated \[criteria defined by the French Society for Digestive Endoscopy) and the French Think-Tank for Hepato-Gastroenterology Practices\]:,exclusion,obesity,['NCT05364957'],1
+"Any significant co-morbidity that would impact the study or the subject's safety, including subjects with significant malabsorption.",exclusion,breast cancer,['NCT05696626'],1
+Any tumor size (pT stage);,inclusion,breast cancer,['NCT06418126'],1
+"Any use of mineralocorticoid receptor antagonists (such as spironolactone, eplerenone, or finerenone), potassium-sparing diuretics (such as triamterene or amiloride), or potassium binders (such as sodium zirconium cyclosilicate, patiromer, or sodium polystyrene sulfonate) within 4 weeks prior to screening.",exclusion,hypertension,['NCT06268873'],1
+"Apparent wound, which may postpone inclusion, or very fragile skin,",exclusion,stroke,['NCT05315726'],1
+"Arterial hypertension treated with at least one blood pressure lowering drug therapy among blockers of the renin-angiotensin system (ACEi or ARB), at the maximal posology tolerated by the patients stable since at least one month. Other blood pressure lowering drug therapies are tolerated.",inclusion,hypertension,['NCT05732727'],1
+Asthma according to the Global Initiative for Asthma (GINA) criteria,inclusion,obesity,['NCT05364957'],1
+"Asymptomatic,",inclusion,breast cancer,['NCT05696626'],1
+At least 1 or more ESR1 point mutations in the ESR1 ligand binding domain as assessed in cell- free ctDNA obtained from a blood or breast cancer tissue.,inclusion,breast cancer,['NCT05696626'],1
+At least one of the following criteria:,inclusion,depression,['NCT05952674'],1
+Autosomal dominant polycystic kidney disease treated with Tolvaptan,exclusion,hypertension,['NCT05732727'],1
+"Available tissue from one archival tumour tissue sample (either from diagnostic biopsy, primary surgery or where available residual disease post-neoadjuvant chemotherapy)",inclusion,breast cancer,['NCT04985266'],1
+"B. Tumour size \> 5 cm, regardless of lymph node status, or",inclusion,breast cancer,['NCT04985266'],1
+Be affiliated to French social security system.,inclusion,healthy,['NCT06821126'],1
+Be male or female between the ages of:,inclusion,healthy,['NCT06821126'],1
+Be non-athletic,inclusion,healthy,['NCT06746220'],1
+Be registered as a student at the University of Orléans,inclusion,healthy,['NCT06746220'],1
+Beck Scale for Suicide Ideation (BSS) score ≥8,inclusion,depression,['NCT05894980'],1
+Being female,inclusion,healthy,['NCT06746220'],1
+"Being pregnant or breastfeeding,",exclusion,stroke,['NCT05315726'],1
+"Being processed Cancer (chemotherapy, radiotherapy or hormone therapy)",exclusion,obesity,['NCT03472157'],1
+Being under guardianship or curatorship.,exclusion,stroke,['NCT05315726'],1
+Biliary cirrhosis,exclusion,hypertension,['NCT06687265'],1
+Blood eosinophilia greater than 4.5 G/I,exclusion,obesity,['NCT05364957'],1
+BMI and Brunt Fibriosis score:,inclusion,obesity,['NCT03472157'],1
+"BMI: 18,5 Kg/m2 ≤ BMI ˂30Kg/m2.",inclusion,healthy,['NCT06821126'],1
+"Body mass index (BMI) between 18.5 and 24.9 kg/m²,",inclusion,healthy,['NCT05370222'],1
+Body Mass Index (BMI) between 35 and 60 kg/m2 inclusive,inclusion,obesity,['NCT05783466'],1
+Body Mass Index (BMI) of 18.0 to 32.0 kg/m2 (inclusive); and a total body weight \>50.0 kg (110 lbs) and \<100.0 kg (220 lbs) at screening and Day -1.,inclusion,healthy,['NCT07090889'],1
+Body mass index \> 35 and \< 50 kg/m2,inclusion,obesity,['NCT01501201'],1
+"bolts, screws",exclusion,healthy,['NCT04457622'],1
+Brain metastases are allowed only if the following 4 parameters hold:,inclusion,breast cancer,['NCT05696626'],1
+"C. 1-3 involved axillary lymph nodes and at least one of the following; i) Tumour size \> 3 cm, ii) histological grade 3 iii) high genomic risk defined as Oncotype Dx Recurrence Score \>=26, Prosigna score \>=60, EPclin risk score \>=4.0, or Mammaprint high risk category, or",inclusion,breast cancer,['NCT04985266'],1
+Cancer diagnosed within the last 5 years,exclusion,obesity,['NCT05364957'],1
+Candidate for Gastric By-Pass,inclusion,obesity,['NCT01501201'],1
+"Candidates for RY gastric By-pass bariatric surgery,",inclusion,obesity,['NCT04934826'],1
+Cardiac arrhythmia.,exclusion,hypertension,['NCT04520048'],1
+"Cardiac or vascular disease, or a heart condition (including symptoms of Raynaud's syndrome)",exclusion,healthy,['NCT04423874'],1
+CARLSSON score (score ≥ 4) preoperatively,exclusion,obesity,['NCT04994665'],1
+"Central laboratory serum potassium must meet the following criteria at the Screening Visit, based on screening eGFR:",inclusion,hypertension,['NCT06268873'],1
+Central nervous system disease stable for \>3 months prior to registration as documented by magnetic resonance imagining (MRI).,inclusion,breast cancer,['NCT05696626'],1
+"Cerebral vascular lesions (arteriovenous malformation, arteriovenous fistula, aneurysms, significant stenosis of extra- or intra-cranial vessels other than the targeted venous sinus stenosis, intracranial artery dissection, etc.).",exclusion,hypertension,['NCT06945848'],1
+Certain infectious endocarditis according to Dukes Criteria,inclusion,stroke,['NCT05378126'],1
+Certificate of no contraindication by a psychiatrist,inclusion,obesity,['NCT04994665'],1
+Certificate of non-contraindication issued by the referring physician,inclusion,stroke,['NCT04759326'],1
+"CGI-Severity score\<6 assessed by the psychiatrist (Berk et al., 2008) ISMI score indicating moderate to high self-stigma (\>2.5; Lysaker et al., 2007)",inclusion,depression,['NCT05698589'],1
+Characterized depressive disorder with psychotic characteristics within 3 months before the inclusion (DSM-5),exclusion,depression,['NCT05952674'],1
+Child-Pugh A or B,inclusion,hypertension,['NCT06687265'],1
+Childbearing women must have an efficient contraception for the whole study period,inclusion,depression,['NCT05952674'],1
+Cholangiocarcinoma,exclusion,hypertension,['NCT06687265'],1
+Chronic alcohol or drug abuse,exclusion,stroke,['NCT06930131'],1
+"Chronic hypertension, whether treated or not, know before pregnancy or diagnosed before randomization",inclusion,hypertension,['NCT04356326'],1
+Chronic pain,exclusion,healthy,['NCT04423874'],1
+Chronic phase (\> 3 months),inclusion,stroke,['NCT06930131'],1
+Cirrhosis Child B-C,exclusion,hypertension,['NCT05732727'],1
+claustrophobia,exclusion,healthy,"['NCT05036629', 'NCT04457622']",2
+"Clinical diagnosis of OS, with confirmed TRPV3 or PERP mutation, and visible palmoplantar keratoderma.",inclusion,healthy,['NCT07090889'],1
+Clinical signs of dysphagia,inclusion,stroke,['NCT05224973'],1
+Clinical signs of hypovolemia,exclusion,hypertension,['NCT05732727'],1
+Coagulopathy or other pathology that contraindicates biopsy procedures,exclusion,breast cancer,['NCT05981326'],1
+"Cognitive deficit (clinical screening, confirmed by an QI \< 80 on the Weschler scale (WISC V), carried out as part of the usual treatment in the event of clinical evidence.",exclusion,depression,['NCT06351501'],1
+"Cognitive impairment pre-existing stroke (CQI code \> 3.4) (Law et al., 1995)",exclusion,stroke,['NCT06930131'],1
+Collection of informed written consent,inclusion,depression,['NCT03810482'],1
+Collection of informed written consent,inclusion,hypertension,['NCT03810482'],1
+Complete COVID-19 vaccination schedule according to current guidelines,inclusion,obesity,['NCT05364957'],1
+"Complete portal vein thrombosis (main portal trunk, or right branch), or portal cavernoma",exclusion,hypertension,['NCT06687265'],1
+Completed adjuvant radiation therapy (if indicated) and recovered before randomization,inclusion,breast cancer,['NCT06393374'],1
+"Concomitant participation to another interventional clinical trial, excepted eventual ancillary researches validated by the study scientific committee. Participation to non-interventional researches is allowed.",exclusion,depression,['NCT05952674'],1
+Consent form signed,inclusion,stroke,['NCT04621357'],1
+Consumption of at least 1 serving/day of dairy products made from cow's milk,inclusion,obesity,['NCT05783466'],1
+"Contra-indication to aspirin (bleeding disorders such as von Willebrand's disease, active peptic ulceration, hypersensitivity to aspirin, active peptic ulceration, NSAID-exacerbated respiratory disease, severe liver or heart dysfunction)",exclusion,hypertension,['NCT05521776'],1
+"Contra-indication to aspirin, clopidogrel or other P2Y12 anti-aggregant",exclusion,hypertension,['NCT06945848'],1
+Contra-indication to general anesthesia,exclusion,hypertension,['NCT06945848'],1
+"Contra-indication to MRI : claustrophobia, ocular metallic foreign bodies (accidental or other) or in a risk area (nervous or vascular system);irremovable implanted medical device (pacemaker, neurostimulator, cochlear implants and others);metallic heart valve (mainly old heart valves) or vascular clips previously implanted on cranial aneurysms; gadolinium allergy",exclusion,stroke,['NCT04621357'],1
+Contraindication to bariatric surgery,exclusion,obesity,['NCT01501201'],1
+Contraindication to diuretics involved in the algorithm,exclusion,hypertension,['NCT05732727'],1
+Contraindication to hormonal treatment (see paragraph 1.5),exclusion,depression,['NCT06351501'],1
+Contraindication to undergoing brain MRI,exclusion,stroke,['NCT06930131'],1
+Contraindications or known hypersensitivity to the trial medication or excipients.,exclusion,breast cancer,['NCT05896566'],1
+Contraindications related to the radiofrequency technique:,exclusion,breast cancer,['NCT06900374'],1
+Contraindications to physical activity,exclusion,stroke,['NCT04759326'],1
+"Covered by a health insurance system where applicable, and/or in compliance with the recommendations of the national laws in force relating to biomedical research.",inclusion,healthy,['NCT07090889'],1
+Criteria relating to contraindications to the explorations provided for by the MRI protocol:,exclusion,healthy,['NCT05036629'],1
+Criterion A: current characterized depressive disorder and characterized depressive disorder for at least 12 months during the last 24 months despite at least four treatments lines at appropriate dosage and duration,inclusion,depression,['NCT05952674'],1
+Criterion B: current treatment by ECT and criteria A before the start of the ECT treatment or ECT dependency criteria,inclusion,depression,['NCT05952674'],1
+Current anticoagulant treatment,exclusion,depression,['NCT06351501'],1
+Current medical history of cancer requiring chemotherapy,exclusion,hypertension,['NCT05732727'],1
+"Current or recent treatment (within the last 12 months) with other physical methods: vaginal laser, photobiomodulation, PRP injection, hyaluronic acid injection or lipo-modeling.",exclusion,breast cancer,['NCT06900374'],1
+Current participation in any clinical research trial involving an investigational drug or device within the last 30 days.,exclusion,breast cancer,['NCT05696626'],1
+Current treatment with medications that are well known to prolong the QT interval.,exclusion,breast cancer,['NCT05896566'],1
+"Currently participating or participated in any other clinical trial of an IMP or device, within the past 4 months before the screening visit.",exclusion,healthy,['NCT07090889'],1
+"Cutaneous infection of the area to be treated with IMP within 2 weeks before the screening visit or any infection of treatment area requiring treatment with oral, parenteral antibiotics, antivirals, antiparasitics or antifungals or any topical within 2 weeks before the screening visit.",exclusion,healthy,['NCT07090889'],1
+Cutaneous infection or another underlying condition of the skin which may impact the assessments or trial participants.,exclusion,healthy,['NCT07090889'],1
+D. At least one lymph node positive (micrometastasis or macrometastasis) after chemotherapy,inclusion,breast cancer,['NCT04985266'],1
+"Decompensated cirrhosis (MELD\> 7 CPT score\> 5, previous history of decompensation (encephalopathy, ascites, jaundice, varicose vein rupture)",exclusion,obesity,['NCT03472157'],1
+Deficit still existing (Rankin score ≥ 3 and ≤ 4 at inclusion),inclusion,stroke,['NCT04759326'],1
+"Definitively treated (e.g., radiotherapy, surgery),",inclusion,breast cancer,['NCT05696626'],1
+Dependence on alcohol or psychoactive substances such as drugs,exclusion,obesity,['NCT04934826'],1
+"Deprived of their liberty by court or administrative decision,",exclusion,depression,['NCT06035731'],1
+Diabetes,exclusion,healthy,['NCT04423874'],1
+Diabetes mellitus:,exclusion,hypertension,['NCT06268873'],1
+Diabetic foot ulcers.,exclusion,healthy,['NCT07090889'],1
+Diagnosed as having a progressive general pathology,exclusion,stroke,['NCT06930131'],1
+Diagnosis of Chronic Obstructive Pulmonary Disease (COPD),exclusion,obesity,['NCT05364957'],1
+"Diagnosis of cirrhosis based on a liver biopsy, or on clinical, biological, endoscopic, and radiological evidence",inclusion,hypertension,['NCT06687265'],1
+Diagnosis of Major Depressive Disorder according to the 5th edition of Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria and confirmation by the MINI Structured Clinical Interview,inclusion,depression,['NCT05894980'],1
+Diagnosis of recurrent depressive trouble or persistent depressive disorder or bipolar disorder (according to DSM-5),inclusion,depression,['NCT05952674'],1
+Dietary restriction (vegetarian or lactovegetarian) or high protein diet,exclusion,obesity,['NCT05783466'],1
+"Disability, according to the investigator, to understand the study or refusal to sign the study consent form (non-francophone patient, cognitive disorders)",exclusion,depression,['NCT05952674'],1
+Distant metastasis at the time of diagnosis;,exclusion,breast cancer,['NCT06418126'],1
+"Documented estrogen receptor (ER)-positive tumor in accordance to ASCO/CAP guidelines (Allison et al. 2020),47 assessed locally and defined as ≥1% of tumor cells stained positive.",inclusion,breast cancer,['NCT05896566'],1
+"Documented Human epidermal growth factor receptor 2 overexpressing and/or amplified (HER2+), metastatic breast cancer (mBC) or metastatic gastric adenocarcinoma, gastroesophageal junction adenocarcinoma, or esophageal adenocarcinoma (mGEAC).",inclusion,breast cancer,['NCT06324357'],1
+"Documented human epidermal growth factor receptor-2 (HER2)-negative tumor in accordance to 2018 ASCO/CAP guidelines (Wolff et al. 2018)48, as determined per local assessment.",inclusion,breast cancer,['NCT05896566'],1
+Documented investigator assessed progression after HER2-directed treatment (including treatment with trastuzumab deruxtecan (T-DXd) for non-T-DXd combination cohorts) for unresectable locally advanced or metastatic disease.,inclusion,breast cancer,['NCT06324357'],1
+Dosed in another clinical trial within at least 10 tissue half-lives prior to dosing or 4 months.,exclusion,healthy,['NCT07090889'],1
+Drinking more than 3 glasses of alcohol per day (\>30g/day),exclusion,obesity,['NCT05783466'],1
+Drug abuse within the past year.,exclusion,obesity,['NCT03472157'],1
+"Duodenal ulcer,",exclusion,hypertension,['NCT04356326'],1
+"Dyskalemia (\<3,5 mmol/L or \>5,5 mmol/L)",exclusion,hypertension,['NCT05732727'],1
+E. Lymph node negative and tumour size \> 3 cm after chemotherapy,inclusion,breast cancer,['NCT04985266'],1
+early limitation of life-sustaining care,exclusion,stroke,['NCT04282629'],1
+Eastern Cooperative Oncology Group (ECOG) performance score of 0 or 1,inclusion,breast cancer,['NCT05696626'],1
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1.,inclusion,breast cancer,['NCT04725331'],1
+Eastern Cooperative Oncology Group (ECOG) score of 0 or 1. Further,inclusion,breast cancer,['NCT06324357'],1
+Eastern Cooperative Oncology Group Performance Status 0-1.,inclusion,breast cancer,['NCT05896566'],1
+Eating disorder or mental disorder,exclusion,obesity,['NCT04994665'],1
+"ECOG performance status 0, 1 or 2 (see https://ecog-acrin.org/resources/ecog-performance-status)",inclusion,breast cancer,['NCT04985266'],1
+Effective contraception for women,inclusion,obesity,['NCT05364957'],1
+"Eligible for upfront breast conservative surgery or upfront mastectomy: stage I, stage II or operable stage III (excludes T4) (AJCC Cancer Staging Manual 8th edition 2017).46 Tumor size must be ≥1.0 cm Multicentric and multifocal tumors and bilateral breast cancers are allowed but investigators must ensure the same tumor foci is biopsied pre-treatment and post-treatment (e.g., via clipping of the biopsied tumor foci).",inclusion,breast cancer,['NCT05896566'],1
+Epilepsy,exclusion,healthy,['NCT04423874'],1
+Esophagitis of grade B and above on the Oeso-Gastro-Duodenal Fibroscopy,exclusion,obesity,['NCT04994665'],1
+Estradiol (E2) in the premenopausal range (according to institution parameters) or Patient has been menstruating regularly during the 6 months prior to screening and has not used any form of hormonal contraception or any other hormonal treatments during this time.,inclusion,breast cancer,['NCT05896566'],1
+"Evidence of an informed consent document, signed and dated by the subject, indicating that the subject has been informed of all pertinent aspects of the study prior to initiation of any subject-mandated procedures.",inclusion,hypertension,['NCT06274801'],1
+Evidence of an uncontrolled seizure disorder,exclusion,stroke,['NCT04759326'],1
+"Evidence of intracranial hemorrhage (subarachnoid hemorrhage (SAH), intracerebral hemorrhage (ICH), etc.)",exclusion,hypertension,['NCT06945848'],1
+"Evidence or history of clinically relevant hepatic, hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic, or allergic disease.",exclusion,healthy,['NCT07090889'],1
+Except for chemotherapy as neoadjuvant therapy for early-stage TNBC: Received prior systemic anticancer therapy including investigational agents within 4 weeks before randomization,exclusion,breast cancer,['NCT06393374'],1
+"Except for pembrolizumab as neoadjuvant therapy for early-stage TNBC: received prior therapy with an anti-programmed cell death 1 protein (anti-PD-1), anti-programmed cell death ligand 1 (anti-PD-L1), or anti-PD-L2 agent, or with an agent directed to another stimulatory or coinhibitory T-cell receptor (eg, cytotoxic T-lymphocyte-associated protein-4 \[CTLA-4\], OX-40 \[cluster of differentiation (CD) 134\], or CD137)",exclusion,breast cancer,['NCT06393374'],1
+Existing declaration of informed consent,inclusion,stroke,['NCT04759326'],1
+Expected follow-up \< 3 months,exclusion,hypertension,['NCT06687265'],1
+"Exposure to an oral drug (other than ACZ), substance, or disorder that has been associated with elevation of intracranial pressure within 2 months of diagnosis (lithium, vitamin A, tetracycline and related compounds)",exclusion,hypertension,['NCT06945848'],1
+Extra-hepatic cancer without remission,exclusion,hypertension,['NCT06687265'],1
+"Failure of other medical cares (medical, nutritional, dietetic and psychotherapeutic treatment) well conducted for 6 to 12 months.",inclusion,obesity,['NCT04934826'],1
+"Female and male patients of reproductive potential must be willing to use an adequate method of contraception for the first three years of the trial, if randomised to standard endocrine therapy for the duration of trial treatment through to at least 4 weeks after the last dose of trial treatment, and if randomised to fulvestrant and palbociclib to 2 years after the last dose of fulvestrant (see section 4.6). Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception for the patient.",inclusion,breast cancer,['NCT04985266'],1
+"Female participants of non-childbearing potential, childbearing potential and males capable of fathering a child must meet the contraception requirements.",inclusion,healthy,['NCT07090889'],1
+"Female participating in the study must be either of non-child bearing (surgically sterilized at 6 month prior to screening or postmenopausal) or using an efficient contraception: hormonal contraception (including patch, contraceptive ring etc) intra-uterine device or other mechanical contraception",inclusion,obesity,['NCT03472157'],1
+Fibroscan ≥ 9kPa or FibrometreVM ≥0.526 predicting a F3 or F4 fibrosis score grade within 1 month before inclusion Or F3 or F4 fibrosis score grade diagnosed by hepatic biopsy performed before inclusion.,inclusion,obesity,['NCT03472157'],1
+First cerebral infarction,inclusion,stroke,['NCT06930131'],1
+"First stroke ever \< 6 weeks, confirmed by imaging,",inclusion,stroke,['NCT05315726'],1
+flutter patient or atrial fibrillation,exclusion,stroke,['NCT04282629'],1
+Food allergies or intolerance to dairy products,exclusion,obesity,['NCT05783466'],1
+"For a woman of childbearing potential, plan to be non-pregnant AND use of highly effective contraception from screening until the end of the trial.",inclusion,healthy,['NCT06821126'],1
+For all experiments:,inclusion,healthy,['NCT04457622'],1
+For All Experiments:,exclusion,healthy,['NCT04457622'],1
+For all subjects:,exclusion,depression,['NCT05480826'],1
+"For child-bearing aged women, contraception using oestroprogestative, progestative, intrauterine device, or mechanical contraception",inclusion,hypertension,['NCT06687265'],1
+for ctDNA Surveillance:,inclusion,breast cancer,['NCT04985266'],1
+"For dose optimization (Phase II): Patient must provide tumor tissue from locations not radiated prior to biopsy, if possible, collected through archival tissue.",inclusion,breast cancer,['NCT06324357'],1
+For F3 fibrosis patients: 35\>BMI≥ 30kg/m² ; Fibroscan ≥ 9kPa or FibrometreVM ≥0.526 predicting a F3 fibrosis score grade within 1 month before inclusion or F3 fibrosis score grade diagnosed by hepatic biopsy performed before inclusion.,inclusion,obesity,['NCT03472157'],1
+For F4 fibrosis patients: 50\>BMI≥ 30kg/m² ; Fibroscan ≥ 15kPa predicting a F4 fibrosis score grade within 1 month before inclusion or F4 fibrosis score grade diagnosed by hepatic biopsy performed before inclusion.,inclusion,obesity,['NCT03472157'],1
+"For females (assigned at birth), is not pregnant or breastfeeding and ≥1 of the following applies: is not a participant of childbearing potential (POCBP) OR is a POCBP and uses highly effective contraception after the last dose of study intervention (210 days for sacituzumab tirumotecan, 120 days for pembrolizumab, and 185 days for capecitabine). Abstains from breastfeeding during the study intervention period and for at least 120 days after study intervention",inclusion,breast cancer,['NCT06393374'],1
+"For hypertensive patients, hypertension must be controlled by stable dose of anti-hypertensive medication for at least 2 months prior to screening (and the stable dose can be maintained throughout the study).",inclusion,obesity,['NCT03472157'],1
+"for participants with screening eGFR \< 45 mL/min/1.73 m2, potassium must be ≥ 3.0 and ≤ 4.5 mmol/L at the Screening Visit",inclusion,hypertension,['NCT06268873'],1
+"for participants with screening eGFR ≥ 45 mL/min/1.73 m2, potassium must be ≥ 3.0 and ≤ 4.8 mmol/L at the Screening Visit",inclusion,hypertension,['NCT06268873'],1
+For patients only : diagnosed with Binge Eating Desordors according to DSM criteria.,inclusion,healthy,['NCT06864065'],1
+"For patients taking part in the RTW WP: patient in an ""self employed"" or ""interim"" employment situation",exclusion,breast cancer,['NCT05981326'],1
+For patients taking part in the RTW WP: Patients working part-timeProcedures for withdrawal of incorrectly enrolled patients are presented in Section 7.5.,exclusion,breast cancer,['NCT05981326'],1
+For patients taking part in the RTW WP: working patients at time of diagnostic and in sick leave at time of inclusion,inclusion,breast cancer,['NCT05981326'],1
+"For patients with cirrhosis, patients must fulfil all the following criteria: Platelets \> 125 000, PT \> 80 %, Albumin \> 35 g/L, MELD score at inclusion \< 9, CPT score \< 6, No history of previous decompensation, No oesophageal varices (endoscopy), No vascular shunt, ASA score ≤ III, Alcohol consumption lower than 20g/day for women and 30g/day for men.",inclusion,obesity,['NCT03472157'],1
+For patients:,inclusion,depression,['NCT05480826'],1
+For relatives :,inclusion,depression,['NCT05480826'],1
+For the subjects of the group NO:,exclusion,obesity,['NCT03008525'],1
+For women of childbearing age: effective contraception implemented for at least 3 months.,inclusion,obesity,['NCT04934826'],1
+"free patient, without tutorship or curatorship or under judicial protection",inclusion,stroke,['NCT04282629'],1
+"Free, informed and signed consent by the participant and/or the person having guardianship and the investigator (at the latest on the day of inclusion and before any examination required by the research);",inclusion,stroke,['NCT06312631'],1
+French as native language,inclusion,healthy,['NCT04457622'],1
+"Fulminant decrease of visual acuity due to the IIH defined as a visual loss (of the most seriously impaired eye) of at least 3/10 (from corrected vision) within 4 weeks, in absence of any other ophthalmologic pathology and Mean Deficit of visual field superior to -10 dB",exclusion,hypertension,['NCT06945848'],1
+"Gastic Banding, Biliopancreatic diversion and all the new bariatric surgery techniques are forbidden because the study design allow only the laparoscopic sleeve gastrectomy or laparoscopic Roux-en-Y gastric Bypaass.",exclusion,obesity,['NCT03472157'],1
+Gestational age \<11 WG and \>14 WG,exclusion,hypertension,['NCT05521776'],1
+Girls aged 14 to 18 playing handball Handballers training at the Pôle Espoirs or the Centre Labellisé d'Entrainement 29 Players of legal age who have given their consent Signature of consent by parents for underage players,inclusion,healthy,['NCT06754774'],1
+glasses (given the participant cannot use contact lenses),exclusion,healthy,['NCT04457622'],1
+Global or sensory aphasia,exclusion,stroke,['NCT04759326'],1
+"Good general health as determined at the discretion of the investigator (vital signs, medical history, and physical examination).",inclusion,healthy,['NCT06821126'],1
+"Gout,",exclusion,hypertension,['NCT04356326'],1
+Had adequate excision and surgical removal of all clinically evident disease in the breast and/or lymph nodes and have adequately recovered from surgery,inclusion,breast cancer,['NCT06393374'],1
+Had neoadjuvant treatment based on the KEYNOTE-522 regimen (pembrolizumab with carboplatin/taxanes and pembrolizumab with anthracycline-based chemotherapy) followed by surgery according to National Comprehensive Cancer Network (NCCN) treatment guidelines for TNBC,inclusion,breast cancer,['NCT06393374'],1
+Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 28 days prior the first dose of study drugs,exclusion,breast cancer,['NCT04725331'],1
+Has a known germline breast cancer gene (BRCA) mutation (deleterious or suspected deleterious) and is eligible for adjuvant therapy with olaparib where olaparib is approved and available,exclusion,breast cancer,['NCT06393374'],1
+"Has active autoimmune disease that has required systemic treatment in the past 2 years. Replacement therapy (eg, thyroxine, insulin, or physiologic corticosteroid) is allowed",exclusion,breast cancer,['NCT06393374'],1
+Has active infection requiring systemic therapy,exclusion,breast cancer,['NCT06393374'],1
+"Has active inflammatory bowel disease requiring immunosuppressive medication or previous history of inflammatory bowel disease (eg, Crohn's disease, ulcerative colitis, or chronic diarrhea)",exclusion,breast cancer,['NCT06393374'],1
+"Has centrally confirmed TNBC, as defined by the most recent American Society of Clinical Oncology/College of American Pathologists (ASCO/CAP) guidelines",inclusion,breast cancer,['NCT06393374'],1
+Has concurrent active hepatitis B and hepatitis C virus infection,exclusion,breast cancer,['NCT06393374'],1
+Has diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior the first dose of study medication,exclusion,breast cancer,['NCT06393374'],1
+Has expressed interest and availability to meet the trial requirements.,inclusion,healthy,['NCT06821126'],1
+Has Grade \>2 peripheral neuropathy,exclusion,breast cancer,['NCT06393374'],1
+Has history of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease,exclusion,breast cancer,['NCT06393374'],1
+Has history of allogeneic tissue/solid organ transplant,exclusion,breast cancer,['NCT06393374'],1
+Has known additional malignancy that is progressing or has required active treatment within the past 5 years,exclusion,breast cancer,['NCT06393374'],1
+"Has no evidence of locoregional or distant relapse, as assessed by the treating physician",inclusion,breast cancer,['NCT06393374'],1
+Has non-pathologic complete response at surgery,inclusion,breast cancer,['NCT06393374'],1
+Has provided tissue from the surgical resection for central laboratory determination of trophoblast cell surface antigen 2 (TROP2) status,inclusion,breast cancer,['NCT06393374'],1
+Has received an investigational agent or has used an investigational device within 4 weeks prior to study intervention administration,exclusion,breast cancer,['NCT06393374'],1
+"Has uncontrolled, significant cardiovascular disease or cerebrovascular disease including New York Heart Association Class III or IV congestive heart failure, unstable angina, myocardial infarction, uncontrolled symptomatic arrhythmia, prolongation of QTcF interval to \>480 ms, and/or other serious cardiovascular and cerebrovascular diseases within 6 months prior to study intervention",exclusion,breast cancer,['NCT06393374'],1
+Have a BMI between 18.5 and 30 kg/m2,inclusion,healthy,['NCT06746220'],1
+Have a history of (non-infectious) pneumonitis / interstitial lung disease that required steroids or has current pneumonitis / interstitial lung disease,exclusion,breast cancer,['NCT04725331'],1
+Have a known additional malignancy that is progressing or has required active treatment within the past 3 years.,exclusion,breast cancer,['NCT04725331'],1
+Have a known history of Hepatitis B (defined as HBsAg reactive) or known active Hepatitis C virus (defined as HCV RNA \[qualitative\] is detected) infection.n.,exclusion,breast cancer,['NCT04725331'],1
+Have a known history of HIV infection,exclusion,breast cancer,['NCT04725331'],1
+"Have achieved a minimal BMI \< 18.5 or maximal BMI ≥ 25 kg/m² in adult life,",inclusion,healthy,['NCT05370222'],1
+"Have adequate hematological, hepatic and renal functions.",inclusion,breast cancer,['NCT04725331'],1
+"Have an active autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs).",exclusion,breast cancer,['NCT04725331'],1
+Have an active infection requiring systemic therapy,exclusion,breast cancer,['NCT04725331'],1
+"Have any other condition or reason that, in the opinion of the Investigator, would prohibit the subject from participating in the study.",exclusion,hypertension,['NCT06274801'],1
+"Have at least 1 injectable measurable cutaneous, subcutaneous or nodal lesion (direct injection or through the use of ultrasound guidance) not exceeding 50mm in longest diameter and whenever possible 1 distant non-injected measurable lesion.",inclusion,breast cancer,['NCT04725331'],1
+Have failed and/or are intolerant to standard therapeutic options.,inclusion,breast cancer,['NCT04725331'],1
+Have had an allogenic tissue/solid organ transplant or allogenic stem cell or bone marrow transplantation,exclusion,breast cancer,['NCT04725331'],1
+"Have had an ischemic and/or hemorrhagic stroke (\> 3 months post-stroke), impacting the motor skills of the upper limbs,",inclusion,stroke,['NCT05315726'],1
+Have had major surgery within 4 weeks of first study drug administration.,exclusion,breast cancer,['NCT04725331'],1
+"Have histologically confirmed, advanced/metastatic sarcoma (soft tissue and bone), Merkel cell carcinoma, melanoma, triple negative breast cancer or non-small cell lung cancer, with cutaneous or, palpable subcutaneous lesions or easily injectable lymph nodes.",inclusion,breast cancer,['NCT04725331'],1
+Have Internet access at home (computer) and are able to use the digital platform.,inclusion,depression,['NCT06014125'],1
+Have known active CNS metastases and/or carcinomatous meningitis.,exclusion,breast cancer,['NCT04725331'],1
+Have no contraindication to the practice of physical activity,inclusion,healthy,['NCT06746220'],1
+Have received or receiving any live or live-attenuated vaccine within 30 days prior to the first dose of study intervention..,exclusion,breast cancer,['NCT04725331'],1
+Have received prior radiotherapy within 2 weeks of start of study treatment or have had a history of radiation pneumonitis,exclusion,breast cancer,['NCT04725331'],1
+Have received prior systemic anti-cancer therapy including investigational agents within 4 weeks prior to the start of treatment.,exclusion,breast cancer,['NCT04725331'],1
+"Have received prior therapy with an anti-PD-1, anti-PD-L1, or anti PD L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g., CTLA-4, OX 40, CD137), and was discontinued from that treatment due to a Grade 3 or higher immune-related Adverse Event (irAE).",exclusion,breast cancer,['NCT04725331'],1
+Have received prior treatment with a vaccinia oncolytic virus.,exclusion,breast cancer,['NCT04725331'],1
+"Have severe hypersensitivity to the active substance or, to any of the excipients of (≥Grade 3) to pembrolizumab. and/or any of its excipients",exclusion,breast cancer,['NCT04725331'],1
+Having dated and signed an informed consent.,inclusion,depression,['NCT06035731'],1
+Having given oral consent.,inclusion,stroke,['NCT05315726'],1
+Having given written consent,inclusion,hypertension,['NCT04520048'],1
+Having initiated puberty: tanner score ≥2 for FtM; tanner score ≥2 (clinic and/or testosterone \>0.3 ng/mL) for MtF,inclusion,depression,['NCT06351501'],1
+Having received any of the prohibited treatments in Table 2 within the specified timeframe before inclusion.,exclusion,healthy,['NCT07090889'],1
+Having signed the consent,inclusion,depression,['NCT05480826'],1
+Having signed the consent form,inclusion,depression,['NCT05480826'],1
+Having treatment for a pathology at the time of inclusion,exclusion,healthy,['NCT06746220'],1
+Healthy female and male participants.,inclusion,healthy,['NCT07090889'],1
+heart failure requiring inotropic administration at the time of randomization,exclusion,stroke,['NCT04282629'],1
+"Hemiparesis or hemiplegia of the upper limb (FMA-UE score \< 48), particularly in the wrist and elbow flexors,",inclusion,stroke,['NCT05315726'],1
+"Hemostasis disorders, including hemophilia (with thrombocytopenia)",exclusion,hypertension,['NCT04356326'],1
+"Hepatitis C, HIV infection (assay performed within 6 months prior to diagnosis of pre- eclampsia)",exclusion,hypertension,['NCT04520048'],1
+Hepatocellular carcinoma,exclusion,obesity,['NCT03472157'],1
+"Hepatocellular carcinoma with at least one nodule \> 3 cm in diameter, or more than 3 nodules",exclusion,hypertension,['NCT06687265'],1
+High blood pressure or poor circulation,exclusion,healthy,['NCT04423874'],1
+"High likelihood of HVPG ≥ 12 mm Hg based on investigator's judgement, or on the following criteria:",inclusion,hypertension,['NCT06687265'],1
+Histological or cytological confirmation of ER+/HER2 - disease,inclusion,breast cancer,['NCT05696626'],1
+"Histologically confirmed, operable invasive breast carcinoma.",inclusion,breast cancer,['NCT05896566'],1
+"Histologically proven primary ER+ (Allred score 6/8 or greater, or stain in ≥10% of cancer cells) and HER2- (immunohistochemistry 0/1+ and/or negative by in situ hybridization) breast cancer as determined by local laboratory",inclusion,breast cancer,['NCT04985266'],1
+"History of a pulmonary embolus (PE), deep vein thrombosis (DVT), or any known thrombophilia, unless the event occurred greater than 6 months prior to screening and the subject is treated with chronic anticoagulant therapy such as apixaban (Eliquis) or rivaroxaban (Xarelto).",exclusion,breast cancer,['NCT05696626'],1
+"History of allergic reactions to dust and/or horsehair, or severe asthma",exclusion,stroke,['NCT04759326'],1
+"History of angina pectoris, symptomatic pericarditis, myocardial infarction, or any cardiac arrhythmias (e.g., ventricular, supraventricular, nodal arrhythmias, or conduction abnormality) within 12 months prior to study entry History of documented congestive heart failure (New York Heart Association Class II-IV) or cardiomyopathy Left ventricular ejection fraction \<50% as determined by multiple-gated acquisition scan or echocardiogram QT interval corrected through use of Fridericia's formula (QTcF) \>470 ms based on mean value of triplicate ECGs, history of long or short QT syndrome, Brugada syndrome or known history of corrected QT interval prolongation, or torsades de pointes History or presence of an abnormal ECG that is clinically significant in the investigator's opinion, including complete left bundle branch block, second- or third-degree heart block, sick sinus syndrome, or evidence of prior myocardial infarction",exclusion,breast cancer,['NCT05896566'],1
+History of atrial fibrillation or other risks of stroke,exclusion,hypertension,['NCT06945848'],1
+History of bariatric or digestive surgery or disease interfering with main outcomes,exclusion,obesity,['NCT05783466'],1
+"History of cancer, except:",exclusion,obesity,['NCT03472157'],1
+History of chronic obstructive pulmonary disease or other severe respiratory disease,exclusion,hypertension,['NCT06945848'],1
+"History of chronic rhinitis, nasal septal defect, cleft palate, nasal polyps, or other nasal abnormality that might alter nasal mucosa and affect vaccine response.",exclusion,healthy,['NCT06821126'],1
+History of clinical ascites,inclusion,hypertension,['NCT06687265'],1
+history of clinical ascites in the last 6 months,inclusion,hypertension,['NCT06687265'],1
+History of deep vein thrombosis or pulmonary embolism,exclusion,hypertension,['NCT06945848'],1
+"History of documented hemorrhagic diathesis, coagulopathy, or thromboembolism.",exclusion,breast cancer,['NCT05896566'],1
+"History of documented severe dry eye syndrome, severe Meibomian gland disease and/or blepharitis, or severe corneal disease that prevents/delays corneal healing",exclusion,breast cancer,['NCT06393374'],1
+History of fainting or seizures,exclusion,healthy,['NCT04423874'],1
+History of frequent epistaxis.,exclusion,healthy,['NCT06821126'],1
+History of frostbite,exclusion,healthy,['NCT04423874'],1
+History of Grade 3 or Grade 4 interstitial lung disease (ILD) on previous therapy.,exclusion,breast cancer,['NCT05696626'],1
+History of horse riding or hippotherapy care during the last 6 months,exclusion,stroke,['NCT04759326'],1
+History of intracranial venous thrombosis or intracranial neoplasia,exclusion,hypertension,['NCT06945848'],1
+"History of lactic acidosis, diabetic acidocetosis, or diabetic precoma",exclusion,hypertension,['NCT06687265'],1
+History of long QTc (Q-T interval corrected for heart rate) syndrome or a QTc of \>480 msec.,exclusion,breast cancer,['NCT05696626'],1
+"History of malignancy within the past 5 years (excluding breast cancer), except basal cell or squamous cell carcinoma of the skin curatively treated by surgery.",exclusion,breast cancer,['NCT05696626'],1
+"History of myocarditis or congestive heart failure, unstable angina, uncontrolled infection, or myocardial infarction 6 months prior to clinical trial entry.",exclusion,breast cancer,['NCT04725331'],1
+History of non-compliance to medical regimens.,exclusion,breast cancer,['NCT05696626'],1
+"History of organ transplant or bone marrow transplant, or planned organ transplant within 6 months following randomisation (including kidney transplant).",exclusion,hypertension,['NCT06268873'],1
+History of PE in a previous pregnancy,exclusion,hypertension,['NCT05521776'],1
+History of previously implanted intra-cranial sinus stent,exclusion,hypertension,['NCT06945848'],1
+History of regular alcohol consumption exceeding 14 drinks/week for females or 21 drinks/week for males within 6 months of screening.,exclusion,healthy,['NCT07090889'],1
+"History of severe adverse events following vaccine administration including anaphylactic reaction and associated symptoms such as rash, breathing problems, angioedema, and abdominal pain, or a history of allergic reaction that could be triggered by a component of the SARS-COV-2 vaccine at the time of the first vaccine administration.",exclusion,healthy,['NCT06821126'],1
+"History of severe exfoliative skin conditions (e.g., eczema or atopic dermatitis) requiring systemic therapy for more than 4 weeks within 2 years prior to BT-001 initiation.",exclusion,breast cancer,['NCT04725331'],1
+"History of severe PE with delivery \< 34 weeks of gestation,",exclusion,hypertension,['NCT04356326'],1
+History of severe psychiatric disorders that may affect participation in the trial.,exclusion,healthy,['NCT06821126'],1
+History of TIPS (transjugular intrahepatic portosystemic shunt) / surgical portosystemic derivation / liver transplantation / major hepatectomy,exclusion,hypertension,['NCT06687265'],1
+History of uncontrolled pain,exclusion,stroke,['NCT04759326'],1
+History of upper limb surgery less than 6 months old.,exclusion,stroke,['NCT06312631'],1
+"History of ventricular dysrhythmias or risk factors for ventricular dysrhythmias such as structural heart disease (e.g., severe left ventricular systolic dysfunction, left ventricular hypertrophy), coronary heart disease (symptomatic or with ischemia demonstrated by diagnostic testing), clinically significant electrolyte abnormalities (e.g., hypokalemia, hypomagnesemia, hypocalcemia), or family history of long QT syndrome.",exclusion,breast cancer,['NCT05896566'],1
+"History or ongoing allergy/hypersensitivity, as judged by the investigator, to SGLT2 inhibitor (eg, empagliflozin) or ASI.",exclusion,hypertension,['NCT06268873'],1
+"History or presence of symptomatic bradycardia or resting heart rate \<50 bpm at screening. Patients on stable dose of a beta-blocker or calcium channel antagonist for pre-existing baseline conditions (e.g., hypertension) may be permitted if resting heart rate is ≥50 bpm.",exclusion,breast cancer,['NCT05896566'],1
+HIV positive patients,exclusion,obesity,['NCT03472157'],1
+HIV-infected participants with a history of Kaposi's sarcoma and/or Multicentric Castleman's Disease,exclusion,breast cancer,['NCT06393374'],1
+Hormonal treatment needs to be adjusted (FtM patients treated with anti-coagulants or with thrombophilia).,exclusion,depression,['NCT06351501'],1
+Hospital admission due to neurovascular emergency,exclusion,stroke,['NCT05378126'],1
+"Hospitalised in a neurology department, or Neuro Vascular Unit (NVU), or in a department where beds are dedicated to receiving post-stroke patients",inclusion,stroke,['NCT07065929'],1
+Human immunodeficiency virus (HIV)-infected participants must have well controlled HIV on antiretroviral therapy (ART),inclusion,breast cancer,['NCT06393374'],1
+"Human immunodeficiency virus, or hepatitis B virus, or hepatitis C virus positive serum,",exclusion,hypertension,['NCT04356326'],1
+"Hypersensitivity to salicylates such as aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs),",exclusion,hypertension,['NCT04356326'],1
+Hyponatremia (\<130 mmol/L),exclusion,hypertension,['NCT05732727'],1
+hypotension and / or severe hypovolemia with hemodynamic instability,exclusion,stroke,['NCT04282629'],1
+ICHT at the time of randomisation (ICP\> 25 mmHg for at least 20 min),exclusion,stroke,['NCT04282629'],1
+"If anticoagulation therapy is required for a prosthetic heart valve, stable INR between 2.5 and 3.5 is permitted.",inclusion,breast cancer,['NCT05896566'],1
+"If capable of producing sperm, the participant agrees to the following during the intervention period and for at least the time needed to eliminate each study intervention after the last dose of study intervention (120 days for sacituzumab tirumotecan and 95 days for capecitabine \[no restriction for pembrolizumab\]): agrees to refrain from donating sperm AND is either abstinent and agrees to remain abstinent or uses highly effective contraception",inclusion,breast cancer,['NCT06393374'],1
+Illicit drug use within the past 12 months.,exclusion,healthy,['NCT06821126'],1
+Impossibility of giving the person informed information and ensuring the subject's compliance due to impaired physical and/or psychological health,exclusion,stroke,['NCT06312631'],1
+"Impossibility to submit to the medical follow-up of this clinical trial for geographical, social or psychological reasons",exclusion,breast cancer,['NCT05981326'],1
+In a palliative situation where life expectancy is \< 3 months,exclusion,stroke,['NCT07065929'],1
+Inability for the parents (or legal representative) to understand/fulfil study requirements;,exclusion,obesity,['NCT05032326'],1
+Inability or medical contraindication to travel to the Equiphoria Institute by personal car or taxi,exclusion,stroke,['NCT04759326'],1
+Inability to understand French,exclusion,depression,['NCT05480826'],1
+Inability to understand rehabilitation instructions and/or actively participate in the rehabilitation process,exclusion,stroke,['NCT05224973'],1
+"Incident cases, or prevalent cases with stable disease over the last 3 months",inclusion,depression,['NCT03810482'],1
+"Incident cases, or prevalent cases with stable disease over the last 3 months",inclusion,hypertension,['NCT03810482'],1
+"Including patients under guardianship, curatorship,",inclusion,depression,['NCT05480826'],1
+"Including relative under guardianship, curatorship",inclusion,depression,['NCT05480826'],1
+Inclusion \> 3 months post-stroke,inclusion,stroke,['NCT04759326'],1
+Indication of any systemic therapeutic strategy can be performed alongside this current cohort in accordance with national and / or international recommendations.,inclusion,breast cancer,['NCT05981326'],1
+Individual deprived of liberty or placed under the authority of a tutor,exclusion,breast cancer,['NCT05981326'],1
+Individual has a baseline office diastolic blood pressure ≥ 90 mmHg,inclusion,hypertension,['NCT05198674'],1
+Individual has a documented condition that would prohibit or interfere with ability to obtain an accurate blood pressure measurement,exclusion,hypertension,['NCT05198674'],1
+Individual has an average systolic baseline home blood pressure ≥135 mmHg,inclusion,hypertension,['NCT05198674'],1
+Individual has an estimated glomerular filtration rate (eGFR) of \<45,exclusion,hypertension,['NCT05198674'],1
+Individual has documented type 1 diabetes mellitus or poorly-controlled type 2 diabetes mellitus with glycosylated hemoglobin greater than 8.0%,exclusion,hypertension,['NCT05198674'],1
+Individual has one or more episode(s) of orthostatic hypotension,exclusion,hypertension,['NCT05198674'],1
+Individual has primary pulmonary hypertension,exclusion,hypertension,['NCT05198674'],1
+Individual has undergone prior renal denervation,exclusion,hypertension,['NCT05198674'],1
+Individual is diagnosed with hypertension and has a baseline office systolic blood pressure ≥140 mmHg,inclusion,hypertension,['NCT05198674'],1
+"Individual is pregnant, nursing or planning to become pregnant",exclusion,hypertension,['NCT05198674'],1
+Individual lacks appropriate renal artery anatomy,exclusion,hypertension,['NCT05198674'],1
+Individual requires chronic oxygen support or mechanical ventilation other than nocturnal respiratory support for sleep apnea,exclusion,hypertension,['NCT05198674'],1
+Individual with history of osteoporotic fracture and / or pathology or treatment causing secondary osteoporosis,exclusion,stroke,['NCT06538974'],1
+"Individual with severe spasticity of adductor muscles, hamstring, quadriceps and triceps surae. Severe spasticity is defined by a score of 4 on the modified Ashworth scale",exclusion,stroke,['NCT06538974'],1
+Individually deprived of liberty or placed under the authority of a tutor,exclusion,breast cancer,['NCT03017573'],1
+Inflammatory breast cancer (cT4d).,exclusion,breast cancer,['NCT05896566'],1
+Informed consent,inclusion,healthy,['NCT04457622'],1
+Informed consent,inclusion,obesity,['NCT05783466'],1
+Initial BMI \<35Kg/m².,exclusion,obesity,['NCT04994665'],1
+Initial BMI between 35Kg/m² and 40 Kg/m² associated with at least one severe comorbidity likely to be improved after surgery according to HAS recommendations.,inclusion,obesity,['NCT04994665'],1
+Initial BMI between 35Kg/m² and 40 Kg/m² without comorbidities.,exclusion,obesity,['NCT04994665'],1
+Inpatient or outpatient at the Adult Psychiatry Service,inclusion,depression,['NCT05894980'],1
+"INR \<1.5× ULN and PTT \<1.5x ULN Except for patients receiving anticoagulation therapy. For patients receiving warfarin, a stable INR between 2 and 3 is required. For patients receiving heparin, PTT between 1.5 and 2.5 x ULN (or value before patient started heparin treatment) is required.",inclusion,breast cancer,['NCT05896566'],1
+Insufficient knowledge of French,exclusion,depression,['NCT06351501'],1
+Interstitial lung disease that is symptomatic and may interfere with the detection or management of suspected drug-related pulmonary toxicity,exclusion,breast cancer,['NCT04725331'],1
+Investigator's judgement,inclusion,hypertension,['NCT06687265'],1
+Is able to continue on adjuvant pembrolizumab,inclusion,breast cancer,['NCT06393374'],1
+Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study treatment,exclusion,breast cancer,['NCT04725331'],1
+Is currently receiving a strong inducer/inhibitor of cytochrome P450 3A4 (CYP3A4) that cannot be discontinued for the duration of the study. The required washout period before starting sacituzumab tirumotecan is 2 weeks,exclusion,breast cancer,['NCT06393374'],1
+Is taking an anticoagulant medication that cannot be interrupted prior to IT injections,exclusion,breast cancer,['NCT04725331'],1
+Ischemic or haemorrhagic stroke according to ICD 10 I61-I69 (30),inclusion,stroke,['NCT04759326'],1
+"It is impossible to correctly inform the patient (language barrier, etc.)",exclusion,depression,['NCT03810482'],1
+"It is impossible to correctly inform the patient (language barrier, etc.)",exclusion,hypertension,['NCT03810482'],1
+IUD intrauterine device,exclusion,breast cancer,['NCT06900374'],1
+"Judgement by the investigator that the patient should not participate in the study if the patient is unlikely to comply with study procedures, restrictions and requirements.",exclusion,breast cancer,['NCT05896566'],1
+Ki 67 ≥10% in diagnostic biopsy as determined per local assessment.,inclusion,breast cancer,['NCT05896566'],1
+Know pregnancy or breastfeeding,exclusion,depression,['NCT05952674'],1
+Known allergic reaction to plastic.,exclusion,healthy,['NCT06821126'],1
+Known allergy to milk proteins,exclusion,obesity,['NCT04934826'],1
+"Known clinically significant history of liver disease consistent with Child-Pugh Class B or C, including hepatitis.",exclusion,breast cancer,['NCT05896566'],1
+"Known contrast product, Nickel, titanium allergy",exclusion,hypertension,['NCT06945848'],1
+Known ectopic pregnancy,exclusion,hypertension,['NCT05521776'],1
+"Known hyperkalaemia, defined as potassium of ≥ 5.5 mmol/L within 3 months at screening.",exclusion,hypertension,['NCT06268873'],1
+Known hypersensitivity to all the iodin-containing contrast agents,exclusion,hypertension,['NCT06687265'],1
+Known hypersensitivity to beta-lactam antibiotics if the patient has a history of valve replacement,exclusion,hypertension,['NCT06687265'],1
+Known hypersensitivity to lidocaine for local anesthesia,exclusion,hypertension,['NCT06687265'],1
+known hypersensitivity to milrinone or any of the excipients,exclusion,stroke,['NCT04282629'],1
+Known hypersensitivity to the active substance or any of the excipients,exclusion,hypertension,['NCT06687265'],1
+"Known infection with human immunodeficiency virus (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV).",exclusion,breast cancer,['NCT05696626'],1
+Known issues with swallowing oral medication.,exclusion,breast cancer,['NCT05896566'],1
+Known multiple pregnancy,exclusion,hypertension,['NCT05521776'],1
+Known non-ongoing pregnancy,exclusion,hypertension,['NCT05521776'],1
+Known RB1 mutations or deletions that in the opinion of the investigator confer resistance to CDK4/6i. (Screening for RB1 mutation is not required for entry.),exclusion,breast cancer,['NCT05696626'],1
+Known relevant allergy to any drug or excipients in the formulation,exclusion,healthy,['NCT07090889'],1
+Known relevant allergy to any drug or excipients in the formulation.,exclusion,healthy,['NCT07090889'],1
+Known sensitivity to any of the ingredients of the trial vaccines.,exclusion,healthy,['NCT06821126'],1
+known severe obstructive heart diseases,exclusion,stroke,['NCT04282629'],1
+Lasofoxifene is not recommended for use in subjects with conditions that place them at increased risk for VTEs (such as severe congestive heart failure \[CHF\] or prolonged immobilization).,exclusion,breast cancer,['NCT05696626'],1
+Left-handed,exclusion,depression,['NCT05894980'],1
+Legal issues: care under constraint or patient deprived of freedom because of a judicial measure 13. Patient who does not speak and read French sufficiently,exclusion,depression,['NCT05698589'],1
+"Life expectancy of less than 1 year related to comorbidities (end stage cancer, end stage organ failure)",exclusion,stroke,['NCT04621357'],1
+Life expectancy under 6 months,exclusion,hypertension,['NCT06945848'],1
+Locally advanced and/or metastatic ER+ breast cancer with radiological or clinical evidence of progression on an AI in combination with either palbociclib or ribociclib as their first hormonal treatment for metastatic disease.,inclusion,breast cancer,['NCT05696626'],1
+Locally advanced or metastatic breast cancer with either measurable (according to RECIST 1.1) or non-measurable lesions.,inclusion,breast cancer,['NCT05696626'],1
+Lymphangitic carcinomatosis involving the lung.,exclusion,breast cancer,['NCT05696626'],1
+MADRS score ≥ 18,inclusion,depression,['NCT05894980'],1
+"Major adverse cardiovascular event during the last three months: myocardial infarction, heart failure hospitalization, stroke",exclusion,hypertension,['NCT05732727'],1
+Major cognitive impairment affecting comprehension (Mini Mental State Examination test \< 24 points),exclusion,stroke,['NCT04759326'],1
+major hydroelectrolytic disorders (hypokalemia \<3 mmol / L),exclusion,stroke,['NCT04282629'],1
+major patient (≥ 18 years),inclusion,stroke,['NCT04282629'],1
+Major protected by law,exclusion,healthy,['NCT05036629'],1
+Major surgery within 4 weeks prior to randomization.,exclusion,breast cancer,['NCT05896566'],1
+Major surgery within the last 3 months or any planned surgery during the trial.,exclusion,healthy,['NCT07090889'],1
+"Major surgery within the last 3 months, or minor surgery (requiring local anesthetic) during last 1 month, or any planned surgery during the trial.",exclusion,healthy,['NCT07090889'],1
+Male or female \>=18 years and \<80 years of age,inclusion,hypertension,['NCT05732727'],1
+"Male or female child with a genetically confirmed diagnosis of PWS (patients can be enrolled if the genetic subtype is not available at inclusion, but the genetic subtype needs to be confirmed during the study);",inclusion,obesity,['NCT05032326'],1
+Male or female patients ≤18 years old,exclusion,breast cancer,['NCT03017573'],1
+Male or female patients ≥ 18 years of age,inclusion,breast cancer,['NCT03017573'],1
+Male or female patients aged 18 years or older,inclusion,breast cancer,['NCT04985266'],1
+Male subjects: Non-sterilized male subjects who are not abstinent and intend to be sexually active with a female partner of childbearing potential must use a male condom from consent through 90 days after the last dose of IP.,inclusion,hypertension,['NCT06274801'],1
+"Malnourished patient (BMI \<18.5 kg / m2, weight loss greater than 5% in 1 month or 10% in 6 months)",exclusion,obesity,['NCT03008525'],1
+Man or woman older than 18 years oldRight-handed,inclusion,depression,['NCT05894980'],1
+"Medical history requiring anticoagulation (antiphospholipid syndrome, deep vein thromboembolic disease, pulmonary embolism, atherothrombosis, patient with mechanical heart valves),",exclusion,hypertension,['NCT04356326'],1
+Medical insurance coverage,inclusion,hypertension,['NCT06687265'],1
+Medical problems due to alcohol.,exclusion,healthy,['NCT06821126'],1
+"Medically stable on medical assessment, with no contraindications to stroke rehabilitation management management (no medical problems or acute intercurrent medical events),",inclusion,stroke,['NCT05315726'],1
+Medications interfering with intestinal microbiota (beta-lactamines within 3 months before the study or laxatives),exclusion,obesity,['NCT05783466'],1
+Membership of a French social security scheme or beneficiary of such a scheme.,inclusion,healthy,['NCT06864065'],1
+Men and women aged between 18 and 65 years,inclusion,obesity,['NCT05364957'],1
+Men and women between 18-70 years,inclusion,obesity,['NCT05783466'],1
+Menopausal women,exclusion,healthy,['NCT06746220'],1
+Metabolic disease requiring a a low protein diet,exclusion,obesity,['NCT04934826'],1
+metallic glitter in the eyes,exclusion,healthy,['NCT05036629'],1
+Mineralocorticoid receptor antagonists,exclusion,hypertension,['NCT05732727'],1
+Minimal abduction of the hip of 25 degrees bilateral with no history of hip dislocation and/or dysplasia,inclusion,stroke,['NCT04759326'],1
+minute walking test on day of inclusion,inclusion,depression,['NCT03810482'],1
+minute walking test on day of inclusion,inclusion,hypertension,['NCT03810482'],1
+Misunderstanding of the protocol,exclusion,obesity,['NCT04994665'],1
+MRI contraindications,exclusion,stroke,['NCT05378126'],1
+"Mucocutaneous disease with vulvovaginal localization: infection, sore, scleratrophic lichen, psoriasis, eczema, etc.",exclusion,breast cancer,['NCT06900374'],1
+Multidisciplinary follow-up of at least 6 months before surgery,inclusion,obesity,['NCT04994665'],1
+Must not be taking any medication that could potentially impair hepatic or renal function at the time of screening.,inclusion,healthy,['NCT07090889'],1
+Need for at least one paracentesis for ascites fluid evacuation in the last 6 months,exclusion,hypertension,['NCT06687265'],1
+Negative serum or urine beta HCG pregnancy test within 5 weeks prior to randomization.,inclusion,breast cancer,['NCT05896566'],1
+"Negative serum pregnancy test at screening, and negative urinary pregnancy test at Day -1.",inclusion,healthy,['NCT07090889'],1
+Neo- or adjuvant chemotherapy followed by radiotherapy;,inclusion,breast cancer,['NCT06418126'],1
+Neoadjuvant chemotherapy (chemotherapy prior to surgery),inclusion,breast cancer,['NCT04985266'],1
+Neoadjuvant endocrine therapy (endocrine based therapy prior to surgery) Use the primary surgery criteria - staging tumour size and lymph node status may be either the pathological staging after endocrine therapy or on the initial clinical staging prior to neoadjuvant therapy,inclusion,breast cancer,['NCT04985266'],1
+Neurodegenerative disease with perineal involvement,exclusion,breast cancer,['NCT06900374'],1
+Neurological or psychiatric co-morbidity (other than mild-to-moderate post-stroke depression),exclusion,stroke,['NCT04759326'],1
+"Neurological or psychiatric condition known to affect pain tolerance (e.g., peripheral neuropathy, schizophrenia)",exclusion,healthy,['NCT04423874'],1
+Neurological or psychiatric illnesses or a history of such problems that could impact quality/variability of data or cooperation and retention of the subject in the study,exclusion,healthy,['NCT04457622'],1
+New York Heart Association (NYHA) severity classes II to IV,inclusion,depression,['NCT03810482'],1
+New York Heart Association (NYHA) severity classes II to IV,inclusion,hypertension,['NCT03810482'],1
+New York Heart Association functional HF class IV at screening.,exclusion,hypertension,['NCT06268873'],1
+"Newly diagnosed treatment-naïve cervical cancer patients (1) stage Ia - IIa1 with nodal metastasis, postoperative positive margin or parametrial-vaginal involvement, and (2) stage ≥IIa2).",inclusion,breast cancer,['NCT03017573'],1
+Newly diagnosed treatment-naïve head and neck cancer patients eligible for surgery,inclusion,breast cancer,['NCT03017573'],1
+Newly diagnosed treatment-naïve ovarian cancer patients eligible for surgery or neoadjuvant chemotherapy,inclusion,breast cancer,['NCT03017573'],1
+Newly diagnosed treatment-naïve sarcoma cancer patients (1) breast angiosarcoma or (2) uterine sarcoma eligible for surgery or systemic treatment,inclusion,breast cancer,['NCT03017573'],1
+Newly diagnosed treatment-naïve triple-negative breast cancer patients eligible for surgery or neoadjuvant chemotherapy,inclusion,breast cancer,['NCT03017573'],1
+NIHSS score ≥ 5,inclusion,stroke,['NCT07065929'],1
+No consent form,exclusion,stroke,['NCT04621357'],1
+No contraindications to study medication as determined by the Investigator.,inclusion,healthy,['NCT07090889'],1
+No coverage by a social security regime;,exclusion,obesity,['NCT05032326'],1
+No evidence of distant metastasis at time of diagnosis;,inclusion,breast cancer,['NCT06418126'],1
+No evidence of macroscopic distant metastatic disease or incurable locally advanced disease on staging scans conducted at any time since initial diagnosis.,inclusion,breast cancer,['NCT04985266'],1
+No evidence of progression for at least 6 months on an AI/CDKi combination for advanced breast cancer.,inclusion,breast cancer,['NCT05696626'],1
+No history of alcohol or other drugs of abuse.,inclusion,healthy,['NCT07090889'],1
+No social security cover,exclusion,depression,['NCT06351501'],1
+No vaccines given within 14 days of dosing.,inclusion,healthy,['NCT07090889'],1
+Non epithelial breast cancer,exclusion,breast cancer,['NCT05981326'],1
+Non-affiliation to a social security regimen or any other social protection regimen,exclusion,depression,['NCT05952674'],1
+Non-cancerous subject,exclusion,obesity,['NCT03008525'],1
+Non-opposition of the subject to participate in the study.,inclusion,healthy,['NCT06864065'],1
+Non-randomisation criteria: HVPG \< 12 mm Hg at the catheterism performed during the first follow-up visit,exclusion,hypertension,['NCT06687265'],1
+Non-smoking and no use of any tobacco or nicotine products (by declaration) for a period of at least 1 month prior to screening visit.,inclusion,healthy,['NCT07090889'],1
+Normal hearing,inclusion,healthy,['NCT04457622'],1
+Normal hematologic status,inclusion,breast cancer,['NCT05896566'],1
+Normal liver function,inclusion,breast cancer,['NCT05896566'],1
+Normal MRI findings excepted intracranial TVS stenosis or IIH related abnormalities,inclusion,hypertension,['NCT06945848'],1
+Normal renal function,inclusion,breast cancer,['NCT05896566'],1
+"Not covered by national health insurance,",exclusion,stroke,['NCT05315726'],1
+"Not requiring steroids up to 4 weeks before study treatment initiation, AND",inclusion,breast cancer,['NCT05696626'],1
+Not using prescription medication 14 days prior to admission; and 7 days prior to admission for over the counter (OTC) medication/vitamins/supplements.,inclusion,healthy,['NCT07090889'],1
+Note: Participation in an observational study is allowed.,exclusion,healthy,['NCT06821126'],1
+obtaining a signed informed consent by a relative (or the person of trust) after clear and fair information about the study.,inclusion,stroke,['NCT04282629'],1
+Occurrence of a major complication (haemorrhagic or ischaemic) documented during the procedure of securing the aneurysm and endangering the short-term vital prognosis,exclusion,stroke,['NCT04282629'],1
+On concomitant strong CYP3A4 inhibitors.,exclusion,breast cancer,['NCT05696626'],1
+On strong and moderate CYP3A4 inducers.,exclusion,breast cancer,['NCT05696626'],1
+One asthma exacerbation in the 4 weeks leading up to the inclusion visit or IGB placement.,exclusion,obesity,['NCT05364957'],1
+"Ongoing condition that may lead to acute kidney injury or hypoxia: dehydration, severe infection, shock, cardiac decompensation, respiratory failure, or myocardial infarction within the past month",exclusion,hypertension,['NCT06687265'],1
+Ongoing participation in another interventional therapeutic trial,exclusion,hypertension,['NCT06687265'],1
+"Ongoing treatment with metformin, or discontinued for less than 3 months",exclusion,hypertension,['NCT06687265'],1
+Ongoing urinary tract infection,exclusion,breast cancer,['NCT06900374'],1
+"Opposition of the patient to participation in the study,",exclusion,obesity,['NCT06538220'],1
+Optic nerve atrophy,exclusion,hypertension,['NCT06945848'],1
+orthopedic devices or implants,exclusion,healthy,['NCT04457622'],1
+Orthostatic hypotension,exclusion,hypertension,['NCT05732727'],1
+"Other liver disease: alcohol consumption exceeding 20 g / day for women and 30g / day in men, HBV, HCV, CBP, CSP, autoimmune hepatitis, hemochromatosis, Wilson's disease, alpha-1 antitrypsin.",exclusion,obesity,['NCT03472157'],1
+Other malignancy treated within the last 5 years (except non-melanoma skin cancer or in situ carcinoma of the cervix),exclusion,breast cancer,['NCT05981326'],1
+"Other severe acute or chronic medical or psychiatric condition or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the patient inappropriate for entry into this study.",exclusion,breast cancer,['NCT05896566'],1
+Outpatient consulting at the hospital on the day of inclusion,inclusion,depression,['NCT03810482'],1
+Outpatient consulting at the hospital on the day of inclusion,inclusion,hypertension,['NCT03810482'],1
+Over 18 and under 60 years of age,inclusion,obesity,['NCT04934826'],1
+over 18 years old,inclusion,depression,['NCT06035731'],1
+Overweight (≥ 110 kg),exclusion,stroke,['NCT04759326'],1
+Pacemaker,exclusion,breast cancer,['NCT06900374'],1
+Pain preventing the test from being performed,exclusion,healthy,['NCT06754774'],1
+Participant covered by or entitled to social security,inclusion,hypertension,['NCT05732727'],1
+Participant in good health,inclusion,healthy,['NCT04423874'],1
+Participant under guardianship or curators,exclusion,healthy,['NCT06746220'],1
+"Participant who received informed information about the study and co-signed, with the investigator, a consent to participate in the study",inclusion,healthy,['NCT04423874'],1
+Participants affiliated to a social security scheme or beneficiaries of such a scheme,inclusion,healthy,['NCT05036629'],1
+Participants affiliated with a social protection system.,inclusion,healthy,['NCT06676839'],1
+Participants aged 65 years and older.,inclusion,healthy,['NCT06676839'],1
+Participants in a relationship with a person participating in the study.,exclusion,healthy,['NCT06676839'],1
+Participants included in phase I will not be included in phase II.,exclusion,healthy,['NCT06821126'],1
+Participants living in a dependent elderly care facility.,exclusion,healthy,['NCT06676839'],1
+"Participants living independently at home (ADL = 6, except for an occasional urinary abnormality which will be accepted).",inclusion,healthy,['NCT06676839'],1
+"Participants of any sex and gender must be ≥ 18 years old, or older, at the time of signing the informed consent.",inclusion,hypertension,['NCT06268873'],1
+Participants participating in another interventional research study.,exclusion,healthy,['NCT06676839'],1
+"Participants showing functional decline in at least 2 of the 6 functional domains of ICOPE (mobility, cognition, nutrition, vision, hearing, and psychological well-being) identified using the ICOPE screening tool.",inclusion,healthy,['NCT06676839'],1
+Participants unable to provide informed written consent.,exclusion,healthy,['NCT06676839'],1
+Participants under administrative or judicial supervision,exclusion,healthy,['NCT05036629'],1
+"Participants under legal protection (e.g., guardianship, tutorship).",exclusion,healthy,['NCT06821126'],1
+"Participants under legal protection, guardianship, or trusteeship.",exclusion,healthy,['NCT06676839'],1
+"Participants who are hepatitis B surface antigen (HBsAg) positive are eligible if they have received hepatitis B birus (HBV) antiviral therapy for at least 4 weeks, and have undetectable HBV viral load prior to randomization",inclusion,breast cancer,['NCT06393374'],1
+Participants who are staff members at the investigational site directly involved in conducting the study.,exclusion,healthy,['NCT07090889'],1
+Participants who donated blood or received blood or plasma derivatives in the 30 days preceding study drug administration.,exclusion,healthy,['NCT07090889'],1
+Participants who has already benefited from the ICOPE program or who has completed more than one isolated step 1,exclusion,healthy,['NCT06676839'],1
+Participants who have AEs due to previous anticancer therapies must have recovered to ≤Grade 1 or baseline (except alopecia),inclusion,breast cancer,['NCT06393374'],1
+Participants who have given the signed informed consent before carrying out any procedure related to the study.,inclusion,healthy,['NCT05036629'],1
+Participants with a disability preventing them from reaching the trial examination center without assistance (such as dementia or significant mobility impairment).,exclusion,healthy,['NCT06676839'],1
+Participants with a life-threatening illness with a prognosis of less than 5 years.,exclusion,healthy,['NCT06676839'],1
+"Participants with any abnormalities in clinical laboratory tests, and serology results, at screening, considered by the study physician as clinically significant.",exclusion,healthy,['NCT07090889'],1
+"Participants with any acute medical situation (e.g., acute infection) within 48h of screening or start of dosing, which is considered of significance by the Investigator.",exclusion,healthy,['NCT07090889'],1
+Participants with CKD and eGFR ≥ 30 and \< 90 mL/min/1.73 m2 at screening,inclusion,hypertension,['NCT06268873'],1
+Participants with French as their mother tongue,inclusion,healthy,['NCT05036629'],1
+"Participants with hearing, visual, or speech impairments preventing them from understanding instructions or communicating with study staff.",exclusion,healthy,['NCT06676839'],1
+Participants with history of HTN and a SBP ≥ 130 mmHg at screening and ≥ 120 mmHg at the randomisation visit,inclusion,hypertension,['NCT06268873'],1
+Participants with normal or corrected vision,inclusion,healthy,['NCT05036629'],1
+participation in another clinical interventional study,exclusion,stroke,['NCT04282629'],1
+Participation in another clinical trial or administration of an unapproved drug within the last 4 weeks before the screening date,exclusion,hypertension,['NCT06945848'],1
+Participation in another interventional research,exclusion,obesity,['NCT04934826'],1
+Participation in another ongoing study if the study may interfere with participation in the protocol MAP-IRMaGe.,exclusion,healthy,['NCT05036629'],1
+"Participation in another trial within 60 days prior to the enrolment visit or planned participation during the present trial period in another clinical study investigating a vaccine, drug, medical device, or medical procedure.",exclusion,healthy,['NCT06821126'],1
+Participation in other intervention research,exclusion,depression,['NCT06351501'],1
+"Patient ≥ 18 years old,",inclusion,obesity,['NCT04994665'],1
+Patient ≥18 years of age,inclusion,depression,['NCT05698589'],1
+Patient able to read and write in French and who have signed an informed consent form,inclusion,stroke,['NCT06538974'],1
+Patient affiliated or beneficiary of a social security scheme,inclusion,stroke,['NCT05224973'],1
+Patient affiliated to a health insurance scheme,inclusion,stroke,['NCT06930131'],1
+Patient affiliated to a social health insurance plan (beneficiary or beneficiary's family),inclusion,depression,['NCT05698589'],1
+Patient affiliated to a social security organization,inclusion,breast cancer,['NCT06900374'],1
+Patient affiliated to a social security system (excluding AME) or entitled to benefits.,inclusion,obesity,['NCT04934826'],1
+Patient affiliated to a social security system.,inclusion,stroke,['NCT06538974'],1
+Patient affiliated to or benefiting from a social security scheme,inclusion,stroke,['NCT07065929'],1
+"Patient aged 18 or over,",inclusion,obesity,['NCT06538220'],1
+Patient agrees to come to the study visits within the protocol-specified delay,inclusion,obesity,['NCT03472157'],1
+Patient allergic to Latex,exclusion,stroke,['NCT06312631'],1
+Patient already engaged in a therapeutic protocol,exclusion,hypertension,['NCT04520048'],1
+"Patient and/or entourage who do not have access to teleconsultation, and/or can be reached remotely;",exclusion,stroke,['NCT06312631'],1
+"Patient capable of passively opening the hand sufficient to grasp the glass when the gripping glove is put on, with the possibility of actively closing the hand;",inclusion,stroke,['NCT06312631'],1
+Patient covered by the French social security system (for French patients).,inclusion,breast cancer,['NCT06418126'],1
+Patient deprived of liberty (detained/incarcerated);,exclusion,stroke,['NCT06312631'],1
+Patient deprived of liberty by judicial or administrative decision,exclusion,stroke,['NCT07065929'],1
+Patient following any measures of legal presentation,exclusion,hypertension,['NCT05732727'],1
+Patient having given informed consent,inclusion,depression,['NCT05632757'],1
+Patient having received information about data collection and having signed and dated an Informed Consent Form,inclusion,hypertension,['NCT06945848'],1
+Patient having signed the informed consent for the present study,inclusion,breast cancer,['NCT06900374'],1
+"Patient identified by the network or referred by a healthcare professional,",inclusion,obesity,['NCT06538220'],1
+Patient in a medical emergency or immediate life-threatening situation,exclusion,depression,['NCT05698589'],1
+Patient in acute episode of their disorder according to the CGI Severity score,exclusion,depression,['NCT05698589'],1
+Patient in an exclusion period determined by a previous or ongoing study,exclusion,depression,['NCT05698589'],1
+"Patient included in another interventional study which could interfere with the results of the study,",exclusion,hypertension,['NCT04356326'],1
+Patient informed of the results of the preliminary medical examination,inclusion,depression,['NCT05698589'],1
+Patient insured under the French social security,inclusion,stroke,['NCT04621357'],1
+Patient is at least 18 years of age.,inclusion,depression,['NCT05632757'],1
+Patient is unwilling to refrain from using prohibited medications during the clinical trial.,exclusion,healthy,['NCT07090889'],1
+Patient is willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up.,inclusion,breast cancer,['NCT05981326'],1
+Patient must be affiliated to a Social Health Insurance,inclusion,breast cancer,['NCT05981326'],1
+Patient or close relative having given written consent to participate in the study or patient included under the emergency procedure in the absence of contactable relatives,inclusion,stroke,['NCT07065929'],1
+Patient over 40 years,inclusion,breast cancer,['NCT06900374'],1
+Patient participating at the same time in another study,exclusion,stroke,['NCT06538974'],1
+Patient participating in an interventional study involving psychotherapy or an experimental drug,exclusion,depression,['NCT05698589'],1
+Patient participating in another interventional clinical research protocol involving a drug or medical device,exclusion,obesity,['NCT04994665'],1
+"Patient presenting retraction or stiffness of the fingers and wrist preventing complete extension of the long fingers and thumb, the wrist being at 15° extension;",exclusion,stroke,['NCT06312631'],1
+"Patient receiving aspirin for another indication outside pregnancy,",exclusion,hypertension,['NCT04356326'],1
+Patient requiring neoadjuvant chemotherapy,inclusion,breast cancer,['NCT05981326'],1
+"Patient should agree to have one liver biopsy during the screening period (before randomization, the randomization will be permitted after at least a second reading performed by pathologist of CHRU Lille to confirm the histological diagnosis of NASH with advanced fibrosis (F3-F4)) for the diagnosis purpose (if no histological biopsy within 1 month before inclusion is available) and one at the end of the treatment period for assessment of the treatment effects.",inclusion,obesity,['NCT03472157'],1
+"Patient suffering from a motor deficit of the upper limb resulting from an ischemic or hemorrhagic stroke, hemispheric or brainstem, confirmed by brain imaging ;",inclusion,stroke,['NCT06312631'],1
+Patient suffering from lower limb weaknesses and / or deficiencies regardless of the cause,inclusion,stroke,['NCT06538974'],1
+"Patient suffering from obesity defined by a BMI ≥ 30,",inclusion,obesity,['NCT06538220'],1
+Patient taking part in another study with an impact on mortality or nutrition,exclusion,stroke,['NCT07065929'],1
+Patient to be operated in first intention of a sleeve gastrectomy,inclusion,obesity,['NCT04994665'],1
+Patient to have a 2-stage surgery (first sleeve gastrectomy then gastric bypass or Single Anastomosis Duodeno-Ileal bypass),exclusion,obesity,['NCT04994665'],1
+Patient treated with aromatase inhibitors +/- LHRH agonist for at least 3 months with a planned remaining duration of at least 12 months,inclusion,breast cancer,['NCT06900374'],1
+"Patient unable to actively extend long fingers (hand opening) to voluntarily grasp an empty glass (upper and lower diameter of 7 and 6 cm respectively, height of 12 to 15 cm, weight of 125g, identical to equipment used for ARAT), with a palmar grip (cylindrical grip), while the subject can hold the previously placed glass passively in the hand;",inclusion,stroke,['NCT06312631'],1
+Patient unable to deliver his/her consent,exclusion,stroke,['NCT06538974'],1
+Patient unable to follow the protocol for any reason,exclusion,stroke,['NCT07065929'],1
+Patient unable to give consent,exclusion,breast cancer,['NCT06418126'],1
+Patient unable to speak French,exclusion,breast cancer,['NCT06418126'],1
+Patient under compulsory psychiatric care,exclusion,stroke,['NCT07065929'],1
+Patient under guardianship or curatorship,exclusion,obesity,['NCT04934826'],1
+"Patient under guardianship or tutorship, persons placed under the protection of justice or persons participating in another search including an exclusion period still in progress",exclusion,obesity,['NCT05364957'],1
+"Patient under guardianship, curators or legal protection,P",exclusion,obesity,['NCT04994665'],1
+Patient under judicial protection,exclusion,stroke,['NCT06312631'],1
+"Patient under judicial protection (guardianship, curatorship, etc.) or safeguard of justice,",exclusion,obesity,['NCT06538220'],1
+Patient under legal protection,exclusion,stroke,['NCT06538974'],1
+Patient under legal protection.,exclusion,stroke,['NCT05378126'],1
+Patient under the justice protection,exclusion,obesity,['NCT04934826'],1
+Patient undergoing adjuvant treatment for breast cancer,inclusion,breast cancer,['NCT06900374'],1
+"Patient undergoing bariatric surgery,",exclusion,obesity,['NCT06538220'],1
+Patient who agreed to participate by signing the informed consent of the study,inclusion,obesity,['NCT04934826'],1
+"Patient who are pregnant, breastfeeding, or who have the potential to become pregnant without effective contraception at the time of inclusion and up to 24 months after surgery",exclusion,obesity,['NCT04994665'],1
+"Patient who has the capacity to understand the protocol and has given consent to participate in the research,",inclusion,obesity,['NCT04994665'],1
+Patient who is a beneficiary of or affiliated with a social security plan,inclusion,depression,['NCT05632757'],1
+Patient who suffered a stroke more than three months ago;,inclusion,stroke,['NCT06312631'],1
+Patient who understands and speaks French.,inclusion,obesity,['NCT06538220'],1
+"Patient with a cardiac or respiratory contraindication to physical exertion, at discretion of the physician",exclusion,stroke,['NCT06538974'],1
+Patient with a motor handicap of grade 3 to 5 on the Rankin score,inclusion,depression,['NCT05632757'],1
+"Patient with a primary family caregiver at home (spouse, child) willing to participate in the study",inclusion,depression,['NCT05632757'],1
+Patient with a severe or fatal comorbidity that will likely prevent improvement or follow-up or that will render the procedure unlikely to benefit the patient.,exclusion,hypertension,['NCT06945848'],1
+"Patient with a smartphone, tablet and/or computer compatible with video taking and teleconsultation.",inclusion,stroke,['NCT06312631'],1
+Patient with ALS who has already had at least two multidisciplinary assessments in the ALS center in Marseille with an evaluation by the clinical psychologist.,inclusion,depression,['NCT05632757'],1
+Patient with an active anterior shoulder elevation range of less than 15°;,exclusion,stroke,['NCT06312631'],1
+Patient with contra-indication for bariatric surgery,exclusion,obesity,['NCT03472157'],1
+Patient with elevated intracranial pressure defined as \> 25 cm H20 or 18 mmHg,inclusion,hypertension,['NCT06945848'],1
+Patient with histologically confirmed breast cancer,inclusion,breast cancer,['NCT05981326'],1
+"Patient with idiopathic pulmonary hypertension (PH), familial PH, or PH associated with various pathologies (groups I to IV of the international classification)",inclusion,depression,['NCT03810482'],1
+"Patient with idiopathic pulmonary hypertension (PH), familial PH, or PH associated with various pathologies (groups I to IV of the international classification)",inclusion,hypertension,['NCT03810482'],1
+"Patient with limited active elbow extension, not allowing the ipsilateral knee to be reached with the hand, the subject being seated with the trunk vertical (approach limitation);",exclusion,stroke,['NCT06312631'],1
+Patient with moderate or severe muscular spasticity of the wrist flexors and the long and short flexors of the fingers and thumb (Modified Ashworth Scale ≥ 3);,exclusion,stroke,['NCT06312631'],1
+"Patient with one or several diagnoses of chronic psychiatric disorder (schizophrenia, schizoaffective disorder, bipolar disorder, recurrent major depression, borderline personality disorder) or a neurodevelopmental disorder (autism spectrum disorder) treated as an outpatient or in a day hospital",inclusion,depression,['NCT05698589'],1
+Patient with other upper limb deficiencies likely to influence participation;,exclusion,stroke,['NCT06312631'],1
+Patient with pathologically confirmed TNBC (estrogen and progesterone receptor negative and HER2 negative);,inclusion,breast cancer,['NCT06418126'],1
+"Patient with severe aphasia, Boston Diagnostic Aphasia Examination (BDAE) ≤ 3;",exclusion,stroke,['NCT06312631'],1
+"Patient with significant proteinuria (\> 300mg/24 hours or a proteinuria/creatininuria ratio ≥ 30mg/mmol),",exclusion,hypertension,['NCT04356326'],1
+Patient with social security coverage.,inclusion,obesity,['NCT04994665'],1
+Patient with the ability to put on and remove the SaeboGlove® gripping glove with the help of a third person if necessary and/or available.,inclusion,stroke,['NCT06312631'],1
+"Patient without health coverage,",exclusion,stroke,['NCT05378126'],1
+Patient's foreseeable inability to participate in a clinical trial,exclusion,obesity,['NCT04934826'],1
+Patients ≥ 18 years of age,inclusion,stroke,['NCT07065929'],1
+Patients ≥18 years of age or over the legal age of consent in countries where that is greater than 18 years at the time of signature of the ICF.,inclusion,breast cancer,['NCT06324357'],1
+Patients affiliated to a social security scheme,inclusion,hypertension,['NCT04520048'],1
+Patients aged 18 years and older ;,inclusion,depression,['NCT05952674'],1
+Patients considered in remission for at least 5 years after onset of treatment.,exclusion,obesity,['NCT03472157'],1
+Patients included in the Fondation FondaMental cohort whose genetic analyses have revealed the need for comparative and functional genetic studies.,inclusion,depression,['NCT05480826'],1
+Patients must have had surgery achieving clear margins (as per local guidelines),inclusion,breast cancer,['NCT04985266'],1
+Patients not affiliated to the Social Security System,exclusion,breast cancer,['NCT03017573'],1
+"Patients on neuroleptics,",exclusion,obesity,['NCT06538220'],1
+Patients participating in other biomedical research or in a period of exclusion,exclusion,stroke,['NCT04759326'],1
+Patients protected or unable to give consent according to Article L1121-8 of the French Public Health Code (CSP),exclusion,depression,['NCT03810482'],1
+Patients protected or unable to give consent according to Article L1121-8 of the French Public Health Code (CSP),exclusion,hypertension,['NCT03810482'],1
+"Patients receiving enforced cares (ASPDT, ASPPI, ASPDRE, etc.)",exclusion,depression,['NCT05952674'],1
+"Patients receiving standard endocrine therapy with aromatase inhibitors (letrozole, anastrazole, exemestane), tamoxifen, or combination of such for a minimum of 6 months\* and maximum of 7 years duration with an additional three years of endocrine therapy planned. Pre- or peri-menopausal patients may also receive GnRH analogues.",inclusion,breast cancer,['NCT04985266'],1
+Patients receiving State Medical Assistance,exclusion,hypertension,['NCT04520048'],1
+Patients receiving topiramate in the previous month,exclusion,hypertension,['NCT06945848'],1
+Patients Treated and believed to be cured basal or squamous cell carcinoma of the skin or resected carcinoma of the cervix,exclusion,obesity,['NCT03472157'],1
+"Patients treated with nutritional therapy at the time of admission (history of bariatric surgery or gastrectomy, malabsorptive pathologies such as short bowel, extensive intestinal resections, etc.).",exclusion,stroke,['NCT07065929'],1
+Patients unable to give consent (under guardianship or curatorship),exclusion,hypertension,['NCT06687265'],1
+Patients unable to undergo regular long-term surveillance.,exclusion,breast cancer,['NCT06418126'],1
+Patients under guardianship or trusteeship.,exclusion,breast cancer,['NCT06900374'],1
+Patients under legal protective measures,exclusion,hypertension,['NCT04520048'],1
+"Patients who are unable to complete self-questionnaires (language barrier, etc.)",exclusion,depression,['NCT06014125'],1
+"Patients who had an acute cardiovascular episode, coronary Heart Disease (Angina pectoris, myocardial infarction, revascularization procedure), stroke or TIA (Transient Ischemic Attack) within the 6 months prior to screening Recent cardiovascular events (stroke, myocardial infarcts, etc...) in the past 6 months.",exclusion,obesity,['NCT03472157'],1
+Patients who have signed a written informed consent form,inclusion,obesity,['NCT05364957'],1
+"patients who underwent bariatric surgery in the weight stabilization phase (between 18 and 30 months after surgery) presenting dissatisfaction with their body image according to the BSQ (score ≥ 111), to be affiliated to the French social security system. The prior, free and informed consent of the patient shall be obtained.",inclusion,obesity,['NCT05460104'],1
+"Patients who, after the nature of the study has been explained to them, have given written consent",inclusion,depression,['NCT05952674'],1
+Patients willing to have frequent blood tests.,inclusion,breast cancer,['NCT04985266'],1
+Patients with a contraindication to amino acid infusion,exclusion,obesity,['NCT04934826'],1
+"Patients with an intellectual disability (IQ\<70) estimated via the fNART (Mackinnon \& Mulligan, 2005)",exclusion,depression,['NCT05698589'],1
+"Patients with any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule",exclusion,breast cancer,['NCT03017573'],1
+"Patients with BMI \> 40 kg/m2 or BMI \> 35 kg/m2 associated with at least one comorbidity(s): hypertension, diabetes, cardiovascular disease, hyperlipidemia, sleep apnea, arthritis,hepatic steatosis.",inclusion,obesity,['NCT04934826'],1
+"Patients with cancer with a risk of hypercalcemia (and associated hypercalciuria), linked to bone metastases.",exclusion,depression,['NCT06351501'],1
+Patients with current or history of thromboembolic events.,exclusion,depression,['NCT06351501'],1
+"patients with disabling nausea (Motion Sickness) from previous use of a virtual reality headset, patients who had from post-bariatric reconstructive surgery, epileptic patients, decompensation of a psychiatric pathology",exclusion,obesity,['NCT05460104'],1
+Patients with epilepsy and migraine.,exclusion,depression,['NCT06351501'],1
+Patients with gestational hypertension and/or preeclampsia from the 20th amenorrhea week until the 26th ± 2 amenorrhea week.,inclusion,hypertension,['NCT04520048'],1
+"Patients with grade I obesity (BMI\> 30 kg/m² and \< 35 kg/m²) or morbid obesity (BMI\<40 or ≥35 kg/m² with serious physiological risks, as recommended by the French Health Authorities) with contraindications for or refusal of bariatric surgery.",inclusion,obesity,['NCT05364957'],1
+Patients with health insurance,inclusion,obesity,['NCT05364957'],1
+Patients with high risk early stage breast cancer according to at least one of the following criteria:,inclusion,breast cancer,['NCT04985266'],1
+Patients with known anterior dysphagia,exclusion,stroke,['NCT05224973'],1
+"Patients with known glucose-6-phosphate dehydrogenase deficiency,",exclusion,hypertension,['NCT04356326'],1
+"Patients with morphological contraindications to the use of the Atalante X exoskeleton (as per user's manual) with exceptions as follows: knee flessum of 20° authorized if sensibility is present; equinus of the ankle of 20° allowed regardless of presence or absence of sensibility, hip flessum of 20° allowed regardless of presence or absence of sensibility.",exclusion,stroke,['NCT06538974'],1
+"patients with non-severe SAHa (WFNS I, II and III)",exclusion,stroke,['NCT04282629'],1
+"Patients with psychiatric follow-up, poor understanding of French or cognitive problems,",exclusion,hypertension,['NCT04356326'],1
+"Patients with renal failure (creatinine \> 1.5 mg/dl and/or creatinine clearance \< 60 mL/min, except if patient is already on hemodialysis)",exclusion,hypertension,['NCT06945848'],1
+"Patients with risk of aggravation of certain diseases under oestrogen treatment (MtF patients with uncontrolled diabetes with HBA1C \> 8%, patients with cholelithiasis, biliary lithiasis, systemic lupus erythematosus, severe asthma, severe arterial hypertension, severe migraines, otosclerosis, epilepsy not controlled by treatment).",exclusion,depression,['NCT06351501'],1
+"patients with severe SAHa (WFNS IV and V,) whose neurological examination is impossible because of coma (Glasgow coma score of 8 or less) or need for sedation at D3",inclusion,stroke,['NCT04282629'],1
+Patients with uncontrolled asthma based on an ACQ score ≥1.5 despite inhaled corticosteroids ± long acting bronchodilators (LABA),inclusion,obesity,['NCT05364957'],1
+"Patients with unstable psychiatric disorders,",exclusion,obesity,['NCT06538220'],1
+Performance status ≤ 2 (according to WHO criteria),inclusion,breast cancer,['NCT05981326'],1
+permanent contraindications to MRI,exclusion,stroke,['NCT04282629'],1
+Person affiliated to or beneficiary of a social security system.,inclusion,stroke,['NCT06312631'],1
+"Person in a period of exclusion from another study,",inclusion,healthy,['NCT05370222'],1
+Person subject to a measure of legal protection,exclusion,stroke,['NCT05315726'],1
+"Person under guardianship, curatorship, or safeguard of justice; or not subject to a social security plan,",inclusion,healthy,['NCT05370222'],1
+Person under legal protection,exclusion,stroke,['NCT07065929'],1
+Persons deprived of liberty,exclusion,depression,['NCT05480826'],1
+Persons having had any surgery prior to the study which puts them at risk for metal objects left in the body,exclusion,healthy,['NCT04457622'],1
+Persons unable to adhere to abstinence from the use of drugs or alcohol the day or evening before experimental sessions,exclusion,healthy,['NCT04457622'],1
+"Platelet count lower than 100,000 cells/microliter (dosage less than 6 months old),",exclusion,hypertension,['NCT04356326'],1
+Platelets \<125 000; TP \<80%; bilirubin \<20 mmol / l; albumin \<35 g / L.,exclusion,obesity,['NCT03472157'],1
+Player under legal protection (guardianship/trusteeship) or deprived of liberty,exclusion,healthy,['NCT06754774'],1
+Poor understanding of the French language,exclusion,stroke,['NCT07065929'],1
+Poor understanding of the French language,exclusion,hypertension,['NCT05521776'],1
+Positive COVID-19 PCR test at screening visit.,exclusion,healthy,['NCT06821126'],1
+"Positive serology for hepatitis B (HBsAg), C (anti-HCV antibodies) and HIV 1-2.",exclusion,healthy,['NCT06821126'],1
+Positive serum pregnancy test (only if premenopausal).,exclusion,breast cancer,['NCT05696626'],1
+Practice physical activity regularly (150 minutes/week of moderate physical activity according to the WHO),exclusion,healthy,['NCT06746220'],1
+Pre- or postmenopausal women or men.,inclusion,breast cancer,['NCT05696626'],1
+Pre-admission modified Rankin score of 4 or 5,exclusion,stroke,['NCT04621357'],1
+Pregnancies complicated by major fetal abnormality identified at the first-trimester ultrasound if performed before randomization,exclusion,hypertension,['NCT05521776'],1
+Pregnancy,exclusion,healthy,['NCT04423874'],1
+Pregnancy,exclusion,breast cancer,['NCT06900374'],1
+Pregnancy,exclusion,obesity,['NCT01501201'],1
+Pregnancy between 11 and 14 WG,inclusion,hypertension,['NCT05521776'],1
+Pregnancy in progress,exclusion,depression,['NCT06351501'],1
+Pregnancy or breastfeeding in progress,exclusion,obesity,['NCT04934826'],1
+Pregnancy or breastfeeding or Women of childbearing age without effective contraception (a pregnancy test will be done),exclusion,stroke,['NCT04621357'],1
+Pregnancy positive test (βHCG test) or pregnancy or breastfeeding.,exclusion,healthy,['NCT06821126'],1
+"Pregnancy test will be repeated on day 1, before the first dose of WOO treatment.",inclusion,breast cancer,['NCT05896566'],1
+"pregnancy, breastfeeding",exclusion,stroke,['NCT04282629'],1
+"Pregnancy, parturiency or breastfeeding",exclusion,obesity,['NCT05783466'],1
+Pregnancy: if a woman is of childbearing potential a urine or serum beta HCG test is positive,exclusion,hypertension,['NCT06945848'],1
+Pregnant and/or breastfeeding women,exclusion,stroke,['NCT06312631'],1
+Pregnant or breast-feeding women,exclusion,breast cancer,['NCT06900374'],1
+Pregnant or breast-feeding women;,exclusion,breast cancer,['NCT06418126'],1
+Pregnant or breastfeeding female participants.,exclusion,healthy,['NCT07090889'],1
+Pregnant or breastfeeding patient.,exclusion,healthy,['NCT07090889'],1
+Pregnant or breastfeeding woman,exclusion,hypertension,['NCT05732727'],1
+Pregnant or breastfeeding women,exclusion,healthy,['NCT06746220'],1
+Pregnant or breastfeeding women,exclusion,hypertension,['NCT06687265'],1
+"Pregnant or breastfeeding women,",inclusion,healthy,['NCT05370222'],1
+Pregnant or breastfeeding women.,exclusion,obesity,['NCT03472157'],1
+Pregnant or lactating women,exclusion,stroke,['NCT04759326'],1
+Pregnant or lactating women according to article L1121-5 of the CSP,exclusion,depression,['NCT03810482'],1
+Pregnant or lactating women according to article L1121-5 of the CSP,exclusion,hypertension,['NCT03810482'],1
+Pregnant or nursing patient,exclusion,breast cancer,['NCT05981326'],1
+"Pregnant or women of childbearing age who were not using contraception (oral diagnosis),",exclusion,stroke,['NCT05378126'],1
+Pregnant patient between 10 and 19 weeks of gestation + 6 days,inclusion,hypertension,['NCT04356326'],1
+Pregnant woman,exclusion,depression,['NCT05894980'],1
+Pregnant woman,exclusion,stroke,['NCT06538974'],1
+"Pregnant, breast-feeding or parturient woman",exclusion,stroke,['NCT07065929'],1
+"Pregnant, lactating and parturient women",exclusion,healthy,['NCT05036629'],1
+"Pregnant, parturient or breast-feeding woman,",exclusion,obesity,['NCT06538220'],1
+"Premenopausal women age ≥18 years, premenopausal status defined as:",inclusion,breast cancer,['NCT05896566'],1
+Presence of a Proton-Pump Inhibitors treatment,exclusion,obesity,['NCT04994665'],1
+"Presence of at least one measurable lesion according to Response evaluation criteria in solid tumors (RECIST) 1.1, as determined by the local site investigator/radiology assessment.",inclusion,breast cancer,['NCT06324357'],1
+"Presence of comorbidities or medical conditions that may interfere with study data,",inclusion,healthy,['NCT05370222'],1
+Presence of moderate or severe edema localized to the wrist and hand;,exclusion,stroke,['NCT06312631'],1
+"Presence of other neurological, muscular or osteoarticular conditions altering upper limb function,",exclusion,stroke,['NCT05315726'],1
+Presence of other psychiatric pahtologies,exclusion,depression,['NCT05894980'],1
+"Presence of pathologies interfering in a major way with vascular parameters: known multicomplicated diabetes treated before pregnancy, hypercholesterolemia known (or LDL\>130 mg/dl), connectivitis, proven cardiovascular disease (ischemic heart disease, stroke, arteriopathy of the lower limbs, heart failure), pre-existing known renal failure (MDRD \<60 ml/min) and/or pre-existing proteinuria ≥ 300 mg/24h).",exclusion,hypertension,['NCT04520048'],1
+Present or past eating disorders.,inclusion,healthy,['NCT05370222'],1
+Presenting a depressive episode of moderate intensity according to the Diagnostic and Statistical Manual (DSM)-V,inclusion,depression,['NCT06014125'],1
+"Presenting disabling vaginal dryness symptoms despite well-administered local moisturizing treatment, attested by a vaginal dryness score ≥3",inclusion,breast cancer,['NCT06900374'],1
+"Presenting the criteria for gender dysphoria according to the DSM5 assessed by at least two child psychiatric interviews at least six months apart where the diagnosis of gender dysphoria was clinically established and that of associated autism spectrum disorder refuted and/or associated cognitive impairment, confirmed by specific scales (Gender Identity / Gender Dysphoria Questionnaire for Adults and Adolescents (GIDYQ-AA) and Utrecht Gender Dysphoria Scale (UGDS))",inclusion,depression,['NCT06351501'],1
+"Pressure Ulcer of Grade I or higher according to the NPUAP International Pressure Ulcer Classification System- EPUAP, in areas of contact with the Atalante X system",exclusion,stroke,['NCT06538974'],1
+Previous gastric bypass surgery AAP-DGOS PHRC-N 22_0175 CHU DE MONTPELLIER Pr Costalat Vincent/Pr Ducros Anne Version n°2.2 date 25/03/2025 Page 28 sur 63,exclusion,hypertension,['NCT06945848'],1
+Previous history of bariatric surgery (except gastric ring removed for more than 3 years).,exclusion,obesity,['NCT03472157'],1
+Previous inclusion in the trial,exclusion,stroke,['NCT07065929'],1
+Previous nasal surgery or nasal cauterization.,exclusion,healthy,['NCT06821126'],1
+Previous systemic or local treatment for the primary breast cancer currently under investigation.,exclusion,breast cancer,['NCT05896566'],1
+"Primary surgery (no other treatment prior to surgery) A. Four or more involved axillary lymph nodes or positive supraclavicular lymph node at diagnosis, or",inclusion,breast cancer,['NCT04985266'],1
+Primary tumor removed by conservative surgery with negative margins;,inclusion,breast cancer,['NCT06418126'],1
+"Prior progression of disease on abemaciclib, fulvestrant, or other selective estrogen receptor degrader (SERD) therapy.",exclusion,breast cancer,['NCT05696626'],1
+Prothrombin ratio \< 50 %,exclusion,hypertension,['NCT06687265'],1
+Provide written informed consent and agree to comply to the study protocol prior to enrolment.,inclusion,obesity,['NCT03472157'],1
+"Provision of a fresh tumor sample of the lesion that will be injected first and, whenever possible, from another lesion that is planned to be injected, at baseline and be willing to supply new tumor samples from a biopsy during treatment.",inclusion,breast cancer,['NCT04725331'],1
+Psychiatric contraindication,exclusion,obesity,['NCT04994665'],1
+Psychiatric disorders,exclusion,obesity,['NCT01501201'],1
+Pure intraventricular haemorrhages,exclusion,stroke,['NCT04621357'],1
+"Radiotherapy within 30 days prior to Visit 0 (Day 1) except in case of localized radiotherapy for analgesic purposes or for lytic lesions at risk of fracture, which can then be completed within 7 days prior to Visit 0 (Day 1). Subjects must have recovered from radiotherapy toxicities prior to Visit 0 (Day 1).",exclusion,breast cancer,['NCT05696626'],1
+Randomization must be conducted within 16 weeks from surgical resection,inclusion,breast cancer,['NCT06393374'],1
+"Read, understood, and signed an ICF before any investigational procedure(s) are performed.",inclusion,healthy,['NCT07090889'],1
+Received a live or live-attenuated vaccine within 30 days before the first dose of study intervention. Administration of killed vaccines are allowed,exclusion,breast cancer,['NCT06393374'],1
+Received an immunosuppressive therapy for underlying disease or a treatment with immunosuppressive or cytotoxic drugs or a cancer chemotherapy or radiation therapy within the previous 36 months.,exclusion,healthy,['NCT06821126'],1
+"Received anticancer therapy in the adjuvant phase including but not limited to chemotherapy, small molecule anticancer drugs, poly (adenosine diphosphate ribose) polymerase (PARP) inhibitors, ADCs, and/or immunotherapy, with the exception of adjuvant radiation therapy",exclusion,breast cancer,['NCT06393374'],1
+Received any GnRH/LHRH analog within 12 months prior to randomization,exclusion,breast cancer,['NCT05896566'],1
+"Received at least 3 doses of a COVID-19 mRNA vaccine, last booster dose received at least 6 months prior to trial vaccine administration OR 2 doses of a COVID-19 mRNA vaccine and confirmed SARS-CoV-2 infection at least 6 months prior to inclusion in the trial.",inclusion,healthy,['NCT06821126'],1
+"Received drugs such as corticosteroids at a dosage \> 10 mg prednisone equivalent/day or inhalers corticosteroids, within 3 months prior to inclusion (excluding corticosteroid topical preparations for cutaneous application).",exclusion,healthy,['NCT06821126'],1
+Received immunoglobulin or other blood products within three months prior to inclusion or planned administration before the trial completion.,exclusion,healthy,['NCT06821126'],1
+"Received influenza vaccination within 14 days prior to trial vaccination, or any other licensed vaccine within 4 weeks prior to study vaccination.",exclusion,healthy,['NCT06821126'],1
+Received prior radiotherapy within 3 weeks of start of study intervention or required corticosteroids for radiation related toxicities that cannot be discontinued before the first dose of study intervention,exclusion,breast cancer,['NCT06393374'],1
+Received prior treatment with a trophoblast cell-surface antigen 2 (TROP2)-directed antibody drug conjugate (ADC) or a topoisomerase I inhibitor-containing ADC,exclusion,breast cancer,['NCT06393374'],1
+"Recent history of venous (pulmonary embolism, phlebitis) or arterial (myocardial infarction, unstable angina, stroke, transient ischemic attack), thrombotic event ≤ 3 months.",exclusion,hypertension,['NCT04520048'],1
+Recent serious injury,exclusion,healthy,['NCT04423874'],1
+"Recovered from any previous therapy-related toxicity to ≤ Common Terminology Criteria for Adverse Events (CTCAE) Grade 1 at start of treatment (except for alopecia, stable sensory neuropathy, and hypothyroidism (patients on thyroid replacement therapy) which must be ≤ CTCAE Grade 2).",inclusion,breast cancer,['NCT06324357'],1
+Referral from other hospitals,exclusion,stroke,['NCT04621357'],1
+"Refractive error greater ±8 sphere or more than ±3 in cylinder in either eye if there are abnormalities in funduscopy (optic disc tilt, staphyloma), previous glaucoma, other disorders causing visual loss",exclusion,hypertension,['NCT06945848'],1
+Refusal of parents (or legal representative) to sign the consent form;,exclusion,obesity,['NCT05032326'],1
+"Refusal of the minor to take part, even if the legal representatives want the player to take part in the study Refusal to perform the test",exclusion,healthy,['NCT06754774'],1
+Refusal to participate in the study on the part of the adolescent or one of the holders of parental authority (both holders and the adolescent must sign a written consent after receiving appropriate information).,exclusion,depression,['NCT06351501'],1
+"Refusal to sign the consent form,",inclusion,healthy,['NCT05370222'],1
+Regional lymph node pN0 to pN3;,inclusion,breast cancer,['NCT06418126'],1
+Registration with the French healthcare system,inclusion,healthy,['NCT04457622'],1
+"Regular consumption of tobacco or alcohol,",inclusion,healthy,['NCT05370222'],1
+Regular intake of dietary supplements or vitamin supplements in the last three months,exclusion,obesity,['NCT03008525'],1
+Regular use of medications that impact the central nervous system,exclusion,healthy,['NCT04457622'],1
+"Regular use of medications, such as opioids and antidepressants, including SSRIs and tricyclic antidepressants",exclusion,healthy,['NCT04457622'],1
+Relative of patient included in the Fondattion FondaMental cohort,inclusion,depression,['NCT05480826'],1
+"Requiring inpatient or outpatient hospitalization in a rehabilitation center,",inclusion,stroke,['NCT05315726'],1
+Resting heart rate ≥40 bpm.,inclusion,breast cancer,['NCT05896566'],1
+retinal operation,exclusion,healthy,['NCT05036629'],1
+Right handed,inclusion,healthy,['NCT04457622'],1
+Right-handed.,inclusion,healthy,['NCT06864065'],1
+"Schizophrenia, schizoaffective disorder or persistent delusional disorder (DSM-5)",exclusion,depression,['NCT05952674'],1
+Screening supine BP ≥145 mm Hg (systolic) or ≥90 mm Hg (diastolic),exclusion,healthy,['NCT07090889'],1
+Secondary,exclusion,depression,['NCT05952674'],1
+septic shock,exclusion,stroke,['NCT04282629'],1
+"Serious infection requiring oral or IV antibiotics, or other clinically significant infection within 14 days prior to screening.",exclusion,breast cancer,['NCT05896566'],1
+"Serum sodium \< 135 mmol/L at the Screening Visit, determined as per central laboratory.",exclusion,hypertension,['NCT06268873'],1
+Serum total bilirubin \> 50 µmol/L,exclusion,hypertension,['NCT06687265'],1
+"Severe acute or chronic medical or laboratory abnormality that may increase the risk associated with study participation or seralutinib administration, unless associated with an ongoing AE and discussed with the Sponsor's medical monitor (MM) (or designee).",exclusion,hypertension,['NCT06274801'],1
+Severe and unstable eating disorders,exclusion,obesity,['NCT04934826'],1
+"Severe aphasia limiting ability to express needs or to fulfil questionnaires, at the discretion of the physician.",exclusion,stroke,['NCT06538974'],1
+"Severe autism Spectrum Disorder (clinical screening, confirmed in cases of doubt by the Social Responsiveness Scale (SRS) Raw-score \> 76, carried out as part of usual care in cases of clinical evidence,",exclusion,depression,['NCT06351501'],1
+"Severe cardiac impairment,",exclusion,hypertension,['NCT04356326'],1
+"Severe cardiac, hepatic or renal failure or ischemic heart disease, due to the risk of severe complications characterized by edema, with or without congestive heart failure.",exclusion,depression,['NCT06351501'],1
+Severe chronic cardiac insufficiency (grade III and IV of NYHA classification).,exclusion,obesity,['NCT03472157'],1
+"Severe chronic kidney disease defined as estimated glomerular filtration rate \< 30 mL/min/1,73m2 using the MDRD-6 formula",exclusion,hypertension,['NCT06687265'],1
+Severe chronic respiratory disease.,exclusion,obesity,['NCT03472157'],1
+"Severe cognitive or psychiatric disorders, chronic alcoholism, drug addiction 8.2 Severe and unstabilised eating disorders: bulimia or history of anorexia 8.3 History of gastric surgery including the ring insertion 8.4 Haemostasis disorders 8.5 Anticoagulant or non-steroidal anti-inflammatory medicines 8.6 Severe liver disease 8.7 Pregnancy or desire to become pregnant or breastfeeding 8.8 Anticipated failure to comply with prolonged medical follow-up 8.9 Large hiatal hernias \> 5 cm, inflammatory (Crohn's) or stenosing small bowel disease, pyloric stenosis and structural abnormalities of the digestive tract 8.10 Systemic lupus erythematous 8.11 Severe oesophagitis and active gastroduodenal ulcer 8.12 Silicone allergy",exclusion,obesity,['NCT05364957'],1
+Severe hearing loss,exclusion,healthy,['NCT04457622'],1
+Severe heart failure (NYHA III_IV),exclusion,hypertension,['NCT05732727'],1
+"Severe hepatic insufficiency,",exclusion,hypertension,['NCT04356326'],1
+Severe psychiatric disorder or other illness that may disrupt the study follow-up or to invalidate the proper understanding of the protocol information and the informed consent,exclusion,obesity,['NCT04934826'],1
+"Severe renal impairment,",exclusion,hypertension,['NCT04356326'],1
+Severe untreated chronic depression,exclusion,depression,['NCT06351501'],1
+Severity score measures using the Boston Diagnostic Aphasia Examination battery scale corresponding to the mild or moderate level (score greater than or equal to 2),inclusion,stroke,['NCT06930131'],1
+Sexually active premenopausal women and men unwilling to use double-barrier contraception.,exclusion,breast cancer,['NCT05696626'],1
+Shoulder and cervical spine surgery less than 6 months old.,exclusion,healthy,['NCT06754774'],1
+Signed and dated written Informed consent form (ICF) in accordance with International Council for Harmonisation-Good Clinical Practice (ICH-GCP) and local legislation prior to admission to the trial.,inclusion,breast cancer,['NCT06324357'],1
+Signed informed consent,inclusion,stroke,['NCT05378126'],1
+Signed informed consent,inclusion,breast cancer,['NCT03017573'],1
+Signed informed consent,inclusion,hypertension,['NCT05521776'],1
+Signed Informed Consent form,inclusion,depression,['NCT05894980'],1
+Signed the written informed consent,inclusion,hypertension,['NCT04356326'],1
+"Significant cognitive impairments: inability to understand simple instructions or give consent of any kind (not included if: LAST scores \< 5/7 in comprehension, and if YES/NO answers are unreliable),",exclusion,stroke,['NCT05315726'],1
+"Significant pain on mobilization of the wrist or elbow (VAS \> 5/10),",exclusion,stroke,['NCT05315726'],1
+Signing of free and informed consent,inclusion,stroke,['NCT05224973'],1
+Simultaneous enrollment in another clinical trial.,exclusion,obesity,['NCT03472157'],1
+Simultaneous participation in any other research protocol,exclusion,depression,['NCT03810482'],1
+Simultaneous participation in any other research protocol,exclusion,hypertension,['NCT03810482'],1
+Singleton pregnancy,inclusion,hypertension,['NCT04356326'],1
+Smokers \>10 cigarettes per day,exclusion,healthy,['NCT06746220'],1
+Smoking \> 10 packs/year (PA),exclusion,obesity,['NCT05364957'],1
+Smoking ≥ 5 cigarettes/day during the past 6 months.,exclusion,obesity,['NCT05783466'],1
+Solid organ transplantation,exclusion,hypertension,['NCT05732727'],1
+Stable and maximum tolerated dose of an ACE inhibitor or an ARB (not both) for at least 4 weeks prior to Screening Visit,inclusion,hypertension,['NCT06268873'],1
+Stable body weight (weight change +/- 5 % for 3 months prior to screening),inclusion,obesity,['NCT05783466'],1
+Stable medical condition over the previous 1 month.,inclusion,healthy,['NCT07090889'],1
+Stage IV (metastatic) breast cancer.,exclusion,breast cancer,['NCT05896566'],1
+Start of disorder (defined by the occurrence of the first thymus episode: characterized depressive disorder or maniac episode with or without mixed characteristics) for 5 years or more,inclusion,depression,['NCT05952674'],1
+stroke \< 20 days,inclusion,stroke,['NCT05224973'],1
+Stroke less than 2 days old,inclusion,stroke,['NCT07065929'],1
+"Stroke, transient ischaemic cerebral attack, valve implantation or valve replacement, carotid surgery, or carotid angioplasty, acute coronary syndrome, or hospitalisation for worsening heart failure within previous 3 months prior to randomisation.",exclusion,hypertension,['NCT06268873'],1
+Subject affiliated to or beneficiary from a French social security regime,inclusion,depression,['NCT05894980'],1
+Subject affiliated to the social security system,inclusion,depression,['NCT05480826'],1
+"Subject being in the exclusion period of another study or provided for by the ""National Volunteer File""",exclusion,depression,['NCT05894980'],1
+Subject beneficiary from a legal protection regime,exclusion,depression,['NCT05894980'],1
+Subject is ≥ 18 years old at inclusion.,inclusion,hypertension,['NCT06945848'],1
+Subject not covered by social security,exclusion,depression,['NCT05894980'],1
+"Subject protected according to the French Public Health Code (e.g. patients under law protection, prisoners, pregnant, parturient or lactating women, and patients under guardianship/curatorship)",exclusion,hypertension,['NCT06945848'],1
+Subject under measure of protection or guardianship of justice,exclusion,depression,['NCT05894980'],1
+Subject undergoing bariatric surgery (OB group) or abdominal surgery (group NO),inclusion,obesity,['NCT03008525'],1
+Subject unlikely to cooperate or low cooperation stated by investigator,exclusion,depression,['NCT05894980'],1
+Subject who are in a dependency or employment with the sponsor or the investigator,exclusion,hypertension,['NCT06945848'],1
+Subject with a BMI greater than 35 kg / m2 (group OB) or less than 30 kg / m² (group NO),inclusion,obesity,['NCT03008525'],1
+Subject with an infection or inflammatory syndrome (CRP\> 10 mg / L and / or white blood cells\> 12000 / mm3),exclusion,obesity,['NCT03008525'],1
+"Subject with definite diagnosis of IIH satisfying the modified Dandy criteria (A to E) ) at the time of initial diagnosis, under BMM including ACZ for more than 1 year",inclusion,hypertension,['NCT06945848'],1
+Subject with intracranial TVS stenosis on dominant transverse sinus and hypoplastic contralateral one (or bilateral TVS stenosis) diagnosed on MRI,inclusion,hypertension,['NCT06945848'],1
+"Subjects abled to understand the information note and abled to sign the consent form,",inclusion,healthy,['NCT05370222'],1
+"Subjects may have received 1 cytotoxic chemotherapy regimen in the metastatic disease setting prior to study entry, but must have recovered from chemotherapy acute toxicity excluding alopecia and Grade 2 peripheral neuropathy.",inclusion,breast cancer,['NCT05696626'],1
+Subjects must be able to attend all scheduled visits and to comply with all trial procedures,inclusion,hypertension,['NCT06945848'],1
+Subjects must be covered by public health insurance,inclusion,hypertension,['NCT06945848'],1
+Subjects must have completed a qualifying last visit in a prior seralutinib PAH study on investigational product (IP) and in accordance with the protocol.,inclusion,hypertension,['NCT06274801'],1
+Subjects subjected to a social security plan.,inclusion,healthy,['NCT05370222'],1
+"Subjects suffering from (according to DSM IV criteria) : Bipolar disorder, Unipolar depression, Schizophrenia, Autism spectrum disorder",inclusion,depression,['NCT05480826'],1
+"Subjects undergoing energy restriction or physical activity weight loss program at the time of inclusion or within the past 6 months,",inclusion,healthy,['NCT05370222'],1
+Subjects with a known hypersensitivity to fulvestrant or to any of the excipients,exclusion,breast cancer,['NCT05696626'],1
+"Subjects with high levels of physical activity (\> 5 h of exercise per week),",inclusion,healthy,['NCT05370222'],1
+"Subjects with stable body weight (variation \< 3% of body weight) until at least 6 months,",inclusion,healthy,['NCT05370222'],1
+Substance abuse,exclusion,stroke,['NCT04759326'],1
+"Surgery within the last 3 months,",inclusion,healthy,['NCT05370222'],1
+"Systolic blood pressure \> 180 mmHg, or DBP \> 110 mmHg at screening.",exclusion,hypertension,['NCT06268873'],1
+Taking a probiotic supplement during the last month prior to inclusion,exclusion,healthy,['NCT06746220'],1
+"Taking medication that may interfere with study results,",inclusion,healthy,['NCT05370222'],1
+tDCS contraindication,exclusion,depression,['NCT05894980'],1
+Temperature ≥ 38.0°C or symptoms of acute self-limiting illness such as upper respiratory tract infection or gastroenteritis within three days prior to vaccine dose.,exclusion,healthy,['NCT06821126'],1
+The parents (or legal representative) must have signed the consent form;,inclusion,obesity,['NCT05032326'],1
+The patient agrees to the submission of tumor (diagnostic pre-treatment core biopsy and post-treatment re-biopsy) and blood samples for central pathology review (CPR) and for translational studies as part of this protocol.,inclusion,breast cancer,['NCT05896566'],1
+The patient has already been included in the study,exclusion,depression,['NCT03810482'],1
+The patient has already been included in the study,exclusion,hypertension,['NCT03810482'],1
+"The patient has been informed of and agrees to data transfer and handling, in accordance with national data protection guidelines.",inclusion,breast cancer,['NCT05896566'],1
+The presence of other significant dermatological conditions that could interfere with the evaluation of the study treatment's safety and efficacy.,exclusion,healthy,['NCT07090889'],1
+Transaminases \> 5 ULN,exclusion,hypertension,['NCT06687265'],1
+treated by ECT or rTMS or tDCS for the current eposide,exclusion,depression,['NCT05894980'],1
+"Treated cohort: the child participated in the OTBB3 study and is aged 16±4 months at inclusion,",inclusion,obesity,['NCT05032326'],1
+"treated with chemotherapy for lung , breast, colon or prostate cancer",inclusion,depression,['NCT06035731'],1
+"Treated with insulin, GLP-1 analogs, acarbose, corticoids, beta-blockers.",exclusion,obesity,['NCT05783466'],1
+"Treated with lipid lowering drugs (fibrates, statins, anti-PCSK9, ezetimibe, cholestyramine) within the last 6 weeks before study entry",exclusion,obesity,['NCT05783466'],1
+Treatment by biotherapy within the 12 months after inclusion,exclusion,obesity,['NCT05364957'],1
+Treatment with any investigational agents within 30 days prior to expected start of trial treatment.,exclusion,breast cancer,['NCT05896566'],1
+"Treatment with carvedilol (≥ 6,25 mg/day) at a stable dose for at least one month",inclusion,hypertension,['NCT06687265'],1
+Treatment with GLP1 (glucagon-like peptide) analogue or insulin,inclusion,obesity,['NCT01501201'],1
+"Treatment with nucleoside/nucleotide analogue for HBV, or direct-acting antiviral treatment for HCV, started for less than 6 months",exclusion,hypertension,['NCT06687265'],1
+"Treatment with orlistat Xénical® or GLP1 analogues or regular consumption of narcotics (heroin, cocaine and amphetamines). Analgesic treatments, including level 3, are authorized during the study.",exclusion,obesity,['NCT05364957'],1
+Treatment with statins started or discontinued for less than 3 months,exclusion,hypertension,['NCT06687265'],1
+Treatment with strong CYP3A4 inhibitors or inducers within 14 days or 5 drug elimination half-lives (whichever is longer) prior to initiation of study treatment.,exclusion,breast cancer,['NCT05896566'],1
+Tumor types :,inclusion,breast cancer,['NCT03017573'],1
+"Two or more diuretic agents (loop diuretic, thiazides and thiazide-like diuretics)",exclusion,hypertension,['NCT05732727'],1
+Type 2 diabetes mellitus with HbA1c \> 7.5 %,inclusion,obesity,['NCT01501201'],1
+"Unable to be followed for medical, social, family, geographic or psychological reasons for the duration of the study,",exclusion,depression,['NCT06035731'],1
+Uncontrolled high blood pressure.,exclusion,depression,['NCT06351501'],1
+Uncontrolled office BP (\>140 and/or 90 mmHg) confirmed by home blood pressure monitoring (\>135/85 mmHg),inclusion,hypertension,['NCT05732727'],1
+Uncorrected sensory deficits,exclusion,stroke,['NCT06930131'],1
+Under antidepressant treatment,inclusion,depression,['NCT05894980'],1
+under mood stabilizer and/or antiepileptic,exclusion,depression,['NCT05894980'],1
+Unstabilised psychiatric illness,exclusion,stroke,['NCT06930131'],1
+"Untreated cohort: the child has never received OT, is aged 30±6 months at inclusion (in order to maximise the number of children in the untreated cohort) and is followed in France.",inclusion,obesity,['NCT05032326'],1
+"Unwilling or unable to comply with all scheduled visits, treatment plan, laboratory tests and other study procedures and the restrictions described in the protocol.",exclusion,healthy,['NCT07090889'],1
+Unwilling or unable to comply with the protocol.,exclusion,breast cancer,['NCT05696626'],1
+Urine albumin creatinine ratio \> 200 mg/g (22.6 mg/mmol) and \< 5000 mg/g (565 mg/mmol) at screening,inclusion,hypertension,['NCT06268873'],1
+Use of dietary supplements,exclusion,obesity,['NCT05783466'],1
+Usual french language,inclusion,stroke,['NCT06930131'],1
+Vaccination with a COVID-19 vaccine other than mRNA vaccine.,exclusion,healthy,['NCT06821126'],1
+Validation of the surgical intervention in a multidisciplinary consultation meeting,inclusion,obesity,['NCT04994665'],1
+Virologically documented (PCR or antigenic test) history of COVID-19 in the past 3 months.,exclusion,healthy,['NCT06821126'],1
+Visceral crisis in need of cytotoxic chemotherapy as assessed by the investigator.,exclusion,breast cancer,['NCT05696626'],1
+"Voluntary weight loss in the last 6 months,",inclusion,healthy,['NCT05370222'],1
+Volunteer patients will be recruited as part of their follow-up at the CHU. Their pathology will be in agreement with that of the research protocol to be optimized.,inclusion,healthy,['NCT05036629'],1
+Vulnerable persons according to article L1121-6 of the CSP,exclusion,depression,['NCT03810482'],1
+Vulnerable persons according to article L1121-6 of the CSP,exclusion,hypertension,['NCT03810482'],1
+"wearer of pacemaker or cardiac defribrillator or vascular clip or prosthesis cardiac or insulin pump or implanted device to deliver medication or hearing implant or prosthesis or vascular shunt or paragraph or screws, plate metal or tattoo or piercing or implanted metal object or lead shot hunt",exclusion,healthy,['NCT05036629'],1
+Who have already undergone a psycho-education or therapeutic patient education programme regarding depression.,exclusion,depression,['NCT06014125'],1
+"Whose indication for hormonal transition has been validated in a multidisciplinary consultation meeting after at least one consultation with the pediatric endocrinologist with clinical examination, blood pressure measurement, and information on hormonal treatments in the context of gender dysphoria.",inclusion,depression,['NCT06351501'],1
+Whose state of health is compatible with follow-up by their GP (possibility of occasional advice from a psychiatrist).,inclusion,depression,['NCT06014125'],1
+Whose state of health requires follow-up by a psychiatrist,exclusion,depression,['NCT06014125'],1
+"Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures",inclusion,hypertension,['NCT06274801'],1
+Willingness and ability to comply with the treatment and follow-up visits.,inclusion,healthy,['NCT07090889'],1
+"Willingness to refrain from current treatments, in compliance with the list of prohibited medications.",inclusion,healthy,['NCT07090889'],1
+With a prescription for an antidepressant started less than 2 months before inclusion in the trial.,inclusion,depression,['NCT06014125'],1
+"With a spontaneous ICH, i.e. non traumatic",inclusion,stroke,['NCT04621357'],1
+"With an acute, ischaemic or haemorrhagic outpatient or inpatient stroke",inclusion,stroke,['NCT07065929'],1
+WOCBP who are not abstinent and intend to be sexually active with a non-sterilized male partner must be willing to use a highly effective method of contraception from consent through 30 days following the last administration of IP.,inclusion,hypertension,['NCT06274801'],1
+"Woman deprived of liberty, under guardianship or trusteeship.",exclusion,breast cancer,['NCT06418126'],1
+Woman of childbearing potential who has a positive serum pregnancy test (within 72 hours) prior to the start of treatment.,exclusion,breast cancer,['NCT04725331'],1
+"woman of childbearing without a highly effective contraceptive measure (combined or progestogen-only hormonal contraception associated with inhibition of ovulation, intrauterine device or intrauterine hormone-releasing system)",exclusion,hypertension,['NCT05732727'],1
+Women aged 18 and over;,inclusion,breast cancer,['NCT06418126'],1
+Women between 18 and 60 years old (including 60),inclusion,healthy,['NCT06864065'],1
+Women of childbearing potential (WOCBP) must have a negative urine or serum pregnancy test at enrollment visit before first administration of Investigational Product (IP) in this study.,inclusion,hypertension,['NCT06274801'],1
+Women of childbearing potential must use highly effective contraceptive methods during the treatment period and for 10 days after the final dose.,inclusion,breast cancer,['NCT05896566'],1
+Women taking low-dose aspirin regularly before pregnancy (except ART indication),exclusion,hypertension,['NCT05521776'],1
+"Women under the protection of justice,",exclusion,hypertension,['NCT04356326'],1
+Women who are breast feeding,exclusion,breast cancer,['NCT05696626'],1
+Women who are pregnant or in the period of lactating.,exclusion,breast cancer,['NCT05896566'],1
+"Women who are pregnant, breastfeeding, or have given birth in the last 6 months",exclusion,healthy,['NCT04457622'],1
+Women with TNBC breast cancer who meet the following criteria:,inclusion,breast cancer,['NCT06418126'],1
+Written Informed Consent (IC) must be signed and dated by the patient and the Investigator prior to randomization.,inclusion,breast cancer,['NCT05896566'],1
+Written informed consent obtained from the participant,inclusion,hypertension,['NCT05732727'],1
+Written informed consent obtained from the participant.,inclusion,healthy,['NCT06821126'],1
+"Written informed consent obtained from the patient prior to performing any protocol-related procedures, including screening biopsy, blood samples and questionnaires",inclusion,breast cancer,['NCT05981326'],1
+Written informed consent to participate in the study,inclusion,hypertension,['NCT06687265'],1
+Written informed consent to participate in the trial and to donation of tissue and blood samples,inclusion,breast cancer,['NCT04985266'],1
+Younger than 18 years old,exclusion,depression,['NCT05894980'],1

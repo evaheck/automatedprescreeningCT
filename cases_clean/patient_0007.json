@@ -1,0 +1,3083 @@
+{
+  "text": "A 56-year-old female with rheumatoid arthritis (RA) and no known prior history of systemic lupus erythematosus or depression presented with suicidal ideations, joint pains and a malar rash after a recent change in her Adalimumab dose. She was treated for an acute ATIL episode based on her symptoms and serologies which were positive for anti-double-stranded deoxyribonucleic acid antibody. An inpatient psychiatric consultation determined that the patient's suicidal ideations may be an associated symptom of her current ATIL episode or possibly secondary to her chronic pain and debilitation from her RA. The patient's Adalimumab was discontinued and she was treated with a course of intravenous glucocorticoid. The patient's suicidal ideations resolved and her anti-double-stranded deoxyribonucleic acid antibody serologies became negative. She was subsequently started on Abatacept and has achieved remission of her RA with no further suicidal ideations.",
+  "entities": [
+    {
+      "id": "E21708E",
+      "text": "56-year-old",
+      "label": "Age",
+      "offset": [
+        2,
+        13
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EFEF86D"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "AgeType": "Exact"
+      }
+    },
+    {
+      "id": "E2A40A4",
+      "text": "female",
+      "label": "Gender",
+      "offset": [
+        14,
+        20
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EFEF86D"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E8F64C8",
+      "text": "rheumatoid arthritis",
+      "label": "Condition",
+      "offset": [
+        26,
+        46
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E018F13"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EFEF86D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E803130"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1A3454"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1AC11F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3143D0"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E12C230"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E2A5060"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9930DC"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E018F13",
+      "text": "RA",
+      "label": "Condition",
+      "offset": [
+        48,
+        50
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EFEF86D"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E803130"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1A3454"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1AC11F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3143D0"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E12C230"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E2A5060"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9930DC"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EFEF86D",
+      "text": "no",
+      "label": "Logical",
+      "offset": [
+        56,
+        58
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "LogicalType": "NOT"
+      }
+    },
+    {
+      "id": "E803130",
+      "text": "systemic lupus erythematosus",
+      "label": "Condition",
+      "offset": [
+        82,
+        110
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1A3454"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1AC11F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3143D0"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E12C230"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E2A5060"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9930DC"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EA03222",
+      "text": "or",
+      "label": "Logical",
+      "offset": [
+        111,
+        113
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "LogicalType": "OR"
+      }
+    },
+    {
+      "id": "E1A3454",
+      "text": "depression",
+      "label": "Condition",
+      "offset": [
+        114,
+        124
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E1AC11F"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E3143D0"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E12C230"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E2A5060"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9930DC"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E1AC11F",
+      "text": "suicidal ideations",
+      "label": "Observation",
+      "offset": [
+        140,
+        158
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E3143D0"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E12C230"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E2A5060"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9930DC"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E3143D0",
+      "text": "joint pains",
+      "label": "Observation",
+      "offset": [
+        160,
+        171
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E12C230"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E2A5060"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9930DC"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E12C230",
+      "text": "malar rash",
+      "label": "Observation",
+      "offset": [
+        178,
+        188
+      ],
+      "relations": [
+        {
+          "type": "TreatedBy",
+          "target_id": "E2A5060"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9930DC"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E2A5060",
+      "text": "Adalimumab",
+      "label": "Drug_substance",
+      "offset": [
+        218,
+        228
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EBCA683"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EBCA683",
+      "text": "acute",
+      "label": "Qualifier",
+      "offset": [
+        258,
+        263
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E9930DC",
+      "text": "ATIL",
+      "label": "Condition",
+      "offset": [
+        264,
+        268
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E56C7BE"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E56C7BE",
+      "text": "symptoms",
+      "label": "Metadata",
+      "offset": [
+        290,
+        298
+      ],
+      "relations": [
+        {
+          "type": "DiagBy",
+          "target_id": "EE546E4"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "EEBD446"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {
+        "MetadataType": "Observation"
+      }
+    },
+    {
+      "id": "EE546E4",
+      "text": "serologies",
+      "label": "Procedure",
+      "offset": [
+        303,
+        313
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E7D78CA"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E7D78CA",
+      "text": "positive",
+      "label": "Qualifier",
+      "offset": [
+        325,
+        333
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EEBD446",
+      "text": "anti-double-stranded deoxyribonucleic acid antibody",
+      "label": "Measurement",
+      "offset": [
+        338,
+        389
+      ],
+      "relations": [
+        {
+          "type": "DiagBy",
+          "target_id": "E194191"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EDE6599"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E194191",
+      "text": "inpatient psychiatric consultation",
+      "label": "Procedure",
+      "offset": [
+        394,
+        428
+      ],
+      "relations": [
+        {
+          "type": "HasPerson",
+          "target_id": "E7FAA09"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E7FAA09",
+      "text": "patient",
+      "label": "Person",
+      "offset": [
+        449,
+        456
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasCoreference",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "HasCoreference",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "GenderType": "All",
+        "PersonType": "Patient"
+      }
+    },
+    {
+      "id": "EDE6599",
+      "text": "suicidal ideations",
+      "label": "Observation",
+      "offset": [
+        459,
+        477
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E54C06D"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EB32311",
+      "text": "may",
+      "label": "Logical",
+      "offset": [
+        478,
+        481
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "LogicalType": "NOT"
+      }
+    },
+    {
+      "id": "E54C06D",
+      "text": "symptom",
+      "label": "Metadata",
+      "offset": [
+        499,
+        506
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E2EB9E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EEF6522"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {
+        "MetadataType": "Observation"
+      }
+    },
+    {
+      "id": "E2EB9E3",
+      "text": "current",
+      "label": "Qualifier",
+      "offset": [
+        514,
+        521
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EEF6522",
+      "text": "ATIL",
+      "label": "Condition",
+      "offset": [
+        522,
+        526
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E9B35E3"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EEC3FFD",
+      "text": "or",
+      "label": "Logical",
+      "offset": [
+        535,
+        537
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "LogicalType": "OR"
+      }
+    },
+    {
+      "id": "E9B35E3",
+      "text": "chronic pain",
+      "label": "Observation",
+      "offset": [
+        564,
+        576
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E0587AF"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E0587AF",
+      "text": "debilitation",
+      "label": "Observation",
+      "offset": [
+        581,
+        593
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "EADFF78"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EADFF78",
+      "text": "RA",
+      "label": "Condition",
+      "offset": [
+        603,
+        605
+      ],
+      "relations": [
+        {
+          "type": "HasPerson",
+          "target_id": "E18C784"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E47BB83"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E1AC924"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E5611BA"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E18C784",
+      "text": "patient",
+      "label": "Person",
+      "offset": [
+        611,
+        618
+      ],
+      "relations": [
+        {
+          "type": "HasCoreference",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "GenderType": "All",
+        "PersonType": "Patient"
+      }
+    },
+    {
+      "id": "E47BB83",
+      "text": "Adalimumab",
+      "label": "Drug_substance",
+      "offset": [
+        621,
+        631
+      ],
+      "relations": [
+        {
+          "type": "HasStatus",
+          "target_id": "EDA1DFF"
+        },
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EDA1DFF",
+      "text": "discontinued",
+      "label": "Status",
+      "offset": [
+        636,
+        648
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "StatusType": "Inactive"
+      }
+    },
+    {
+      "id": "E1AC924",
+      "text": "glucocorticoid",
+      "label": "Drug_substance",
+      "offset": [
+        698,
+        712
+      ],
+      "relations": [
+        {
+          "type": "HasPerson",
+          "target_id": "EB0AE63"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EB0AE63",
+      "text": "patient",
+      "label": "Person",
+      "offset": [
+        718,
+        725
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "GenderType": "All",
+        "PersonType": "Patient"
+      }
+    },
+    {
+      "id": "E5611BA",
+      "text": "suicidal ideations",
+      "label": "Observation",
+      "offset": [
+        728,
+        746
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "E6DA3C7"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E3694AC"
+        },
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "TreatedBy",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E6DA3C7",
+      "text": "resolved",
+      "label": "Qualifier",
+      "offset": [
+        747,
+        755
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E3694AC",
+      "text": "anti-double-stranded deoxyribonucleic acid antibody",
+      "label": "Measurement",
+      "offset": [
+        764,
+        815
+      ],
+      "relations": [
+        {
+          "type": "DiagBy",
+          "target_id": "E27CFB2"
+        },
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E153349"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E1E6913"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E27CFB2",
+      "text": "serologies",
+      "label": "Procedure",
+      "offset": [
+        816,
+        826
+      ],
+      "relations": [
+        {
+          "type": "HasQualifier",
+          "target_id": "EEF39D2"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "E931ACC"
+        },
+        {
+          "type": "HasStatus",
+          "target_id": "EB34969"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "EEF39D2",
+      "text": "negative",
+      "label": "Qualifier",
+      "offset": [
+        834,
+        842
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E931ACC",
+      "text": "subsequently",
+      "label": "Status",
+      "offset": [
+        852,
+        864
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "StatusType": "Inactive"
+      }
+    },
+    {
+      "id": "EB34969",
+      "text": "started",
+      "label": "Status",
+      "offset": [
+        865,
+        872
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {
+        "StatusType": "Inactive"
+      }
+    },
+    {
+      "id": "E153349",
+      "text": "Abatacept",
+      "label": "Drug_substance",
+      "offset": [
+        876,
+        885
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E1E6913",
+      "text": "remission",
+      "label": "Observation",
+      "offset": [
+        903,
+        912
+      ],
+      "relations": [
+        {
+          "type": "DueTo",
+          "target_id": "E42EF0E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E42EF0E",
+      "text": "RA",
+      "label": "Condition",
+      "offset": [
+        920,
+        922
+      ],
+      "relations": [
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        },
+        {
+          "type": "DueTo",
+          "target_id": "EF8CF2C"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "id": "E28F833",
+      "text": "no",
+      "label": "Logical",
+      "offset": [
+        928,
+        930
+      ],
+      "relations": [],
+      "attributes": {
+        "LogicalType": "NOT"
+      }
+    },
+    {
+      "id": "EF8CF2C",
+      "text": "suicidal ideations",
+      "label": "Observation",
+      "offset": [
+        939,
+        957
+      ],
+      "relations": [],
+      "attributes": {}
+    },
+    {
+      "id": "AUTO_PERSON_AGE_E21708E",
+      "text": "person",
+      "label": "Person",
+      "offset": [
+        -1,
+        -1
+      ],
+      "attributes": {
+        "PersonType": "Patient"
+      },
+      "relations": [
+        {
+          "type": "HasAge",
+          "target_id": "E21708E"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EFEF86D"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ]
+    },
+    {
+      "id": "AUTO_PERSON_GENDER_E2A40A4",
+      "text": "person",
+      "label": "Person",
+      "offset": [
+        -1,
+        -1
+      ],
+      "attributes": {
+        "PersonType": "Patient"
+      },
+      "relations": [
+        {
+          "type": "HasGender",
+          "target_id": "E2A40A4"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EFEF86D"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EA03222"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EB32311"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "EEC3FFD"
+        },
+        {
+          "type": "HasLogical",
+          "target_id": "E28F833"
+        }
+      ]
+    }
+  ],
+  "_debug": {
+    "relation_cleaning": {
+      "total_in": 1035,
+      "kept": 601,
+      "removed": 434,
+      "by_reason": {
+        "unknown_type": 0,
+        "bad_arg1": 420,
+        "missing_target": 0,
+        "bad_arg2": 14
+      }
+    },
+    "auto_person_added": {
+      "age": 1,
+      "gender": 1
+    }
+  }
+}

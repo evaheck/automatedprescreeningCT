@@ -1,0 +1,61 @@
+NCTId,BriefTitle,OverallStatus,Sex,HealthyVolunteers,Pathology
+NCT06864065,Study of Emotional Regulation and Underlying Prefrontal Activity in Binge Eating Disorder,RECRUITING,FEMALE,True,healthy
+NCT06754774,Shoulder Endurance Test: Normative Values in a Population of Female Handball Players Aged 14 to 18 in Intensive Training Structures.,NOT_YET_RECRUITING,FEMALE,True,healthy
+NCT04423874,The Effect of Exposure to Aversive Non-verbal Vocalizations on Pain Tolerance,RECRUITING,ALL,True,healthy
+NCT06821126,Study Comparing Safety and Immunogenicity of Intranasal COVID-19 Vaccine and mRNA Booster in Healthy Adults,RECRUITING,ALL,True,healthy
+NCT06746220,Effect of Physical Activity and/or Probiotics on Body Composition and Physiological Parameters in Women,RECRUITING,FEMALE,True,healthy
+NCT05036629,Development of MRI Protocols and Associated Neuro-physiological Explorations in Healthy and Pathological Subjects,RECRUITING,ALL,True,healthy
+NCT06676839,Effectiveness of the WHO ICOPE (Integrated Care for Older People) Program in Preventing Age-related Functional Decline (ICOPE Trial.Fr),RECRUITING,ALL,False,healthy
+NCT07090889,Study of KM-023 in Healthy Volunteers and Patients With Olmsted Syndrome.,RECRUITING,ALL,True,healthy
+NCT05370222,Adaptations of Exercise Energy Metabolism in Response to Weight Loss in Healthy Normal Weight People,RECRUITING,ALL,True,healthy
+NCT04457622,Language and Brain Rhythms,RECRUITING,ALL,True,healthy
+NCT05952674,Treatment Resistant Depression and Vagus Nerve Stimulation,RECRUITING,ALL,False,depression
+NCT05480826,"Familial and Functional Study of Genetic Variants Identified in People With Schizophrenia, Bipolar Disorder, Autism Spectrum Disorder or Resistant Depression",RECRUITING,ALL,True,depression
+NCT06630065,Study of the Neural Circuits Underlying the Negative Emotional Bias of Depressive Disorders and Their Response to Ketamine,RECRUITING,ALL,True,depression
+NCT05632757,Anticipated Patient and Caregiver Burden,RECRUITING,ALL,False,depression
+NCT05894980,How to Reduce Suicidal Thoughts and Impulsivity in Depression,RECRUITING,ALL,False,depression
+NCT06351501,Evaluation of the Effectiveness of Hormonal Treatment in Adolescents Suffering from Gender Dysphoria,RECRUITING,ALL,False,depression
+NCT05698589,COMpassion for Psychiatric Disorders And Self-Stigma,RECRUITING,ALL,False,depression
+NCT06014125,Paramedical Tele-education on Moderate Depressive Episodes,RECRUITING,ALL,False,depression
+NCT03810482,Pedometers and Walking Tests for Pulmonary Hypertension Patients,RECRUITING,ALL,False,depression
+NCT06035731,Evaluation of the Medical Service by Socio-aesthetics in Oncology,RECRUITING,ALL,False,depression
+NCT06312631,Home Grip Assistance Glove on the Use of the Upper Limb and Compliance Factors in Brain-injured Adults,RECRUITING,ALL,False,stroke
+NCT06538974,Adherence to Long-term Exoskeleton Rehabilitation to Treat Lower Limb Weakness and / or Deficiencies in Adult Population,RECRUITING,ALL,False,stroke
+NCT06930131,Effect of Anomia Rehabilitation Combined With Metacognitive Training in Patients With Chronic Vascular Aphasia,RECRUITING,ALL,False,stroke
+NCT05224973,Fine Motor Skills and Post-Stroke Swallowing,RECRUITING,ALL,False,stroke
+NCT05378126,Evaluation of the Prognostic Impact of a Neuro-vascular Examination Associated with Cerebral MRI in the Acute Phase of Infectious Endocarditis,RECRUITING,ALL,False,stroke
+NCT05315726,The Effects of Muscle Vibration on the Development of Spasticity and Neuroplasticity in a Post-stroke Population,RECRUITING,ALL,False,stroke
+NCT04759326,Neurorehabilitation Through Hippotherapy of a Brain Stroke,RECRUITING,ALL,False,stroke
+NCT04621357,Influence of Cerebral Oedema in Intracerebral Haemorrhage,RECRUITING,ALL,False,stroke
+NCT07065929,"Impact of Early, Personalized Nutritional Management on 1-month Mortality After Acute Stroke",NOT_YET_RECRUITING,ALL,False,stroke
+NCT04282629,Cerebral Hemodynamic Optimization by Milrinone to Prevent Delayed Cerebral Ischemia,RECRUITING,ALL,False,stroke
+NCT06900374,Efficacy and Safety of Vaginal Radiofrequency for Vulvovaginal Atrophy in Breast Cancer Patients,RECRUITING,FEMALE,False,breast cancer
+NCT06393374,Sacituzumab Tirumotecan (MK-2870) Plus Pembrolizumab Versus TPC in TNBC Who Did Not Achieve pCR (MK-2870-012),RECRUITING,ALL,False,breast cancer
+NCT03017573,"Prospective Biobanking Study in Cancer Patients Aiming at Better Understand the Link Between the Molecular Alterations of the Tumor Itself, Its Microenvironment and Immune Response (SCANDARE)",RECRUITING,ALL,False,breast cancer
+NCT05981326,Prediction in Silico of Pathological Response in a Prospective Cohort Study of Early Breast Cancer Patients,RECRUITING,ALL,False,breast cancer
+NCT06324357,Beamion BCGC-1: A Study to Find a Suitable Dose of Zongertinib Used Alone and in Combination With Other Treatments to Test Whether it Helps People With Different Types of HER2+ Cancer That Has Spread,RECRUITING,ALL,False,breast cancer
+NCT05896566,A Window-of-Opportunity Trial of Giredestrant +/- Triptorelin vs. Anastrozole + Triptorelin in Premenopausal Patients With ER-positive/HER2-negative Early Breast Cancer,RECRUITING,FEMALE,False,breast cancer
+NCT04985266,A Trial of Early Detection of Molecular Relapse With Circulating Tumour DNA Tracking and Treatment With Palbociclib Plus Fulvestrant Versus Standard Endocrine Therapy in Patients With ER Positive HER2 Negative Breast Cancer,RECRUITING,ALL,False,breast cancer
+NCT04725331,A Clinical Trial Assessing BT-001 Alone and in Combination With Pembrolizumab in Metastatic or Advanced Solid Tumors,RECRUITING,ALL,False,breast cancer
+NCT05696626,Evaluation of Lasofoxifene Combined With Abemaciclib Compared With Fulvestrant Combined With Abemaciclib in Locally Advanced or Metastatic ER+/HER2- Breast Cancer With an ESR1 Mutation,RECRUITING,ALL,False,breast cancer
+NCT06418126,Prediction of Radiotherapy Efficacy in Patients With Triple-negative Breast Cancer,RECRUITING,FEMALE,False,breast cancer
+NCT05783466,Dairy Lipids and Cardiometabolic Risk,RECRUITING,ALL,False,obesity
+NCT04994665,Evaluation of Omentopexy on Gastro-oesophageal Reflux Following Sleeve Gastrectomy,RECRUITING,ALL,False,obesity
+NCT06538220,"Evaluation of the Care Pathway Offered by the ""Chronic Disease Unit"" to Obese Patients",RECRUITING,ALL,False,obesity
+NCT03472157,A Randomized Controlled Study Evaluating Bariatric Surgery as a Treatment for Severe NASH With Advanced Liver Fibrosis in Non-severe Obese Patients,RECRUITING,ALL,False,obesity
+NCT04934826,Comparison of the Absorption of Hydrolyzed or Intact Proteins in Morbid Obese Patients After the Roux Y Gastric Bypass,RECRUITING,ALL,False,obesity
+NCT05460104,Impact of the Use of VERT on Body Image After Bariatric Surgery,RECRUITING,ALL,False,obesity
+NCT01501201,Comparison of Gastric By-Pass and Optimized Medical Treatment in Obese Diabetic Patients,RECRUITING,ALL,False,obesity
+NCT03008525,Vitamin D and Its Metabolites Quantification in Adipose Tissues of Obese and Non-obese Patients.,RECRUITING,ALL,False,obesity
+NCT05032326,Long-term Interventional Follow-up Study of Children With Prader-Willi Syndrome Included in the OTBB3 Clinical Trial,RECRUITING,ALL,False,obesity
+NCT05364957,Intragastric Balloon in Obese Patients With Uncontrolled Asthma,RECRUITING,ALL,False,obesity
+NCT05198674,SPYRAL AFFIRM Global Study of RDN With the Symplicity Spyral RDN System in Subjects With Uncontrolled HTN,RECRUITING,ALL,False,hypertension
+NCT06268873,A Phase III Study to Investigate the Efficacy and Safety of Baxdrostat in Combination With Dapagliflozin on CKD Progression in Participants With CKD and High Blood Pressure.,RECRUITING,ALL,False,hypertension
+NCT05732727,Intensification of Blood Pressure Lowering Therapeutics Based on Diuretics Versus Usual Management for Uncontrolled Hypertension IN Patients With Moderate to Severe Chronic Kidney Disease,RECRUITING,ALL,False,hypertension
+NCT06687265,Effects of Metformin on Hepatic Venous Pressure Gradient in Patients With Cirrhosis and Portal Hypertension,RECRUITING,ALL,False,hypertension
+NCT04356326,Chronic Hypertension and Acetyl Salicylic Acid in Pregnancy,RECRUITING,FEMALE,False,hypertension
+NCT06274801,Open-label Extension Study of Seralutinib in Adult Subjects With PAH (PROSERA-EXT),RECRUITING,ALL,False,hypertension
+NCT03810482,Pedometers and Walking Tests for Pulmonary Hypertension Patients,RECRUITING,ALL,False,hypertension
+NCT06945848,Venous Stenting Evaluation in Patients With Intracranial Hypertension Under Long-term Acetazolamide,NOT_YET_RECRUITING,ALL,False,hypertension
+NCT04520048,Vascular Biomarkers Predictive of the Progression from Gestational Hypertension to Preeclampsia in Pregnant Women,RECRUITING,FEMALE,False,hypertension
+NCT05521776,Impact of First-trimester Preeclampsia Screening on Perinatal and Maternal Morbidity (RANSPRE),RECRUITING,FEMALE,False,hypertension

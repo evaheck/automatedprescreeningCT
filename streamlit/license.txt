@@ -1,0 +1,7 @@
+This repository uses dual licensing:
+
+- Code: PolyForm Noncommercial 1.0.0 (see LICENSE-CODE)
+- Data & documentation: Creative Commons Attribution-NonCommercial 4.0 International (see LICENSE-DATA)
+
+Commercial use is NOT permitted under these licenses.
+For commercial licensing, please contact the author.
