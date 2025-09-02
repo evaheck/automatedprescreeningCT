@@ -1,0 +1,2 @@
+cases_clean/*.json filter=lfs diff=lfs merge=lfs -text
+criteria_matches/*.json filter=lfs diff=lfs merge=lfs -text
